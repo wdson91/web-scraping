@@ -1,0 +1,1265 @@
+[
+  {
+    "link": "https://pt.linkedin.com/jobs/view/business-unit-director-at-akapeople-3633686588?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=whwChltd8lBdK0h5GcssRA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Business Unit Director",
+    "company": "akapeople",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/diretor-de-produ%C3%A7%C3%A3o-at-proman-search-portugal-3631755718?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=UfY2j4M%2Fd4fSlffdLhR9KA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Diretor de produção",
+    "company": "PROMAN Search Portugal",
+    "location": "Guimarães, Braga, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/planeador-de-produ%C3%A7%C3%A3o-at-ogma-ind%C3%BAstria-aeron%C3%A1utica-de-portugal-s-a-3632570722?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=U8NAtd77grFqx%2BzbPp2A1w%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Planeador de Produção",
+    "company": "OGMA-Indústria Aeronáutica de Portugal, S.A.",
+    "location": "Lisboa e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/business-development-manager-at-aon-3636635975?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=dw21aoIsMdyRLAJHKDTc5A%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Business Development Manager",
+    "company": "Aon",
+    "location": "Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-de-projetos-industriais-m-f-at-grupo-constant-3631788116?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=l8d5EWzzaMaec8UKdLVTUw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor de Projetos Industriais (m/f)",
+    "company": "Grupo Constant",
+    "location": "Porto, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/respons%C3%A1vel-de-forma%C3%A7%C3%A3o-tecnologias-de-informa%C3%A7%C3%A3o-comunica%C3%A7%C3%A3o-e-eletr%C3%B3nica-at-egor-3634751560?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=LbSdCBTj%2B%2FfiaKPSp%2Bf2WA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Responsável de Formação - Tecnologias de Informação, Comunicação e Eletrónica",
+    "company": "EGOR",
+    "location": "Guimarães, Braga, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-comercial-at-tecnoveritas-%E2%80%93-services-of-engineering-and-systems-technology-3633793680?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=F1lSNcUZXAoDqj3z9q4BuA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor Comercial",
+    "company": "TecnoVeritas – Services of Engineering and Systems Technology",
+    "location": "Mafra, Lisboa, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engineer-at-cest-com%C3%A9rcio-e-ind%C3%BAstria-lda-3636430845?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=St%2Fsg2F4WyqmttcUYwdDZQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Engineer",
+    "company": "CEST - Comércio e Indústria, Lda",
+    "location": "Sintra, Lisboa, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/sales-representative-at-sanofi-3629473732?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=c5x4ISAi3xxyQ9wYUxswsg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Sales representative",
+    "company": "Sanofi",
+    "location": "Porto Salvo, Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/senior-consultant-portugal-organisational-strategy-at-korn-ferry-3630383382?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=fpEweK1X26%2FV3wb%2Fl1iSkQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Senior Consultant- Portugal- Organisational Strategy",
+    "company": "Korn Ferry",
+    "location": "Funchal e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-comercial-zona-norte-at-egor-3634750752?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=SMTDWYoYg1a%2BZ7g7EKwLCw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor Comercial - Zona Norte",
+    "company": "EGOR",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/controller-financeiro-mo%C3%A7ambique-at-proman-search-portugal-3631755429?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=xxeAZN%2FcatHCFS4RwEsjWQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Controller Financeiro - Moçambique",
+    "company": "PROMAN Search Portugal",
+    "location": "Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/hr-data-analytics-at-ogma-ind%C3%BAstria-aeron%C3%A1utica-de-portugal-s-a-3635374484?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=DJ1%2FqZvivakPhMkLAqDLWw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "HR Data Analytics",
+    "company": "OGMA-Indústria Aeronáutica de Portugal, S.A.",
+    "location": "Lisboa e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/respons%C3%A1vel-de-produ%C3%A7%C3%A3o-m-f-santa-maria-da-feira-at-adecco-recruitment-3635415870?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=LnBkD0PZX0QEPkJZ%2BG7bOA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Responsável de Produção (m/f) | Santa Maria da Feira",
+    "company": "Adecco Recruitment",
+    "location": "Aveiro e Região",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-a-de-stocks-j%C3%BAnior-at-michael-page-3632902732?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=12lWZa2QHIW9WdLpAmBShg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor(a) de Stocks (Júnior)",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/respons%C3%A1vel-de-melhoria-cont%C3%ADnua-at-michael-page-3629569091?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=42ZyhxcFDsBQ3fyBISRPiw%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Responsável de Melhoria Contínua",
+    "company": "Michael Page",
+    "location": "Vieira de Leiria, Leiria, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/respons%C3%A1vel-log%C3%ADstica-secund%C3%A1ria-at-michael-page-3630368527?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=4v%2FRzQe%2FS1Fg9JiAWsG07A%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Responsável Logística Secundária",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/junior-buyer-industry-at-michael-page-3624405875?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=TmSvB9wamUWtiq0SIF0FUQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Junior Buyer - Industry",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-de-qualidade-m-f-at-teixeira-duarte-engenharia-e-constru%C3%A7%C3%B5es-3634609239?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=ok4T690%2BCZixUu7%2BLnUTIQ%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico de Qualidade (m/f)",
+    "company": "Teixeira Duarte - Engenharia e Construções",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/senior-team-lead-at-dsv-global-transport-and-logistics-3537610053?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=GQT2nrXvpldh0pYn7e77aQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Senior Team Lead",
+    "company": "DSV - Global Transport and Logistics",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/customer-software-support-at-trumpf-portugal-3634104017?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=LfUMJ29Xh1mmSzlLEcEKiA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Customer Software Support",
+    "company": "TRUMPF Portugal",
+    "location": "Lisboa e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engenheiro-de-fiabilidade-m-f-at-argo-3632966597?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=bOyhCWdvkNPGrQrsQ1AO%2FQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Fiabilidade (m/f)",
+    "company": "ARGO",
+    "location": "Estarreja, Aveiro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/product-assurance-engineer-ind%C3%BAstria-aeroespacial-at-michael-page-3625528466?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=bcXZHZ0JampDNXzRe4zV4w%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Product Assurance Engineer - Indústria Aeroespacial",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/project-specialist-at-dsv-global-transport-and-logistics-3537608152?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=yp7r3ulOTNWhvflY9y13Vw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Project Specialist",
+    "company": "DSV - Global Transport and Logistics",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/especialista-em-armazenamento-at-ensaioper%C3%ADcia-lda-3634335763?refId=TyKOgsYuayF9JXnJJhRY0Q%3D%3D&trackingId=K2JYzmo%2BteenzuDOWU2IUQ%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Especialista em armazenamento",
+    "company": "ENSAIOPERÍCIA, LDA",
+    "location": "Nelas, Viseu, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/data-analyst-at-mind-source-3629558549?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=aYcLbC9YJjzjNqYPW4KWrg%3D%3D&position=1&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Mind Source",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-de-projetos-at-gestamp-3637365541?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=XzKyScD5s%2FHilfSvzdFkcw%3D%3D&position=2&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor de Projetos",
+    "company": "Gestamp",
+    "location": "Vendas Novas, Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/erp-consultant-csb-system-at-sicasal-ind%C3%BAstria-e-com%C3%A9rcio-de-carnes-3632593002?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=8pe9iibN%2BGymgQ3%2BTND26A%3D%3D&position=3&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "ERP Consultant - CSB System",
+    "company": "Sicasal - Indústria e Comércio de Carnes",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/consultor-comercial-cam-at-cadnea-3634732782?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=Oi7YEvs2jdct9SjJ%2FN1OwA%3D%3D&position=4&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Comercial CAM",
+    "company": "CADNEA",
+    "location": "Leiria, Leiria, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/especialista-comercial-at-manpower-3638328580?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=nKVyHoZ7BPQp0%2Fwp0jLx3Q%3D%3D&position=5&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Especialista comercial",
+    "company": "Manpower",
+    "location": "Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-de-projeto-desenvolvimento-at-babel-3564884948?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=KXRyuXN%2BrUZd4n5K9qyDCg%3D%3D&position=6&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor de Projeto (Desenvolvimento)",
+    "company": "Babel",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engenheiro-log%C3%ADstico-at-gestamp-3630320065?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=8MRGcJENoa4oM7sg2CALtA%3D%3D&position=7&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro Logístico",
+    "company": "Gestamp",
+    "location": "Vendas Novas, Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/mechanical-design-engineer-m-f-at-wyser-3628775207?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=R0ct9Z6VNdRyR%2FqsGhI3Lw%3D%3D&position=8&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Mechanical Design Engineer (M/F)",
+    "company": "Wyser",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-superior-de-engenharia-de-processo-m-f-at-smp-automotive-global-3630972312?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=6uZ%2B%2Bar3%2F%2BgFe7OedFHUrQ%3D%3D&position=9&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico Superior de Engenharia de Processo (M/F)",
+    "company": "SMP Automotive Global",
+    "location": "Palmela, Setúbal, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/assistente-administrativo-a-p%C3%B3voa-de-santa-iria-at-grupo-pinto-cruz-3634607368?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=%2FWMuXkqiVAD0vXGuoD%2FqfA%3D%3D&position=10&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente Administrativo/a | Póvoa de Santa Iria",
+    "company": "Grupo Pinto & Cruz",
+    "location": "Póvoa de Santa Iria, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/supervisor-a-de-produ%C3%A7%C3%A3o-noite-at-michael-page-3631330700?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=CKSEnhGqIKDN4U0G%2BlTsuA%3D%3D&position=11&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Supervisor /a de Produção - Noite",
+    "company": "Michael Page",
+    "location": "Setúbal, Setúbal, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-a-de-manuten%C3%A7%C3%A3o-at-vestas-3634370356?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=YiSQd42vzPjYijeQ1hpwzg%3D%3D&position=12&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico/a de manutenção",
+    "company": "Vestas",
+    "location": "Viseu, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-de-suporte-e-implementa%C3%A7%C3%A3o-cad-at-cadnea-3634730170?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=7fspNiy%2Bm9fUkNh3F%2FW%2FFg%3D%3D&position=13&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico de suporte e implementação CAD",
+    "company": "CADNEA",
+    "location": "Leiria, Leiria, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/site-manager-industry-at-michael-page-3629571044?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=vqf7KYPOUhL5leSeNWtNvA%3D%3D&position=14&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Site Manager - Industry",
+    "company": "Michael Page",
+    "location": "Setúbal, Setúbal, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/supervisor-de-produ%C3%A7%C3%A3o-at-gestamp-3637365529?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=ZtYfix82ZPyOChS5GYM7Ig%3D%3D&position=15&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Supervisor de Produção",
+    "company": "Gestamp",
+    "location": "Vendas Novas, Évora, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/consultor-de-neg%C3%B3cios-at-kw-portugal-3635691926?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=73VCJYg3iOWpkz1kyepIHw%3D%3D&position=16&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor de negócios",
+    "company": "KW Portugal",
+    "location": "Cascais, Lisboa, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/sales-representative-at-arthrex-portugal-3635256181?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=QCxFiWHbILnGH7GqKXB0qQ%3D%3D&position=17&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Sales Representative",
+    "company": "Arthrex Portugal",
+    "location": "Coimbra, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/software-tester-balan%C3%A7as-marques-portugal-at-balan%C3%A7as-marques-3630317931?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=rL8H1XSsWpnao5CwlJCX2w%3D%3D&position=18&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Software Tester - Balanças Marques Portugal",
+    "company": "Balanças Marques",
+    "location": "Braga, Braga, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/co-fundador-investidor-at-lexphd-3636418079?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=nfSylqDFb3uZaR1l5Z%2BLEw%3D%3D&position=19&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Co-fundador Investidor",
+    "company": "LexPhD",
+    "location": "Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/modelista-ind%C3%BAstria-t%C3%AAxtil-at-felmac-malhas-e-confec%C3%A7%C3%B5es-lda-3633369015?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=jMZ43Kr%2Fj0%2BulU2c5QoUjw%3D%3D&position=20&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Modelista - Indústria Têxtil",
+    "company": "Felmac Malhas e Confecções Lda",
+    "location": "Póvoa de Varzim e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engenheiro-a-de-qualidade-aveiro-norte-at-michael-page-3633573632?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=dMXzKLqjoC7ICeywzcxjhQ%3D%3D&position=22&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Programador de controle numérico computadorizado (CNC)",
+    "company": "Harcane - Indústria de Portugal Lda",
+    "location": "Tortosendo, Castelo Branco, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/analista-funcional-s%C3%A9nior-at-babel-3411269943?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=awej44GVUENYmyVcO93PWA%3D%3D&position=23&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro(a) de Qualidade - Aveiro Norte",
+    "company": "Michael Page",
+    "location": "Aveiro, Aveiro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/tech-lead-4-days-workweek-remote-at-bizay-3616568206?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=GQj862g9M9HbClwmKrSxsg%3D%3D&position=24&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Funcional Sénior",
+    "company": "Babel",
+    "location": "Lisboa e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/optical-engineer-ind%C3%BAstria-aeroespacial-at-michael-page-3625529472?refId=dWSz6PzZu4ftOTYN51GCMw%3D%3D&trackingId=45KPYxnPpg6ylJQY4jA2%2BQ%3D%3D&position=25&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Tech Lead (4 days workweek & remote)",
+    "company": "BIZAY",
+    "location": "Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engenheiro-eletrot%C3%A9cnico-s%C3%A9nior-m-f-%C3%A1gueda-at-adecco-recruitment-3636441642?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=gd6vtUUSf0Sc1YPicrIatg%3D%3D&position=1&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Optical Engineer - Indústria Aeroespacial",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/contabilista-at-delfingen-3636419044?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=TpZyV9mWQJVBmSlbi9lPEg%3D%3D&position=2&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro Eletrotécnico - Sénior (M/ F) | Águeda",
+    "company": "Adecco Recruitment",
+    "location": "Águeda, Aveiro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/social-paid-media-specialist-at-hilti-portugal-3607230746?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=45mgVtnJJTdx1lgbhD%2B2ow%3D%3D&position=3&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "DELFINGEN",
+    "location": "Vila Nova de Gaia, Porto, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-dsv-global-transport-and-logistics-3436671720?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=9CyBugIl8q%2BXRP%2BLjmNE8w%3D%3D&position=4&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Social & Paid Media Specialist",
+    "company": "Hilti Portugal",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/consultor-sap-pp-at-izertis-3634732079?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=p57iNGTmAnC%2B3G9PcW0WpQ%3D%3D&position=5&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Senior Data Scientist",
+    "company": "DSV - Global Transport and Logistics",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/sap-fi-co-at-equa%C3%A7%C3%A3o-it-3636485084?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=837UgqbYeHEopk82iR37FQ%3D%3D&position=6&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor SAP PP",
+    "company": "IZERTIS",
+    "location": "Aveiro, Aveiro, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-a-%E2%80%93-garantia-de-qualidade-qa-technician-m-f-at-grupo-azevedos-3634756708?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=KYi8IxZjhPCZzoW89SQV0Q%3D%3D&position=7&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "SAP FI/CO",
+    "company": "Equação IT",
+    "location": "Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/rec%C3%A9m-licenciado-para-ind%C3%BAstria-autom%C3%B3vel-eng-mec%C3%A2nica-at-gestamp-3630315759?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=8TU7IrS5JtQ5%2BO3g1oHlFw%3D%3D&position=8&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico(a) – Garantia de Qualidade (QA Technician) (m/f)",
+    "company": "Grupo Azevedos",
+    "location": "Sintra, Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/analista-funcional-at-babel-3633612791?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=sG%2BKOqaWWs46ypKDnWzI%2BA%3D%3D&position=9&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Recém-licenciado para Indústria Automóvel Eng. Mecânica",
+    "company": "Gestamp",
+    "location": "Vendas Novas, Évora, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/operador-de-quinagem-m-f-%C3%A9vora-at-egor-3632581532?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=uq3BJ%2BGNWI4402vNS7nD5Q%3D%3D&position=10&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Funcional",
+    "company": "Babel",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/gestor-comercial-materiais-de-constru%C3%A7%C3%A3o-at-michael-page-3628353234?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=VNSyqOvejwlweYFDhZB1Lg%3D%3D&position=11&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Operador de Quinagem (m/f) - Évora",
+    "company": "EGOR",
+    "location": "Évora, Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-a-superior-de-ambiente-e-shst-at-smp-automotive-global-3630970676?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=MPwntCc7ZdczZ0XEZV5NWA%3D%3D&position=12&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor Comercial - Materiais de Construção",
+    "company": "Michael Page",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/vendedor-at-nr-gy-3632562357?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=%2BSw1X5T2fBwqpS8yU%2BPipA%3D%3D&position=13&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico (a) Superior de Ambiente e SHST",
+    "company": "SMP Automotive Global",
+    "location": "Palmela, Setúbal, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/comercial-ind%C3%BAstria-metalomec%C3%A2nica-m-f-at-wyser-3610293710?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=xz5K0zE%2BAcT8HTYd6H5bbg%3D%3D&position=14&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Vendedor",
+    "company": "NR Gy",
+    "location": "Braga, Braga, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-de-manuten%C3%A7%C3%A3o-electromec%C3%A2nico-industria-autom%C3%B3vel-palmela-m-f-at-smp-automotive-global-3630966845?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=iRCZ9i1LnzWmsTHJN1PiXg%3D%3D&position=16&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Comercial - Indústria Metalomecânica (M/F)",
+    "company": "Wyser",
+    "location": "Vila Nova de Famalicão, Braga, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/engenheiro-a-electrot%C3%A9cnico-azambuja-at-michael-page-3629567778?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=ZfFNdinudDojZT1kKxPT9w%3D%3D&position=17&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Aprendiz/ Técnico Júnior manutenção industrial ( ar comprimido)",
+    "company": "SIAC - Soluções Integradas de Ar-Comprimido, Unipessoal Lda",
+    "location": "Montijo, Setúbal, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/vendedor-externo-de-servi%C3%A7o-at-atlas-copco-3633532173?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=SUIlXfS1L5y%2Fp7aF6fplFA%3D%3D&position=18&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico de Manutenção - Electromecânico - Industria Automóvel - Palmela (M/F)",
+    "company": "SMP Automotive Global",
+    "location": "Palmela, Setúbal, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/farmac%C3%AAutico-at-vis%C3%A3o-aberta-3636119530?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=DPUl3akqqitTPU6YUUHcYw%3D%3D&position=19&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro /a Electrotécnico - Azambuja",
+    "company": "Michael Page",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/pintor-lacador-de-mobili%C3%A1rio-at-morais-neto-3636411927?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=U8KaOEFcOZTE5tOTLxLP8g%3D%3D&position=20&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Vendedor Externo de Serviço",
+    "company": "Atlas Copco",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/solutions-architect-at-babel-3595269765?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=oZMT6WVPsxgiLxDZI%2BUbFQ%3D%3D&position=21&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Farmacêutico",
+    "company": "Visão Aberta",
+    "location": "Cascais, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/tester-funcional-at-babel-3637585168?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=tZyoLnCy%2BM3On0JmAlvGnQ%3D%3D&position=23&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Pintor Lacador de Mobiliário",
+    "company": "Morais & Neto",
+    "location": "Paços de Ferreira, Porto, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/operador-de-ajustagem-m-f-%C3%A9vora-at-egor-3632585010?refId=rMFTOA%2Fswc4vKlk%2Blj3KEA%3D%3D&trackingId=ss9NeETkFy%2FRWRFwRv9TTg%3D%3D&position=24&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Solutions Architect",
+    "company": "Babel",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/secret%C3%A1ria-de-administra%C3%A7%C3%A3o-oeiras-at-michael-page-3626503398?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=CkGKFe0jOI49PS7Gp60H%2FA%3D%3D&position=1&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Revisor de Certificados de Transação Referências de Produto Reciclado e Orgânico",
+    "company": "Intertek Portugal",
+    "location": "Porto, Portugal",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/data-engineer-at-babel-3569691084?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=hN7sGAYbElqVhs2oQaP6Lg%3D%3D&position=2&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Tester Funcional",
+    "company": "Babel",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/contabilista-m-f-at-delfingen-190888536?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=iwNCAsdVQ0WGAc4kZ90ZFQ%3D%3D&position=3&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Operador de Ajustagem (m/f) - Évora",
+    "company": "EGOR",
+    "location": "Évora, Évora, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/senior-ml-engineer-at-dsv-global-transport-and-logistics-3436677053?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=VOo6vJQAmTcNiIJNXuiKnA%3D%3D&position=4&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Secretária de Administração - Oeiras",
+    "company": "Michael Page",
+    "location": "Pedrógão Grande, Leiria, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/consultor-phc-at-ibc-international-business-consulting-3636084011?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=mjv4p5u8hR2%2Be1Y%2FMJgHpQ%3D%3D&position=5&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Engineer",
+    "company": "Babel",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/ajudante-de-manuten%C3%A7%C3%A3o-albufeira-at-grupo-pinto-cruz-3635533542?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=Zp7MH%2BsmwV%2B5z7p9gr15LQ%3D%3D&position=6&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista M/F",
+    "company": "DELFINGEN",
+    "location": "Vila Nova de Gaia, Porto, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/assistente-de-gerente-de-loja-almancil-at-karl-lagerfeld-3633710753?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=A7Zr%2BGstiABSyYBfxUrWWA%3D%3D&position=7&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Senior ML Engineer",
+    "company": "DSV - Global Transport and Logistics",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/junior-rpa-developer-at-babel-3637992042?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=x8q9a9AIsnAMOpslR7JmGA%3D%3D&position=8&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor PHC",
+    "company": "IBC|International Business Consulting",
+    "location": "Leiria, Leiria, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-a-de-manuten%C3%A7%C3%A3o-albufeira-at-grupo-pinto-cruz-3635534488?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=ZPWLZRDUkLn0eYkkjG05ng%3D%3D&position=9&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Ajudante de manutenção | Albufeira",
+    "company": "Grupo Pinto & Cruz",
+    "location": "Albufeira, Faro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/consultor-comercial-m-f-at-selection-by-eurofirms-3636434814?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=qG%2FLjUCrmNFAkRac3ZxruA%3D%3D&position=10&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente de Gerente de Loja (Almancil)",
+    "company": "KARL LAGERFELD",
+    "location": "Almancil, Faro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/chefe-de-equipa-de-projeto-mec%C3%A2nico-at-paralab-sa-3619485274?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=QISJGQilQdESmxxbK8L6%2Fw%3D%3D&position=11&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Junior RPA Developer",
+    "company": "Babel",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/outsystems-technical-lead-at-babel-3618752300?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=KTWvkNlmGBykPwjJRgauSg%3D%3D&position=12&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico/a de Manutenção | Albufeira",
+    "company": "Grupo Pinto & Cruz",
+    "location": "Albufeira, Faro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/outsystems-tech-lead-at-babel-3636666062?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=DiARchhmhoS0GrJVJOO6uA%3D%3D&position=13&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Comercial (m/f)",
+    "company": "Selection by Eurofirms",
+    "location": "Faro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-a-de-manuten%C3%A7%C3%A3o-portim%C3%A3o-at-grupo-pinto-cruz-3635534492?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=K4D3iGMloORkoCpt3lDJ6Q%3D%3D&position=14&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Chefe de Equipa de Projeto Mecânico",
+    "company": "PARALAB SA",
+    "location": "Porto e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/r-i-software-researcher-at-isprox-3602325745?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=GtnMy1mZBZ%2B%2BRzjlXQBdrQ%3D%3D&position=15&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "OutSystems Technical Lead",
+    "company": "Babel",
+    "location": "Lisboa, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnica-manuten%C3%A7%C3%A3o-rob%C3%B3tica-at-gestamp-3630317458?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=70LjNeEKIYpfODmsx%2F%2BAaA%3D%3D&position=16&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "OutSystems Tech Lead",
+    "company": "Babel",
+    "location": "Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/associado-de-vendas-almancil-at-karl-lagerfeld-3633708777?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=laRRiRb90vy3LFLs1tlXPw%3D%3D&position=17&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico/a de Manutenção | Portimão",
+    "company": "Grupo Pinto & Cruz",
+    "location": "Portimão, Faro, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629578163?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=9RaVCmRUeENV5sWl6JyPkw%3D%3D&position=18&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "R&I Software Researcher",
+    "company": "ISPROX",
+    "location": "Oliveira de Azeméis, Aveiro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636248278?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=baBANbi%2FMCQtXFI3zX8W5w%3D%3D&position=19&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnica Manutenção Robótica",
+    "company": "Gestamp",
+    "location": "Vendas Novas, Évora, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629570945?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=Z3svHuR5rUagRS%2BgVaaN%2FA%3D%3D&position=20&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Associado de vendas (Almancil)",
+    "company": "KARL LAGERFELD",
+    "location": "Almancil, Faro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636244896?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=42NU7G3T4IMvjxUzxutRlQ%3D%3D&position=21&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636244649?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=eRGY59TpYUKySP4XDeJqdg%3D%3D&position=22&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629578102?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=lbEiy3Zpw5bSsFH%2FcVSS%2Bg%3D%3D&position=23&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636247359?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=Pcfb27TwXyZ77XGmB1FyuQ%3D%3D&position=24&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Portalegre, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575639?refId=KmBwoiUMxyl%2BGCV%2FPaJXoQ%3D%3D&trackingId=grvzJXWYgBTB%2FxHKfhFwOQ%3D%3D&position=25&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182614?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=PNrDbDfV9TGBkjoZ3aXrMg%3D%3D&position=1&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638179424?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=YEKKEQ3sxndGQNMDgJ7cPg%3D%3D&position=2&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/lead-it-developer-at-dsv-global-transport-and-logistics-3440682107?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=wG6x9iO5zzB8ESrow5D6dQ%3D%3D&position=3&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guarda, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629577038?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=2MqzDUdlQQ4lu1iI0oMJ5A%3D%3D&position=4&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Portalegre, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638186090?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=ALwp60ObnuRwT6crjDM1lg%3D%3D&position=5&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636243932?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=KH%2Fr4v8yu7EIN7%2BUiG6jNQ%3D%3D&position=6&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Lead IT Developer",
+    "company": "DSV - Global Transport and Logistics",
+    "location": "Lisboa, Lisboa, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629570921?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=nI0U799cJe14ufuxQccseA%3D%3D&position=7&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636250047?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=2BIbwMPh4gKJhnqlBhg%2BwA%3D%3D&position=8&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636248322?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=4m6subRBA0zuMjC7iN4SbA%3D%3D&position=9&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638184355?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=V3RYakGxytintDW0rd8UgQ%3D%3D&position=10&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638180915?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=o3nZYkLJYZ%2BFBFLajUkRWQ%3D%3D&position=11&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638181624?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=gLSfqz%2FYG1fBU99BwHn12g%3D%3D&position=12&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636246763?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=jDqaskbViv79lusOVXWuSA%3D%3D&position=13&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guarda, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636245641?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=leuPeSId%2BItplrM5aDBybg%3D%3D&position=14&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636247338?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=LBy%2F3mMfzPz9gSNdF37o5g%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/mobile-developer-xamarin-at-babel-3627483346?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=F9zExmRXBrQ1ZN719vG3OA%3D%3D&position=16&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575763?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=rOnYK20kdUKFum1YV%2FfRNA%3D%3D&position=17&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636243711?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=dAzYHBCPQK2jaaijEmpUAg%3D%3D&position=18&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Vila Real, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629574932?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=w7waLJhYA%2Fk7mrDPgUNUhQ%3D%3D&position=19&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Mobile Developer (Xamarin)",
+    "company": "Babel",
+    "location": "Lisboa e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575694?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=EQmF0YmByNeavlClDi%2FJ2w%3D%3D&position=20&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Setúbal, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636246777?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=43MyHHK9VxBpiw8baTx0HA%3D%3D&position=21&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Beja, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629572846?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=goJ0w%2Bi3vuorBYzX25hjig%3D%3D&position=22&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629573719?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=iI4Nw2PhOPK3N9URdBX6og%3D%3D&position=23&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638181469?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=MFbay503LRg4KVCi4bQ0Hg%3D%3D&position=24&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636248380?refId=z4ggI1ju2c%2BE%2BD6pVEq6Sg%3D%3D&trackingId=dA9xOpTEHes54HNHOqZzow%3D%3D&position=25&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182216?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=cKAGY4Mj8Svrn1A4KdV0yA%3D%3D&position=1&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Bragança, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638183403?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=Z1OGw%2FeFQl7fjdBx2wG53g%3D%3D&position=2&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Setúbal, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638185262?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=6y90%2FKVZCbw%2F1HGQYCAxlg%3D%3D&position=3&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Bragança, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629579090?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=pV2fc9S%2BG0hP3RDgLVhEVQ%3D%3D&position=4&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Beja, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638185128?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=O6drMTyEBG5dQsRQzQKtwg%3D%3D&position=5&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Vila Real, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636245714?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=ckqBX9%2Fi88QhidxhgOdzAg%3D%3D&position=6&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636248183?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=d6r51yPKySBnWgc1xwW0yA%3D%3D&position=7&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ilha da Madeira, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575547?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=E9R9vid2yX%2FcP52VxjprNQ%3D%3D&position=8&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636247413?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=LVf8OO6rddbeIxj4K2xzKA%3D%3D&position=9&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ilha da Madeira, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638183607?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=DBgHSacNBIxblAVr3sEo1g%3D%3D&position=10&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Viana do Castelo, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575774?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=%2BpfFpjCPQnK0fR%2F77yqpOw%3D%3D&position=11&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629578189?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=9rbRIBqF%2BoDjxKLy61jmqw%3D%3D&position=12&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636242898?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=mzRVLjzEgd3kScUPC1wkEA%3D%3D&position=13&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636244812?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=bsLdNwqI9tF%2Ba1WjFZVTXw%3D%3D&position=14&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Évora, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638179589?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=yLtuI5dTeQjruX8TANx%2Bew%3D%3D&position=15&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Funchal, Ilha da Madeira, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629575746?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=9Ei%2FwDjbfijqlHmqys1ZMQ%3D%3D&position=16&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Évora, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629579173?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=PYFUynrOfL%2FLNjaLq49laQ%3D%3D&position=17&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Funchal, Ilha da Madeira, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636243820?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=WuGYZuqqQc3%2BaXaG0wmZhg%3D%3D&position=18&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Viana do Castelo, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636247334?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=X7vsjspAmTjTzqze6ReHnQ%3D%3D&position=19&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Braga, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636242897?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=rfNjpjKDnJuLZ1PznAG%2Fog%3D%3D&position=20&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Aveiro, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638183253?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=HAvMlEoOh%2BQZxIG4bGGV8A%3D%3D&position=21&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Braga, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629580208?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=o8W4a36imMWRYrByeLkveQ%3D%3D&position=22&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viseu, Viseu, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636246556?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=NwbBd%2BvS0J%2FeEcPld50uRw%3D%3D&position=23&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Aveiro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638179754?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=VCcM%2FkvZgx3GgC2Z6ets5g%3D%3D&position=24&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Évora, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182354?refId=kJUA55jQFYT4A5KEzy9EZQ%3D%3D&trackingId=afwsjmJkF5TVI97Qbzoprg%3D%3D&position=25&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ponta Delgada, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638180738?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=1VAVWJFCiesce0Rb%2FfxSxA%3D%3D&position=1&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ponta Delgada, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182448?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=3cpVUHloUwLhU%2BnGaQuzbQ%3D%3D&position=2&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Porto, Porto, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629573982?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=tNvRLVp7Yq2L%2BBJjHwV6DA%3D%3D&position=3&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Aveiro, Aveiro, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636244900?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=lp2TbqrzwLgtnxilIU3nWg%3D%3D&position=4&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viseu, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636241961?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=pj0fiEaCIArEvoE6XZieVw%3D%3D&position=5&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Braga, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629578110?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=YMEwgbThszZoAnmn1nRT6Q%3D%3D&position=6&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guimarães, Braga, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638183615?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=1kh813NXCjJnEcXgbJNbFw%3D%3D&position=7&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guarda, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638179609?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=Hs7dVZCxN1PpV9lfmff9lw%3D%3D&position=8&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guimarães, Braga, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629578187?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=E2aZCcdNlLxXq4YBaPrybA%3D%3D&position=9&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Portugal",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636244815?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=y7ev4sMOdT3%2FjbSd6x7tvA%3D%3D&position=10&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182341?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=W%2FkijtRFdtRpwTB4M1TWNw%3D%3D&position=11&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Guimarães, Braga, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629577307?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=BeiWy0cUQ52RLoeETevD4g%3D%3D&position=12&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Coimbra, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182649?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=J%2BFgaxZnULUUsYBnGxAhsA%3D%3D&position=13&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Coimbra, Portugal",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629576314?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=WhneC%2B3jDZ704uEzR1hPLw%3D%3D&position=14&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Faro, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638181455?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=gF7rQpUGbdfVmP2KfRscsQ%3D%3D&position=15&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Faro, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629573728?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=zs1usM%2BDQ6OXmNhtEoSIfw%3D%3D&position=16&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Portugal",
+    "date": "2023-06-16"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636245687?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=h0d15%2F1fUCJDEP2xC5utPw%3D%3D&position=17&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Faro, Portugal",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/fiel-de-armaz%C3%A9m-pampilhosa-da-serra-at-vestas-3630156626?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=LbrWjcMH28O09FzhWJap8Q%3D%3D&position=18&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Coimbra, Portugal",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629574948?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=ldsEBmNH1iBj%2F662p504YA%3D%3D&position=19&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Évora, Portugal",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636245743?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=Zic7QGV8oTBgnZo%2F1uXXrg%3D%3D&position=20&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Setúbal, Setúbal, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3636246797?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=Hj9qKobXz4SMGAw8JLuLlg%3D%3D&position=21&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Fiel de armazém - Pampilhosa da Serra",
+    "company": "Vestas",
+    "location": "Pampilhosa da Serra, Coimbra, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638182663?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=95jL8xaS3c0sR5xMJx6p9w%3D%3D&position=22&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Beja, Beja, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/cloud-native-developer-at-babel-3636250221?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=TZnP%2BAKqCbuclcwAQHoQIg%3D%3D&position=23&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viana do Castelo, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638181530?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=dd0M8X%2BTE9rA%2Ft77uX9XRQ%3D%3D&position=24&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Braga, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638181686?refId=Ygm%2BBsZ5sKz1uXB4c5bVUg%3D%3D&trackingId=9Y0bRxJeNJuaij4pK3FhMw%3D%3D&position=25&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Bragança, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638179702?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=gc%2FQPjIDEj2050Kf3ca0ug%3D%3D&position=1&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Cloud Native Developer",
+    "company": "Babel",
+    "location": "Lisboa, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3629579087?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=B3VD3Bo2tuZB%2BNWEz7FLHQ%3D%3D&position=2&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ilha da Madeira, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/empreenda-no-mundo-do-desporto-abra-o-seu-pr%C3%B3prio-neg%C3%B3cio-at-sportmadness-3638183074?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=3GZDR437GPAMBpCoGwAykA%3D%3D&position=3&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Coimbra, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/service-technician-pampilhosa-da-serra-at-vestas-3630985487?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=Sg2DydVqcyf%2FFBR6LTxhHQ%3D%3D&position=4&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Funchal, Ilha da Madeira, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/sap-fi-co-consultant-m-f-d-at-hays-3633386552?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=LwRka88P0n2X3t6g2EKs1g%3D%3D&position=5&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Viseu, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/maintenance-technician-weekend-shift-m-f-d-at-borgwarner-3609465474?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=pi9r8jfjC01r%2BxaDVZfT9w%3D%3D&position=6&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Empreenda no mundo do desporto: Abra o seu próprio negócio",
+    "company": "Sportmadness",
+    "location": "Ponta Delgada, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/vendedor-demonstrador-ferramentas-el%C3%A9tricas-at-pecol-3633357463?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=fhQqcrGSvOk4XLsqyuF6SA%3D%3D&position=7&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Service Technician - Pampilhosa da Serra",
+    "company": "Vestas",
+    "location": "Pampilhosa da Serra, Coimbra, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-de-recursos-humanos-m-f-alcochete-at-eviosys-3635230136?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=A3TN%2BVlKLcZ%2BXEN4WnjHaQ%3D%3D&position=8&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "SAP FI/CO Consultant (m/f/d)",
+    "company": "Hays",
+    "location": "Vila Nova de Gaia, Porto, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/full-stack-java-developer-lisboa-ou-porto-at-babel-3637916115?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=eVC7kn29%2FlAhpyoddQPnAA%3D%3D&position=9&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Maintenance Technician - Weekend Shift(M/F/D)",
+    "company": "BorgWarner",
+    "location": "Viana do Castelo, Viana do Castelo, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/desenvolvedor-de-back-end-at-tulalabs-3637390775?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=0fRV5kQtsrlNhxbGEMzpWw%3D%3D&position=10&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Vendedor Demonstrador - Ferramentas Elétricas",
+    "company": "PECOL",
+    "location": "Águeda, Aveiro, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/investigador-na-%C3%A1rea-da-efici%C3%AAncia-energ%C3%A9tica-de-edif%C3%ADcios-prr-illiance-m-f-at-isq-3633358674?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=%2BdE8WIgauGHVAGdvHVKGHg%3D%3D&position=11&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico de Recursos Humanos (M/F) Alcochete",
+    "company": "Eviosys",
+    "location": "Alcochete, Setúbal, Portugal"
+  },
+  {
+    "link": "https://pt.linkedin.com/jobs/view/senior-full-stack-java-developer-at-babel-3633251309?refId=FiullcPrMEEDiuq0EGHzGQ%3D%3D&trackingId=uHmmpDin2HGU0wIdJ4bXcw%3D%3D&position=12&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Full Stack Java Developer - Lisboa ou Porto",
+    "company": "Babel",
+    "location": "Lisboa, Lisboa, Portugal"
+  }
+]

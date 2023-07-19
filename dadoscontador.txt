@@ -1,0 +1,3425 @@
+[
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-s%C3%AAnior-at-gol-linhas-a%C3%A9reas-3630934711?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=2A7MUNyQuCD59ZZZDHzA1g%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil Sênior",
+    "company": "GOL Linhas Aéreas",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-clm-controller-3636814877?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=tqhJi51dqVyN4%2B7PHMyk6g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "CLM Controller",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/accountant-at-airswift-3631285912?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=xs3TYJYoXYFTcAk05gNaUg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Accountant",
+    "company": "Airswift",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-grupo-%C3%A1gil-3637527724?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=dsjte%2FW3BgUKMsZhYODFLA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Grupo Ágil",
+    "location": "Brasília, DF",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-s%C3%AAnior-rj-at-igt-group-3636800457?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=yVtLb3x1FMZR0ZDlPa3tig%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR SÊNIOR / RJ",
+    "company": "IGT Group",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contadora-at-grupo-massa-3634637785?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=ksQ5t9gsadPSviuMMaKfXQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contadora",
+    "company": "Grupo Massa",
+    "location": "Curitiba, PR",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-job-terceiriza%C3%A7%C3%A3o-outsourcing-3636814690?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=PivHNDLtj9mDJHwvTWuwpA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "CORTESIA SERVIÇOS DE CONCRETAGEM",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633381768?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=KxUxJkBjamIZ2wmoMz4zBA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "JOB Terceirização / Outsourcing",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-recruta-simples-vagas-3631524721?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=9fG9v7mrfWAeynl84fN7qg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Belém, PA",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-green-talents-3637593140?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=wsDUCR%2BFU8MSvO92dDCcgg%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Recruta Simples Vagas",
+    "location": "Brasília, DF",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/accountant-at-right-balance-3635570583?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=omspowwWzrazetHoe%2BIOTQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Green Talents",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-status-business-marketing-3633736615?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=uBuMOuRvCGuLZkSjhFE7Ew%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Accountant",
+    "company": "Right Balance",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-c2rh-3632632697?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=l7bZZApqw0oYXumhG7jrmQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Status - Business & Marketing",
+    "location": "Curitiba e Região",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-recruta-simples-vagas-3631526723?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=EQIC1hwO508PGtXg4Mk3cQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "C2RH",
+    "location": "Curitiba, PR",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-ullian-portas-e-janelas-3630132696?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=tBWrAvw4ntPuSR34ohTgPg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Recruta Simples Vagas",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-opus-consultoria-3636811198?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=MIUbHRK%2BN05lPJPG9JIuAQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "contador",
+    "company": "UNICONTAS",
+    "location": "Brasília, DF",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-conex-dhe-3636688147?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=3cl6WjY0b6wAxDRntBiW8w%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Ullian Portas e Janelas",
+    "location": "São José do Rio Preto, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bossa-3636805162?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=DaBwkZGIwJgPPmAWEbFY4A%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Opus Consultoria",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-rhf-talentos-3635404879?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=l%2BcAqzAVmB%2FJbIKAZ6Pnuw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Conex DHE",
+    "location": "Lajeado, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/auditor-at-grupo-arcor-3634388584?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=OHHh3kIEHMnrI%2B50oBhVeg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Bossa",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-ag%C3%AAncia-job-3627783601?refId=SPyeIdyWwCl25bojwp10bg%3D%3D&trackingId=k5ejkZaEAZlTPqEAMZx3EQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "RHF Talentos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sr-accountant-at-media-monks-3633386522?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=8kmViCX9iAvazGpDdVXhSw%3D%3D&position=1&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Grupo Royalcin",
+    "location": "Brasília, DF",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sr-accountant-analyst-at-catalent-pharma-solutions-3527785301?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=riuVf%2BogjWu7P43LgD0Fjg%3D%3D&position=2&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Auditor",
+    "company": "Grupo Arcor",
+    "location": "Campinas, SP",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-pigatti-contabilidade-e-consultoria-3636675887?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=MbuIbg8yXTUrkVYtFUsmBg%3D%3D&position=3&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Agência Job",
+    "location": "Ponta Grossa, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-recruta-simples-vagas-3631527466?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=f%2BL3QaxOJSCIfwl3xNPjog%3D%3D&position=4&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador Geral",
+    "company": "JFR CONSTRUCOES",
+    "location": "Brasília, DF",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/staff-accountant-f-m-d-at-awin-global-3630342799?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=UoOxYu4cKFHkuykVDyc58w%3D%3D&position=5&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Sr Accountant",
+    "company": "Media.Monks",
+    "location": "São Paulo, Brasil",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-unitrading-logistics-3637781568?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=s2gJRS03Q3FMLpEJgFWbUw%3D%3D&position=6&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Sr Accountant Analyst",
+    "company": "Catalent Pharma Solutions",
+    "location": "Sorocaba, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-a-porto-alegre-rs-at-unicarreira-rh-3636698280?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=g9mKEFfFBtm29TWOmbrNLw%3D%3D&position=7&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Pigatti Contabilidade e Consultoria",
+    "location": "São Paulo e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-cons%C3%B3rcios-at-caoa-3638312495?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=SJCIr1OKzI0kBN4fmmamxA%3D%3D&position=8&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Recruta Simples Vagas",
+    "location": "Salvador, BA",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sr-gl-accountant-at-software-ag-3631371582?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=l3il4QhbNfE6o3htruaiug%3D%3D&position=9&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Staff Accountant (f/m/d)",
+    "company": "Awin Global",
+    "location": "São Paulo, Brasil",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631596198?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=2lu1vZ6kFbaY3yaG0B4GhA%3D%3D&position=12&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Unitrading Logistics",
+    "location": "Guararapes, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-caderno-nacional-3634295634?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=8MWH9XiPSRFp9BXi9EQ0HA%3D%3D&position=13&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador (a) - Porto Alegre/RS",
+    "company": "Unicarreira RH",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-qi-faculdade-escola-t%C3%A9cnica-3636414033?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=ITJWCyB6To3AtkmN9nsFrA%3D%3D&position=14&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR CONSÓRCIOS",
+    "company": "CAOA",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631586775?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=acX4DCGkTupahzJtIK5mpA%3D%3D&position=15&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Sr. GL Accountant",
+    "company": "Software AG",
+    "location": "São Paulo, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631590969?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=TmHqrM9Tfvl%2Fa7i%2BfancoA%3D%3D&position=18&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR - TEFÉ",
+    "company": "Grupo RH",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633782096?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=keZ6R2EqtT%2FGpA1OkQrgYQ%3D%3D&position=19&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "PACAL PARKING ESTACIONAMENTO LTDA",
+    "location": "Limeira, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631578647?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=GHAYoXdVFfNWGr6Sqbp6Ng%3D%3D&position=20&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631584841?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=tXmEbqhpYKoM7qcEHEfUHA%3D%3D&position=21&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Caderno Nacional",
+    "location": "Taubaté, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-gerencial-coordenador-de-equipe-at-seven-consult-assessoria-contabil-ltda-3636823045?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=TxVyQLrrITkjCqNvJJxLMQ%3D%3D&position=23&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "QI Faculdade & Escola Técnica",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-rhf-talentos-3637534141?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=kX9R8MS0wi%2FK9BLYkmNpzg%3D%3D&position=24&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3631579379?refId=na%2BwJzRiAnmK%2FSkk9Cf5Rw%3D%3D&trackingId=%2BZ6e2ln8Ac2CZYccQoV3dQ%3D%3D&position=25&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Morais Empresas",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-pleno-at-cay-business-3638311650?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=0OBLv6pKn9pgXl4wvlU4Iw%3D%3D&position=2&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Adhapta",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631591816?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=up1j2KpL51k06jWBCKBwdQ%3D%3D&position=3&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633781158?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=vUjBYwMQKLjxJ1ekHtEvgQ%3D%3D&position=4&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633777798?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=K8Lt2%2BJNS%2BtcbIsF4vRVRQ%3D%3D&position=5&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Limeira, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633781371?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=6oUd7THQqPzSE8rQUZJNhw%3D%3D&position=6&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Florianópolis, SC",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-personal-recursos-humanos-3636683426?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=%2F%2BwEdo46EKeDpXy2wQRW7w%3D%3D&position=7&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Working Center - Indaiatuba",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633326113?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=7yNJ7thz8wocXDIKiwijCg%3D%3D&position=8&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador Gerencial - Coordenador de Equipe",
+    "company": "Seven Consult Assessoria Contabil Ltda",
+    "location": "Niteroi, AM",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/j-f-minera%C3%A7%C3%A3o-especialista-em-controladoria-consolida%C3%A7%C3%A3o-at-j-f-investimentos-s-a-3636893257?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=BrNaJcEidEJXRSLI5ik60A%3D%3D&position=9&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "RHF Talentos",
+    "location": "São Paulo e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-rhf-talentos-3637534356?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=ndqEp0P0UqwFtf2hEspOtw%3D%3D&position=10&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "João Pessoa, PB",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3633318413?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=8K%2B%2FpewaYgCu6e7JgUf3IQ%3D%3D&position=11&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "PACAL PARKING ESTACIONAMENTO LTDA",
+    "location": "Limeira, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/tax-accounting-manager-at-johnson-johnson-3636942121?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=9qhSGwUDVzPvTQB9XW38eg%3D%3D&position=13&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador Pleno",
+    "company": "Cay business",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631593725?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=v8AxvYpEmRsps%2BYGC0vn8Q%3D%3D&position=14&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3632136740?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=LSmTXiPhgz70mWauF2uTYw%3D%3D&position=17&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631588174?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=8Ms3piQgLmIaGbjcDbfVoA%3D%3D&position=18&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631598004?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=xNsgl1vaRk61q57sKEbpiw%3D%3D&position=19&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/accountant-at-appen-3630352914?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=R3H6UkGMmxHuUdEErJEnKw%3D%3D&position=20&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Personal Recursos Humanos",
+    "location": "Santa Cruz do Rio Pardo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631593754?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=SyUdljBAhilzqkev6AHe6Q%3D%3D&position=21&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3631580322?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=u3l1tH40auftzLm8wGxUTQ%3D%3D&position=22&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "J&F Mineração - Especialista em Controladoria Consolidação",
+    "company": "J&F Investimentos S.A",
+    "location": "São Paulo, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631598016?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=P8d2TRUrQELlUJxbF17C6w%3D%3D&position=24&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "RHF Talentos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631580289?refId=97ZO9%2BtvoLC703NCiZxLTA%3D%3D&trackingId=rw1zUDx9iK1a9WmOAB%2BixQ%3D%3D&position=25&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "João Pessoa, PB",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/gestor-cont%C3%A1bil-escrit%C3%B3rio-de-contabilidade-at-moresco-contabilidade-3636600764?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=MsrVw9oMrzcPYIzRI%2FGCyg%3D%3D&position=1&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Principiu's RH Gestão de Pessoas",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-caderno-nacional-3634296535?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=Ka4f3c7ojrcfNb2cQyYJ%2BQ%3D%3D&position=2&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "TAX ACCOUNTING MANAGER",
+    "company": "Johnson & Johnson",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631593766?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=2LauLmKFpgrJgAQpu1AbJQ%3D%3D&position=4&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631595168?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=Rq5aINl%2BcBUdX0%2F77AKabg%3D%3D&position=5&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "GR Ourho",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/accounting-tax-sr-specialist-brazil-at-bitso-brasil-3634618074?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=JmWg%2BNKusfb%2BbDHPRD85WA%3D%3D&position=8&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "MARCELA FANTATO AVALIACOES",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3632195778?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=vD34GkwDd0rMWrp92yvFtw%3D%3D&position=9&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Cabo Frio, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633323519?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=HYTQ%2FxeYBU1G3%2BRTMztgAA%3D%3D&position=10&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Camaçari, BA",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633322828?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=s8mLcdLZTRyPJAx%2Frt6%2BOw%3D%3D&position=11&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633774939?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=PMiUxmebbO5INpljNOFGeA%3D%3D&position=14&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Accountant",
+    "company": "Appen",
+    "location": "Santa Catarina, Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633776884?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=tFjK9nd6kI4jrTWRoofkZg%3D%3D&position=15&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631582327?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=FaVTrr5NgUuyOrB4uUcpmw%3D%3D&position=16&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3631579417?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=xDxjX7dEWm%2FUXDMEFhfeeA%3D%3D&position=17&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Yachel Consultoria e Capacitação Profissional",
+    "location": "Brasil",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633774648?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=BygSCNxpcWrVY9R1GVuIhA%3D%3D&position=18&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/controller-at-bne-banco-nacional-de-empregos-3633784303?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=d7zhVGTN6QzN1inh%2F42quw%3D%3D&position=19&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633780315?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=xQQ4P0Weyle4UF0K0G85WQ%3D%3D&position=21&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Gestor Contábil - Escritório De Contabilidade",
+    "company": "Moresco Contabilidade",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633776811?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=Dk2lfwhal9urAI3uWMY7Ww%3D%3D&position=22&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Caderno Nacional",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-a-advogado-a-at-plug-empregos-3631150581?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=Zs2LBfJfb8eYzW0mJdJ1Tw%3D%3D&position=23&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Tallenty",
+    "location": "São Paulo e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3635338932?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=tP39XfhYSDv1E0LfF2erYQ%3D%3D&position=24&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/management-accountant-at-appen-3627781162?refId=SOX7UlUnyjzslDxzP%2FkUmQ%3D%3D&trackingId=pazuwiRSDpT35xTT3K2%2Bjg%3D%3D&position=25&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631596155?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=X3l1kCWb2eut9N8w4l822w%3D%3D&position=3&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "CCA",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631596190?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=kH7UInOVkU9LXKLQ3ayE2A%3D%3D&position=4&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Senador Empregos Serviços",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/gerente-de-tax-diretos-at-bdo-brazil-3635682042?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=RzmBIZWyFVW7rAR2s8aY5g%3D%3D&position=5&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Accounting & Tax Sr. Specialist (Brazil)",
+    "company": "Bitso Brasil",
+    "location": "Brasil",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-tributarista-at-moderna-emprego-3636679008?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=0Ko6Zct5S3grD%2BzH7HKU8Q%3D%3D&position=6&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Natal, RN",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/especialista-fiscal-at-obramax-3634652290?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=HU31B2eKwe26p%2FfyjT%2B0%2Fw%3D%3D&position=7&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Embu das Artes, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3631592772?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=mG%2F4V6v3F60KvF874uz1%2Fw%3D%3D&position=8&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Imperatriz, MA",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-prefeitura-municipal-de-aquidauana-prefeitura-de-aquidauana-ms-at-concursos-p%C3%BAblicos-outros-3628372375?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=uqbb%2BIIoZd2y8Mt88LTogA%3D%3D&position=9&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Wbl Iluminação",
+    "location": "Rio Claro, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3632139159?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=f0EZXoLNSiebtZDazkdypw%3D%3D&position=10&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "UNI REFRIGERACAO BRASIL LTDA",
+    "location": "São Paulo, Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-de-contabilidade-at-fcgroup-contabilidade-3635009658?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=InlloH0ER7XGRjM%2BpKe0ug%3D%3D&position=11&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3633323064?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=3EIysJzRIykjkKW5S1At1A%3D%3D&position=12&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Nossa Senhora do Socorro, SE",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/financial-accountant-at-appen-3630354435?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=cFriWk5vrkeS1EfJ7AleGQ%3D%3D&position=13&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/head-accountant-at-appen-3627776743?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=j1IQeM34zkCXXKG%2Bqh1KMg%3D%3D&position=14&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cost-accountant-ii-at-thermo-fisher-scientific-3631736332?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=wXObvbghpNRb6Y5DfyPRTQ%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Teresina, PI",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3633323963?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=PzoJCsp5DpJUOiLRFQ6CgA%3D%3D&position=17&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Controller",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3633322001?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=AnTbZFDcwpU73XzqtbpiOQ%3D%3D&position=21&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Ser Humano",
+    "location": "Brasil",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-at-bne-banco-nacional-de-empregos-3636054754?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=MwlbLIb%2BCHfqYj2b3KVfuA%3D%3D&position=22&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/staff-accountant-at-even-contabilidade-3634733868?refId=L0y6%2FU1bdYOAhwjjoj0RDQ%3D%3D&trackingId=x2Gi7pbM%2FIfhWOzDHb0rcQ%3D%3D&position=24&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3633781486?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=R7pkgBVMp5c6C0ZqkSJmIA%3D%3D&position=2&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador (a) /Advogado (A)",
+    "company": "Plug Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-pleno-at-quality-tax-consultoria-tribut%C3%A1ria-3637592198?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=Fb52pfOUpLUl2w8KaDIMpQ%3D%3D&position=4&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-prefeitura-municipal-de-santa-m%C3%B4nica-prefeitura-de-santa-m%C3%B4nica-pr-at-concursos-p%C3%BAblicos-outros-3629546470?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=w2v5EOZcXIdwuwc8Uidogw%3D%3D&position=8&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Management Accountant",
+    "company": "Appen",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-junior-at-quality-tax-consultoria-tribut%C3%A1ria-3636676899?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=Hajir64E0bInqznpLVweog%3D%3D&position=9&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BM SERVICOS TEMPORARIOS EIRELI",
+    "location": "Curitiba, PR",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-conselho-regional-de-farm%C3%A1cia-do-tocantins-crf-to-at-concursos-p%C3%BAblicos-carreira-da-sa%C3%BAde-3631765328?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=QdPm0Cd4yS8Frxvadl9JHA%3D%3D&position=10&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Carh Centro Análise Recursos Humanos",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633784297?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=fr0vbyX%2BiU8Y71NdPX2zew%3D%3D&position=12&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633781510?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=qVqAnS9jWYFK4rt%2BSOzy5Q%3D%3D&position=15&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-quality-tax-consultoria-tribut%C3%A1ria-3636678443?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=ZYl%2Bbbw9GgZZx3xqcbvTTw%3D%3D&position=16&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Gerente de Tax Diretos",
+    "company": "BDO Brazil",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3631581159?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=DPMU8kNDfVkwFyrY3HFmfw%3D%3D&position=18&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador tributarista",
+    "company": "Moderna Emprego",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contabilista-at-bne-banco-nacional-de-empregos-3631578749?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=1gqArEIS6aFxwX995S7SPA%3D%3D&position=20&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Especialista Fiscal",
+    "company": "Obramax",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-bne-banco-nacional-de-empregos-3631580396?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=IbXlW9UjAt0wtCZQtdZ%2B3A%3D%3D&position=22&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-prefeitura-municipal-de-santa-cruz-da-esperan%C3%A7a-prefeitura-de-santa-cruz-da-esperan%C3%A7a-sp-at-concursos-p%C3%BAblicos-outros-3630305628?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=G%2F2Px1%2BBJ5U8DIuhV3HyXQ%3D%3D&position=24&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Prefeitura Municipal de Aquidauana - Prefeitura de Aquidauana - MS",
+    "company": "Concursos Públicos: Outros",
+    "location": "Aquidauana, MS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-s%C3%AAnior-de-processos-e-controles-internos-at-prado-suzuki-associados-3636806141?refId=3G%2FuxdPqEGHKMO9gYqGhjg%3D%3D&trackingId=pMJ3DHBoenInHw%2BiN758aA%3D%3D&position=25&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-rafael-nichele-advogados-associados-3636805073?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=%2FYuFwU%2BMhobRKnd4ulV7Bw%3D%3D&position=1&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor de contabilidade",
+    "company": "FCGroup Contabilidade",
+    "location": "Apucarana, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cost-accountant-ii-at-thermo-fisher-scientific-3631383841?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=6TGYE6uz%2FCFMdR1gi%2BPg2g%3D%3D&position=3&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Pontes e Lacerda, MT",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-prefeitura-municipal-de-caxambu-do-sul-prefeitura-de-caxambu-do-sul-sc-at-concursos-p%C3%BAblicos-outros-3632935860?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=43jlrIjl0Q65%2BejkKVqxnA%3D%3D&position=4&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Financial Accountant",
+    "company": "Appen",
+    "location": "Bahia, Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-bne-banco-nacional-de-empregos-3631579737?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=WMpkx9N4Yt3VaHpYHg0PqA%3D%3D&position=5&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Head Accountant",
+    "company": "Appen",
+    "location": "Rio Grande do Sul, Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-fiscal-at-bne-banco-nacional-de-empregos-3633321955?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=wxqoYhBZFoYRaEiqI268SQ%3D%3D&position=6&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Cost Accountant II",
+    "company": "Thermo Fisher Scientific",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-bne-banco-nacional-de-empregos-3631582655?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=YcwOV3xRprSzlFXHIDj2EQ%3D%3D&position=7&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Evolução RH",
+    "location": "Chapecó, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-tribut%C3%A1rio-at-bne-banco-nacional-de-empregos-3633771946?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=NlHjXlMiOVGrI%2B2CPGNqlA%3D%3D&position=9&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campo Grande, MS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-sap-at-trabalhabrasil-3635334529?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=WaGSGk9X59jP%2BvgcE4XClw%3D%3D&position=10&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Marhca",
+    "location": "Piracicaba, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-public-accountant-at-appen-3627780153?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=PnfMgNX8Woc9ah6SUoWM1Q%3D%3D&position=12&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "Lindholz Assessoria Contábil e Serviços",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cotador-de-fretes-at-transito-brasil-3635331558?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=iZ6enw9UeHFnUoF0GOJoTA%3D%3D&position=14&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Precision Recursos Humanos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/trainee-na-%C3%A1rea-fiscal-at-s%C3%A3o-vicente-contabilidade-3636687680?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=mITYllZIBUBsirnV7x6dyQ%3D%3D&position=21&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campo Grande, MS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assessor-a-de-imprensa-pl-sr-at-motim-3632399798?refId=95NJ1XiiWkGnnLwbWsishA%3D%3D&trackingId=jiToGwJ74JvO8f2Qmy25uw%3D%3D&position=25&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Guararapes, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cotador-de-frete-at-transito-brasil-3638309781?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=RPVnb5n8TmO4ybSf5%2BAWxQ%3D%3D&position=1&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Digamma Fama",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/gerente-financeiro-at-bne-banco-nacional-de-empregos-3631590261?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=nFwYWyR42TuBGtLooe0Hxg%3D%3D&position=3&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Staff Accountant",
+    "company": "Even Contabilidade",
+    "location": "Fazenda Rio Grande, PR",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/consultor-de-filme-at-bne-banco-nacional-de-empregos-3633324146?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=xGitGw6tOZdLOcP5ALgidA%3D%3D&position=4&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Cultivar Investimentos",
+    "location": "Lucas do Rio Verde, MT",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628387655?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=PU4tP80fzDXh1%2Frs2TMefQ%3D%3D&position=5&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Quorum Recursos Humanos",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628390455?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=In1oCu0c0mS5m88Srh%2BN7A%3D%3D&position=7&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628389558?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=0%2FzchGJtvvDdYxQ7Zz7E5A%3D%3D&position=8&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "Foco RH Soluções",
+    "location": "Rio Grande, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-alpina-3636692660?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=v00Lt5LHMt2MF3vd1ei9fQ%3D%3D&position=9&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário Pleno",
+    "company": "Quality Tax Consultoria Tributária",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-iest-group-3636809709?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=Up6a1ABJitxie9VDhiW8qQ%3D%3D&position=10&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR (A)",
+    "company": "Pró-gestão Consultoria",
+    "location": "Rio Grande, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-nova-corrente-3636694025?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=V4xOchev85B8ExKQa8b8bw%3D%3D&position=11&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "MACHADO E FRAMESQUE AGRICULTURA LTDA",
+    "location": "Primavera do Leste, MT",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-silnave-3636680050?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=brMRMZRFEXhSfcWccsrMVw%3D%3D&position=12&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Shamar RH",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-macrotec-3630909978?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=bFpFSK1833cHSIElsi0JHA%3D%3D&position=13&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Prefeitura Municipal de Santa Mônica - Prefeitura de Santa Mônica - PR",
+    "company": "Concursos Públicos: Outros",
+    "location": "Santa Mônica, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-pre%C3%A7olandia-comercial-ltda-3634266562?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=KflNlmvy4%2B%2BHpPd9kOOWwA%3D%3D&position=14&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário Junior",
+    "company": "Quality Tax Consultoria Tributária",
+    "location": "São Paulo e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-skz-contabilidade-e-servi%C3%A7os-3630133326?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=1%2FVD9gxUlqeu%2FTQT9wZSbA%3D%3D&position=15&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Conselho Regional de Farmácia do Tocantins - CRF-TO",
+    "company": "Concursos Públicos: Carreira da Saúde",
+    "location": "Palmas, TO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-vrs-3637592267?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=LQTI5RYSOQXnfRaXvYfMEA%3D%3D&position=16&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "LS Estágios & Serviços",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-dom-3636694209?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=d55omyM3qHumXNa61XO%2BUQ%3D%3D&position=17&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-eli-lilly-and-company-3636903459?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=yzq6Md3gzQopI8NczFjesw%3D%3D&position=18&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Auge Recursos Humanos e Serviços Empresarias",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582220?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=a2Q0IZBBRlq7Kdu6dtRH2A%3D%3D&position=19&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Ksv Palestras e Treinamentos",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-ibratec-a-packaging-company-3637536011?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=34tZP5iV%2FAJOScXozpJpww%3D%3D&position=20&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-reiterlog-3635408637?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=fPdlPZfEi0YeNieZvZ%2BBBg%3D%3D&position=22&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "Quality Tax Consultoria Tributária",
+    "location": "Barueri, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-planning-3635296468?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=0kACC2cbIXI%2FofvrEFxLWA%3D%3D&position=23&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "COMPLETE RH / SAÚDE PREMIUM",
+    "location": "Caxias do Sul, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-brasil-refino-3635293751?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=T3tRtJsxOaQ4xIJtgE0sdg%3D%3D&position=24&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-page-personnel-3635973271?refId=PhTMJ5RRzn4jOUAuf6QK4A%3D%3D&trackingId=nVvYJTjOH4e82SyQd5FUyA%3D%3D&position=25&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR",
+    "company": "C2 Recursos Humanos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-med-salva-emerg%C3%AAncias-m%C3%A9dicas-3636804412?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=B7mm%2F4v1e5ugPL1nJPgGiA%3D%3D&position=1&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Contabilista",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-somat-contadores-3635565681?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=OVuTDV1KN2BNJTPa6cOQpw%3D%3D&position=2&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Schulle Contabilidade",
+    "location": "Rio Grande, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-th-gest%C3%A3o-e-pessoas-3636920183?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=MwrJ7fcLXaXQzLPYS4CjlQ%3D%3D&position=3&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campinas, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-clm-controller-3636812890?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=PoKpTJpCKzeAprQzOOJkZg%3D%3D&position=4&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "contadora terceiro setor",
+    "company": "Postingher Estratégia Empresarial",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631579795?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=c5obXBQoIa13TDXNH6AqTw%3D%3D&position=5&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Prefeitura Municipal de Santa Cruz da Esperança - Prefeitura de Santa Cruz da Esperança - SP",
+    "company": "Concursos Públicos: Outros",
+    "location": "Santa Cruz da Esperança, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-luzems-3636806377?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=SwVqck9T5qK%2BpWkhGDEOsQ%3D%3D&position=6&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Sênior de Processos e Controles Internos",
+    "company": "Prado Suzuki & Associados",
+    "location": "Cuiabá e Região",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-ello-sele%C3%A7%C3%A3o-de-pessoal-ltda-3636816260?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=xJpkFula2P4m3OaA5w5IPQ%3D%3D&position=7&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "Rafael Nichele Advogados Associados",
+    "location": "Alvorada, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-oriente-psicologia-organizacional-e-desenvolvimento-3636920180?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=V9Hv7ZdnrlVRHLuUM2gtHg%3D%3D&position=8&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Shamar RH",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-moro-rh-3637784485?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=FaXe1snrf%2BJKWBCknToyEw%3D%3D&position=9&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Cost Accountant II",
+    "company": "Thermo Fisher Scientific",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-flyby-viagens-3628399124?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=VC%2FQIHhqOa4l62lW%2BZm5DQ%3D%3D&position=10&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Prefeitura Municipal de Caxambu do Sul - Prefeitura de Caxambu do Sul - SC",
+    "company": "Concursos Públicos: Outros",
+    "location": "Caxambu, MG",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-engenha-3628395627?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=nLlueoj5au7Kixpq3nrhrA%3D%3D&position=12&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-br-motorsport-3637528705?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=bNNaBB960jT3oMJmsBZD7w%3D%3D&position=13&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Fiscal",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-casa-de-francisca-3636692455?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=LD8C0RPy2fdEkUYCrFxs%2Fw%3D%3D&position=14&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-neo-pessoas-3635794630?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=XgPrZ6XCZl28N1T%2B82Owyw%3D%3D&position=15&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Shamar RH",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-eam-contabilidade-3634242637?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=Yk3ImuurAa5aqlHzqNzn%2BA%3D%3D&position=16&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-robert-half-3635515781?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=gkfNqVVO3Web%2BRH9ZvDBUA%3D%3D&position=18&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor SAP",
+    "company": "TrabalhaBrasil",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631586310?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=jJZhbgT0nFua%2FhI1k%2BT1pQ%3D%3D&position=19&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Fiscal",
+    "company": "Audicon",
+    "location": "Brasil",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rh-nossa-3637561431?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=uvvQT4LBWzkZFijzAOUpeg%3D%3D&position=20&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Certified Public Accountant",
+    "company": "Appen",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-planning-3634816722?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=ozDX3dLAG0dmzdivCDyQUQ%3D%3D&position=21&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Capta RH",
+    "location": "Caxias do Sul, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-roi-contabilidade-3636674598?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=my7yu6h6j3EMETZqibTCUQ%3D%3D&position=22&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "COTADOR DE FRETES",
+    "company": "Transito Brasil",
+    "location": "Nova Santa Rita, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-construtora-adn-3636683801?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=5M%2B7r6m60tfe%2BPunf7WvDw%3D%3D&position=23&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador",
+    "company": "Jequitibá Engenharia",
+    "location": "Salvador, BA",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581423?refId=Cq9ACYB2SCdFZ8D7GGtgpw%3D%3D&trackingId=QWensESovAwqAQPOYiVN1Q%3D%3D&position=25&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Tributário",
+    "company": "Intense RH",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323576?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=1HC%2B3ELRbTvUj0fUU9ZuBQ%3D%3D&position=1&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Fiscal Fiscal Diretos",
+    "company": "HLB BRASIL PRYOR CONSULTING SOLUTIONS LTDA",
+    "location": "São Paulo e Região",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-recruta-simples-vagas-3633076580?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=V6qol6iSrmpQX9Oeu1nUjg%3D%3D&position=2&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Externo",
+    "company": "Russel Bedford Brasil Auditores Independentes",
+    "location": "São Paulo e Região",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-b4a-3638312503?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=Y3BKMLQtWqu2zGja08Oo2Q%3D%3D&position=3&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor de Implantação ERP Protheus - Controladoria",
+    "company": "WAYUP SJRP SISTEMAS DE GESTAO LTDA",
+    "location": "Bauru, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-expert-consultoria-em-rh-3636685554?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=sbwu6WXWKEj%2BP%2BjukIiFpA%3D%3D&position=4&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistene Fiscal Jr",
+    "company": "Njkfouri",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-globaltask-tecnologia-e-gest%C3%A3o-3630100634?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=0OFZDpEa9ojDG9uPnj7kfw%3D%3D&position=6&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Trainee na área Fiscal",
+    "company": "São Vicente Contabilidade",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632134502?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=inwmR2mDpyv%2BSBSuYKdumA%3D%3D&position=7&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "SAP FI CO Sênior",
+    "company": "TECNET IT SERVICES",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-4n-consultoria-em-recrutamento-e-sele%C3%A7%C3%A3o-3636694439?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=jpneT78%2FkfFq4a1cNhgycA%3D%3D&position=8&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "SAP FI CO Sênior",
+    "company": "TECNET IT SERVICES",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-silnave-3636679205?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=uKY6vg8kX998XkU%2Bm%2BQ4sA%3D%3D&position=9&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor Mastersaf",
+    "company": "PRIME IT",
+    "location": "São Paulo e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-desenvolver-recursos-humanos-3636697779?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=0RSZkO0%2FA5EkeNszvF9aKg%3D%3D&position=10&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Assessor(a) de Imprensa PL/SR",
+    "company": "MOTIM",
+    "location": "São Paulo, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rheserva-consultoria-3636685099?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=UMiuPx7q5rfjYSqcWIsvjQ%3D%3D&position=12&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "COTADOR DE FRETE",
+    "company": "Transito Brasil",
+    "location": "Nova Santa Rita, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-falavinha-next-3636818293?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=GzVjObCjW26aW2Y1SCcs8g%3D%3D&position=15&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "SAP FI CO Sênior",
+    "company": "TECNET IT SERVICES",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633325314?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=GlsZWKUUyP0Y5SYlKJpUBQ%3D%3D&position=16&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Gerente Financeiro",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Alvorada, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633322076?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=%2BRVYK16xy6rNIzpd3OibUg%3D%3D&position=17&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Consultor de Filme",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631575995?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=smJfr4iegU%2Fp4r9WJpmDRg%3D%3D&position=18&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Certified Financial Expert - Remote",
+    "company": "Appen",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633324647?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=tg82HumzG%2FSl%2BWK5%2B8ml3Q%3D%3D&position=19&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Contabilidade",
+    "company": "Estágio Sul",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-eb-corporate-3632794149?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=Rmvw0wR4VvlNFqSa%2B8BFHA%3D%3D&position=20&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Certified Financial Expert - Remote",
+    "company": "Appen",
+    "location": "São Paulo, Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-protemp-empregos-3636813609?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=axdb46qzhNHa3oyMOA%2BZHg%3D%3D&position=21&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Certified Financial Expert - Remote",
+    "company": "Appen",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631587444?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=VKNp6JnYbFBQcjtZE574Og%3D%3D&position=22&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Alpina",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633317615?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=k%2BcKECxsQjZgFbWIEWK3sg%3D%3D&position=23&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "IEST Group",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-5641-at-win-carreira-3636687007?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=rjpNGgYZR7Y%2BfK%2Fb5GaL9w%3D%3D&position=24&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Nova Corrente",
+    "location": "Salvador, BA",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-hb-contabilidade-3636672307?refId=4uOexXKozif79gN6826FnQ%3D%3D&trackingId=u0fVcd4xJQPC8wqGFtJo3A%3D%3D&position=25&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "SILNAVE",
+    "location": "Belém e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632137602?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=Tn3fIPQiEu1wU5Pour%2F0nQ%3D%3D&position=1&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Macrotec",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-grupo-larch-3636694089?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=VL7rJzP0GIYRbPtIUcwEtw%3D%3D&position=2&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Preçolandia Comercial Ltda",
+    "location": "São Paulo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633320501?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=%2FQKKEZyVZlrEMTi2L3Y9kg%3D%3D&position=3&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "SKZ Contabilidade e Serviços",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-building-profits-group-3636689429?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=%2Fxxhrt%2F%2BpmMPgmqJ2ycdgQ%3D%3D&position=4&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Grupo VRS",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-safras-cifras-3632681810?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=agIKMq2YPMalP0bpFVbwsw%3D%3D&position=5&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "GRUPO DOM",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631578970?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=0QuIk1iwiRhYJmXBtaZKlQ%3D%3D&position=6&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Eli Lilly and Company",
+    "location": "São Paulo, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582175?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=M9%2FdtZME508OXWLQCVFaZQ%3D%3D&position=7&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rhf-talentos-3635409281?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=l33EtrLbimE7SlNiIkpKiA%3D%3D&position=8&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contabil",
+    "company": "Ibratec, A Packaging Company",
+    "location": "Itapevi, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633316815?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=XNteoqawskMsl1U6WY6MDA%3D%3D&position=9&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador Junior",
+    "company": "F. Fuentes Teixeira Ltda.",
+    "location": "São Paulo e Região",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/coordenador-cont%C3%A1bil-e-fnanceiro-at-psicoespa%C3%A7o-ltda-3636814806?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=CmPwEWKXTLLVjq6fRbVuLw%3D%3D&position=10&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "REITERLOG",
+    "location": "Nova Santa Rita, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633338069?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=XKWqOFCU4EggRjOcKbTWGw%3D%3D&position=11&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Planning",
+    "location": "Goiânia e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633325287?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=oIA7xZo%2F08Qv4dwrXt1fkA%3D%3D&position=12&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Brasil Refino",
+    "location": "Simões Filho, BA",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323580?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=TxAtH9TRfcxSRXcFZcUfWg%3D%3D&position=13&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Page Personnel",
+    "location": "Ponta Grossa, PR",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783159?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=86Sz6QKSlse44OPlijMskw%3D%3D&position=14&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Med Salva Emergências Médicas",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rh-curitiba-41-3045-7127-3636689998?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=EJs5r9tBbfRUvbGnRfWr1w%3D%3D&position=15&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Somat Contadores",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323574?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=DY7nJjK27OvMLpQZpl9BCA%3D%3D&position=17&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "TH Gestão e Pessoas",
+    "location": "Rio Verde, GO",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631578857?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=8zpQX%2FE3lo5x4tkkJVdSfw%3D%3D&position=18&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "CLM Controller",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323114?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=besNqfydaGa3hVhIT5zXWQ%3D%3D&position=19&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Betim, MG",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631587159?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=TKZIYJy9tTylyDOTC%2Ff6Uw%3D%3D&position=20&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Grupo Luzems",
+    "location": "Tubarao, MA",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633780671?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=t4IOMMXjLb6LnR6b2UIsbA%3D%3D&position=21&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Ello Seleção de Pessoal Ltda",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633781157?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=Nlj%2Fw6US7cbvxaGXG0q2KQ%3D%3D&position=22&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Oriente Psicologia Organizacional e Desenvolvimento",
+    "location": "Juiz de Fora, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-arco-verde-consultoria-em-rh-3636688830?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=6nYHsRD36BE9%2FFUbYjYDFA%3D%3D&position=23&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Grupo Moro RH",
+    "location": "Araucária, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633316775?refId=Sq5Dt58Zz2R3uKCZtmaoEw%3D%3D&trackingId=9T3bjp4X9xaZWpWihFM9GA%3D%3D&position=25&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Flyby Viagens",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581206?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=HlbcWFXZngAF%2FBJAcOg99w%3D%3D&position=2&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BRASIL TRUSTEE",
+    "location": "Campinas, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-engenha-3630105113?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=LrHvB0k9GJZYsRbbXFzEiA%3D%3D&position=4&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Engenha",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-icf-integra%C3%A7%C3%A3o-contabil-3636800415?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=5Zjy9lyPTLMHT4EtBjvyyA%3D%3D&position=5&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BR Motorsport",
+    "location": "Barueri, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-presenza-psicologia-3634661723?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=OxBnCfUz4uPdr%2FApFs35Sw%3D%3D&position=6&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Casa De Francisca",
+    "location": "São Paulo e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-inclusiva-rh-3636808247?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=2%2Brn%2B1q%2FgBXNmf5sCPEzUw%3D%3D&position=7&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTÁBIL",
+    "company": "Neo Pessoas",
+    "location": "Palhoça, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-unicarreira-rh-3636808620?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=iliawrWghyWCjl1m%2FNJkxQ%3D%3D&position=8&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "EAM Contabilidade",
+    "location": "Taboão da Serra, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633324148?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=zBajYLWqSu02OHd66MHwDg%3D%3D&position=9&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "G&S Desenvolver e Humanizar",
+    "location": "Presidente Lucena, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633316883?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=LbIN0d15wj6C3rdsuXrVIQ%3D%3D&position=10&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Robert Half",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3634313480?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=pWUbvXVcbmxHfiEVmzCXGQ%3D%3D&position=11&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633322173?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=CZ46ymGZptvxFprfZLR3HA%3D%3D&position=12&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "RH NOSSA",
+    "location": "São José dos Pinhais, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633316949?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=NIQ0%2Bh9OpuyISaPV%2FFeXGQ%3D%3D&position=13&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Grupo Planning",
+    "location": "Goiânia, GO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583718?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=R%2BxGVwS65Yiwsy91eSlw1g%3D%3D&position=14&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "ROI Contabilidade",
+    "location": "Itajai, RR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633322477?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=QkpzWkxYdblnagqauSK6AA%3D%3D&position=15&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Construtora Adn",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633321205?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=II%2B%2FxR561%2FpqcFv%2FNp5u1g%3D%3D&position=16&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Desempenho Seleção de Pessoal e Serviços Temporários Ltda",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/financial-accountant-analyst-at-ubs-3595580736?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=sQMcZtGWQBxx8B2JPqH4Tw%3D%3D&position=17&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631584318?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=%2F%2Fry%2FvieCwJCPkkeSj7C4A%3D%3D&position=18&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-people-meet-3631390251?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=OGbpS6l8zxJ2Op3HsbupSw%3D%3D&position=19&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Recruta Simples Vagas",
+    "location": "Ribeirão Preto, SP",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319349?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=Cb6GwKxltwxzFq4pypRtQw%3D%3D&position=20&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "B4A",
+    "location": "São Paulo e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635302911?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=H0Eo0r2dkLJj3G3QbtFfzQ%3D%3D&position=21&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTABIL",
+    "company": "Expert Consultoria em RH",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633317594?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=xas6kPhcS%2BF6cOoNsV2tDQ%3D%3D&position=22&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "SUMMIT CONTABILIDADE DIGITAL",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061748?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=alCangf9tuRVIUnysbfTNw%3D%3D&position=23&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Globaltask Tecnologia e Gestão",
+    "location": "Cuiabá, MT",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631586718?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=hvIlg%2FRX6%2FoBekV6E%2ByXJw%3D%3D&position=24&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São José, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-1-at-the-church-of-jesus-christ-of-latter-day-saints-3637581520?refId=yT7zVmoHtUfWAe8WcR0%2Bnw%3D%3D&trackingId=rRNONV8PrUeEKTdHI51g1Q%3D%3D&position=25&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "4N Consultoria em Recrutamento e Seleção",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583331?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=KQmKnb0xYpvrlwf3VAG8mA%3D%3D&position=1&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "SILNAVE",
+    "location": "Belém e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633780304?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=%2FwoajNMauhK%2B2pEFEi%2F%2FYw%3D%3D&position=3&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTÁBIL",
+    "company": "Desenvolver Recursos Humanos",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rg-contadores-associados-3636684839?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=t4IPT6tBrADHDMCfvcxIBQ%3D%3D&position=4&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Genco",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581551?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=24sExjFpA5EyqTbO3UEYXw%3D%3D&position=5&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Rheserva Consultoria",
+    "location": "Barra do Piraí, RJ",
+    "date": "2023-06-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-malka-recursos-humanos-3636672149?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=cHGiyQqxUuZKxRBYsFpb3Q%3D%3D&position=6&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Oriente",
+    "location": "Araruama, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-malka-recursos-humanos-3636670482?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=NZG8%2BTd0yuM6uQ3X24gB5g%3D%3D&position=7&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Oriente",
+    "location": "Araruama, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323380?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=JJ7QisUCbcrewTGVUuziMw%3D%3D&position=8&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Falavinha Next",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319763?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=Z%2FYdOT4qw4LUDpw18ORT5g%3D%3D&position=9&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Várzea, PB",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583223?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=wIo4HhjUdHEcouk%2FbHy%2FQQ%3D%3D&position=10&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580624?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=aT8kyL%2BZ8vOWsxeEU2s92g%3D%3D&position=11&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Vista Alegre do Alto, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631593206?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=DbKbOZFD7RZCEVVu%2BCDfWw%3D%3D&position=12&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633317621?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=vErx3De8QQl8qun7jxQ2lQ%3D%3D&position=13&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "EB Corporate",
+    "location": "Cotia, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-engenha-3628394698?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=ZwGXbQsDyTDTMOY4%2F4HeFw%3D%3D&position=15&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Protemp Empregos",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631579307?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=DhoqTpIpKrjKGXan1dUDRA%3D%3D&position=16&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Vitória, ES",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631576919?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=uNENfq5hpd2tQbhFziPC2g%3D%3D&position=17&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632139336?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=DPW9i9aM4V7wAJZrrqAw8w%3D%3D&position=18&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil (5641)",
+    "company": "Win Carreira",
+    "location": "Passo Fundo, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-gomes-e-ara%C3%BAjo-cont%C3%A1bil-3637501857?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=s3GEFR%2BAtwQtj6YCcc0WMg%3D%3D&position=19&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "HB Contabilidade",
+    "location": "Campinas, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-qualificar-rh-3636694032?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=6CnGjm%2BzKErF4uq03m9VRg%3D%3D&position=21&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636055605?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=P%2BZbkF1djNYVgv4PqWSLjg%3D%3D&position=22&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Grupo Larch",
+    "location": "Juiz de Fora, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580159?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=HGb97uzUG0tLGhM2TugidQ%3D%3D&position=23&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-grupo-moas-3638315265?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=MyQE0zs5ome9JaOYG%2FcaCw%3D%3D&position=24&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Building Profits Group",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582348?refId=crxPcxQZAy3SrdqbogLv6g%3D%3D&trackingId=RUGF%2FJ9DOiy8GQe%2BMeGKmQ%3D%3D&position=25&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Safras & Cifras",
+    "location": "Uruguaiana, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633318399?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=F3fGTEjb%2FW%2FIGdh1Gm%2BBDA%3D%3D&position=1&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585868?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=IYUGYhQepbD8Z3j26L0djA%3D%3D&position=2&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Anápolis, GO",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580302?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=Y2vTbL%2FL9GlqiwIqp5oJQQ%3D%3D&position=3&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "RHF Talentos",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631576940?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=QapLaJjhNH1kF28cnkgjXg%3D%3D&position=4&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631577868?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=61QbW6L5f16AQHO1u0qyNA%3D%3D&position=5&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Coordenador Contábil e Fnanceiro",
+    "company": "Psicoespaço LTDA",
+    "location": "Vitória, ES",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-pg-recursos-humanos-3636806669?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=WUbTM%2FEKj5WIn4mqMD%2FTmw%3D%3D&position=6&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3634369742?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=JO%2FszkmnZARJsg3VyT3ciQ%3D%3D&position=8&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Piracicaba, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631577958?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=7wotXpP7%2BgwsMxBypPy6Dg%3D%3D&position=9&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580472?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=pQbfRkqjQSF%2BIPP2BLUpzw%3D%3D&position=10&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631588494?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=hGa3sATTOAoPfTNWmb%2F2BQ%3D%3D&position=11&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "RH Curitiba | 41 3045-7127",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633321220?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=KEZSoKZthnYVkWPIoCB4ZQ%3D%3D&position=12&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente Contábil",
+    "company": "CONTE SOLUCOES EMPRESARIAIS LTDA",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632135530?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=uyAW6E9hCgbYzKVuQ2%2FuYw%3D%3D&position=13&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633322558?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=quaIMjFZH0NdbANWkIgmEg%3D%3D&position=14&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319732?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=p0vvfxOnHklH4NA7RaxjZQ%3D%3D&position=15&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632140306?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=mgSQh2gP5XC3s7ktYmcVKw%3D%3D&position=16&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Cotia, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631590178?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=ILF1LgX5pU%2BEBBWPqjqI2w%3D%3D&position=17&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Brasília, DF",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631588480?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=7D%2FyGrThsDgEfhBzQfXCDQ%3D%3D&position=18&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631587234?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=E4%2B8%2FtOMGVC9Aat6XAP4yA%3D%3D&position=19&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Arco Verde Consultoria em Rh",
+    "location": "Ribeira, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-ppse-consultoria-cont%C3%A1bil-3636675006?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=bS6UxurzDe6ArVu8eLqnMg%3D%3D&position=20&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "mello e castro assessoria",
+    "location": "São João de Meriti, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635308016?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=EJ6OFR54uURn5osCl%2FIlww%3D%3D&position=21&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3634312740?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=a1ThMI3mXip21hr5DXTQwA%3D%3D&position=22&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "PP&C SERVIÇOS CONTABEIS LTDA",
+    "location": "Brasil",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636051991?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=TQm3nlkCh2lpJn0YOO8FzQ%3D%3D&position=24&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Itapema, SC",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061629?refId=2cqTHP6Z8Ez9brB4wLte7w%3D%3D&trackingId=iLio0pdTrgD2fL6Ko59jLw%3D%3D&position=25&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "AXXIS CONTABILIDADE, CONSULTORIA DE NEGOCIOS E BPO - LTDA",
+    "location": "Brasília, DF",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631587212?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=QwivamFNMgVgPa2QbYCY8w%3D%3D&position=1&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Engenha",
+    "location": "Cuiabá, MT",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585415?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=hTkfxFK6d4wcvL8tarCXMA%3D%3D&position=2&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "ICF INTEGRAÇÃO CONTABIL",
+    "location": "São Paulo e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633777312?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=x1cGl0ndIBo80PvUpWIdOw%3D%3D&position=4&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Presenza Psicologia",
+    "location": "São José, SC",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632137263?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=U7QP95ve3nY%2BhpNKhkmLZA%3D%3D&position=5&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "INCLUSIVA RH",
+    "location": "Florianópolis e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633318797?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=IMg%2FCG%2F%2BP13Xt19o9u%2BB6w%3D%3D&position=6&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Unicarreira RH",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631586749?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=4L8sgyvoCO3N7kETeTc26w%3D%3D&position=7&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Uberaba, MG",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-unicarreira-rh-3636643914?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=lYNQomET7%2F7Lx8%2FuJKyB%2Bg%3D%3D&position=8&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Lucas do Rio Verde, MT",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631576938?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=MFVNFVP%2B4d3ZCgHlOYPkng%3D%3D&position=9&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Joinville, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635336956?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=WO4%2FFAFWO7%2B9uj86ZZotBg%3D%3D&position=10&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-apoio-neg%C3%B3cios-3637709823?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=P8kJyOSfq55orpwkRbLA6A%3D%3D&position=11&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-consultec-gest%C3%A3o-cont%C3%A1bil-3635645890?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=asNj37VpYvkTxxbFOtNdkQ%3D%3D&position=12&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635338942?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=FUAvyOU%2Fje7y385pbuRtOg%3D%3D&position=13&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Monte Aprazível, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631579458?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=RVXcQoxK23pkW%2BN%2Batsg3w%3D%3D&position=15&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-caderno-nacional-3637546816?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=hbCrrjVmn3rRnfynUjWnRw%3D%3D&position=16&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Financial Accountant Analyst",
+    "company": "UBS",
+    "location": "São Paulo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633317773?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=034u757VNbQB0A4Dbqr5lw%3D%3D&position=17&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635336962?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=L1GVS2sqEo9AVK8dtoDLyg%3D%3D&position=18&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "People Meet",
+    "location": "Serra, ES",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580554?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=WpkWT20Lo0Av8v3QVBLCGQ%3D%3D&position=19&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635337939?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=pv6YGDoMsjR2XtTXJydx5A%3D%3D&position=20&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Várzea Grande, MT",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633780596?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=306XWT1iRKKBUAvjUFUeoA%3D%3D&position=21&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Aparecida de Goiânia, GO",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583134?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=fjnQh4TGRigWUZchAnfm3g%3D%3D&position=22&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Várzea Grande, MT",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581383?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=0570VN0rxr8TCwuaCW%2FmoQ%3D%3D&position=24&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Itapecerica da Serra, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633780128?refId=VCZ5ZvXpflm8a%2BRvawavew%3D%3D&trackingId=49EH47zFSsXmftBUGNJpzA%3D%3D&position=25&pageNum=14&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil 1",
+    "company": "The Church of Jesus Christ of Latter-day Saints",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632134613?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=izuRu2niu513EFWHI%2BqXog%3D%3D&position=1&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Jaguariúna, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-soma-gest%C3%A3o-cont%C3%A1bil-inteligente-3636680283?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=jVh0MqWXGnblAbJz%2FNg4Gw%3D%3D&position=2&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Fernanda Cecilia de Souza Rodrigues",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583306?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=PXAyd2g4PuJLU5xJ%2BLsoRQ%3D%3D&position=3&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Luís, MA",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633382632?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=PJBetBHC1oQk09jtXhb6HQ%3D%3D&position=4&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "RG Contadores Associados",
+    "location": "Florianópolis e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061812?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=IIIyo5ZgcgRxZNLjPZzeVA%3D%3D&position=6&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633318592?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=S7ig5KTFs0MjQdOHWldVtg%3D%3D&position=7&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Malka Recursos Humanos",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-beeteller-3635383827?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=DEGcC%2B9r9EiCj24OF9wYrQ%3D%3D&position=9&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Malka Recursos Humanos",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582441?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=wCDMMb3F6dBosvk57xFXqw%3D%3D&position=11&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632136829?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=zDriSXuQc6NjezKFaCM%2Fvg%3D%3D&position=12&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633321260?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=%2F%2FmFFvdK8IsvRsubp20yow%3D%3D&position=13&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632136562?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=7bP87op5%2B1iD%2BOK1EpmfGg%3D%3D&position=14&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-moderna-emprego-3636801778?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=EjkzHtO1y7EKWFNpsgRIng%3D%3D&position=15&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Barueri, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582605?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=1WLWs4yffdShatw9gcuZFw%3D%3D&position=16&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campo Grande, MS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580711?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=m30dkYif9p2NjzERPmmD4A%3D%3D&position=17&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "CONTABILIDADE & CO",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319186?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=OnN9txu%2B1tXguin0mgF7IQ%3D%3D&position=18&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Engenha",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633320330?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=yZrP0IxxuEgNcv2So%2FhYfA%3D%3D&position=19&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-ball-horticultural-do-brasil-3636106910?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=gDPQ%2B0EMeswbVKFL3LjJ1A%3D%3D&position=20&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Mariana, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-caderno-nacional-3635455687?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=MPBLsBkf3%2BgUwJz%2B7YNnAA%3D%3D&position=21&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632139013?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=QTI%2FnPz6D6U5gCv80Tb6BQ%3D%3D&position=22&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTABIL",
+    "company": "Gomes e Araújo - Contábil",
+    "location": "Santana de Parnaíba, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061671?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=simOjX6c%2BJpNQPp6jE81Cg%3D%3D&position=23&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "CONSPER",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585762?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=Dlr6V%2F0ijFwe0hXVKKQfug%3D%3D&position=24&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Qualificar Rh",
+    "location": "Goiânia e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633782163?refId=1kontvpWnfir%2FSy2ih0QvQ%3D%3D&trackingId=E3ajxv8K75HOU%2F%2FREV2qYQ%3D%3D&position=25&pageNum=15&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319499?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=0u3yU3Cz9kMLRkZwSeh%2B0Q%3D%3D&position=1&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Maceió, AL",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-moderna-emprego-3636802920?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=ZFERhmBuUXYjS4lHmZP7kQ%3D%3D&position=2&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Grupo Moas",
+    "location": "São Paulo e Região",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635341453?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=CFhJd2bHMCio8bMDFvU3Fg%3D%3D&position=3&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Conceição, PB",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323462?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=%2BnU6GiZwt%2Bs2a%2B5U6UADGA%3D%3D&position=4&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783145?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=7GwNPG2p3gq77H8a2Ogwrw%3D%3D&position=6&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631588546?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=eQ72YD%2BQeeLjkCIthFevGg%3D%3D&position=7&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Itapecerica da Serra, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-triarh-3636678446?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=g7%2FGXhwL5lAt2bIe2mFmgw%3D%3D&position=8&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Itapecerica da Serra, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633322340?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=NKRVSlLpV0ne2JI%2BdyjFYQ%3D%3D&position=9&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Mariana, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636063229?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=yD9f%2FYOlVlPB9WYyqhaOrQ%3D%3D&position=10&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "PG Recursos Humanos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633319181?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=vL6lr8BD6o4C61ws1MFcBQ%3D%3D&position=11&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "UNICON CONSULTORIA EMPRESARIAL",
+    "location": "Campinas, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-coachr-recursos-humanos-ltda-3633649077?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=Z9%2FqWHwZENcyCXecVPSL2w%3D%3D&position=13&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Pinheiros, ES",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585277?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=K1hNZAsD5h6d1jOtU00aTg%3D%3D&position=14&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Barra Funda, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632139155?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=igzM8cwiJS5S7cDPvJCmPQ%3D%3D&position=15&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631577802?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=aDYVp1Q%2FTsCYY6LfTEwgow%3D%3D&position=16&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-assistente-at-talentista-3635640907?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=U3IU45pNcLLc%2ByD4HSyfPw%3D%3D&position=17&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636059329?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=boSyyYKWpcBaYCr08IxaRA%3D%3D&position=18&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636176251?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=8xOfkf7LB8lz8ESTgUbMVQ%3D%3D&position=19&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Jarinu, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-futurha-assessoria-em-gest%C3%A3o-de-pessoas-3636665861?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=wX7B99yK9PoEoYw2xfulZQ%3D%3D&position=20&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Jarinu, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631584281?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=YqXePE%2FrL9CIPYBtmm6T9Q%3D%3D&position=22&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/contador-superior-secretaria-de-estado-da-administra%C3%A7%C3%A3o-de-sergipe-sead-se-at-concursos-p%C3%BAblicos-carreira-administrativa-3630991436?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=A6pu30xBIlo%2FEi31lqO0yA%3D%3D&position=24&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Maringá, PR",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633323330?refId=%2B4iZMkIITXyRZSmEFrROxQ%3D%3D&trackingId=pH0YaGAbypS%2B9hhQOQZ1qw%3D%3D&position=25&pageNum=16&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Aracaju, SE",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-alfa-assessoria-contabil-3633078414?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=0c4e9ixLloPxFx3A%2BIKI7A%3D%3D&position=1&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Sapucaia do Sul, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783229?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=mI7tmSdzl31zsdBuUJp7AA%3D%3D&position=2&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Ppse Consultoria Contábil",
+    "location": "São Paulo e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632140109?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=E6XlsmqrmLFWlLsDACL2xw%3D%3D&position=3&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Cuiabá, MT",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633775884?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=DV%2FNUn84QwL2xIQuP2TdKg%3D%3D&position=4&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Cuiabá, MT",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632141047?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=djo6GaY6t3oi%2FRNjqbpPVw%3D%3D&position=5&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil (1)",
+    "company": "Alianzo Auditoria e Consultoria",
+    "location": "Goiânia e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-contabilidade-at-r1-constru%C3%A7%C3%B5es-3634795642?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=7emo%2BcjRYKSwOS2nHL6DCg%3D%3D&position=7&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Lauro de Freitas, BA",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061714?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=GaM04ItVxA%2BgvtzO1hCMLQ%3D%3D&position=8&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-apoiarh-consultoria-em-gest%C3%A3o-de-pessoas-3636688019?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=xEFe7BZLUEaOlzzGzScLsQ%3D%3D&position=9&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Taquara, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583170?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=QdJwclTR3KzGP4wONx1chw%3D%3D&position=10&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636051942?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=fy4gkhHi5snJzDKjQfV5vQ%3D%3D&position=11&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "J Assessoria e Inteligencia Contabil",
+    "location": "Natal, RN",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632135523?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=NqAAN8PPe4F6GgSvz5tPGQ%3D%3D&position=12&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632134634?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=eIgJq4nARtiWPCXE7Y11GQ%3D%3D&position=13&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-envel-contabilidade-3632586213?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=vz1iaQc9rvvIaGrukq0%2FHg%3D%3D&position=14&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Moreno, PE",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rheserva-consultoria-3636816559?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=GXa6Ph9t5ICNyTCXhs4NKw%3D%3D&position=15&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Louveira, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633777601?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=M%2FhBYX9%2FKRuYxMSQRIpfcg%3D%3D&position=16&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Unicarreira RH",
+    "location": "Viamão, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580546?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=DbIlL0xvL4Dkv2mMGa5tQw%3D%3D&position=17&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Barra Funda, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631578935?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=ieCyxRqQDDF2M%2FWxpZI7Ew%3D%3D&position=18&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Igarassu, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633781225?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=tGtkMcFt%2FY%2BP%2BQ4h8Vq8Ww%3D%3D&position=19&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTÁBIL",
+    "company": "APOIO Negócios",
+    "location": "Goiânia, GO",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581095?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=kyuecuwapNKId1hnE1yvTA%3D%3D&position=21&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Consultec Gestão Contábil",
+    "location": "Joinville, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3635302851?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=pLsbZOvO2lAZW6q%2BQiDfiw%3D%3D&position=22&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580513?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=4P1tJDe1L09FtmFDRuSUmg%3D%3D&position=23&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Jrl Serviços Temporario",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-avicena-solu%C3%A7%C3%B5es-humanas-3628395496?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=crT4B1LmkzNdgObTcUJhfA%3D%3D&position=24&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Conceição, PB",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633775859?refId=fZRLlXJlTdpSooEExjiydQ%3D%3D&trackingId=FH9NTMfKyrbE8uX122GStA%3D%3D&position=25&pageNum=17&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Caderno Nacional",
+    "location": "Maracanaú, CE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632138419?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=dhqrmS8WdjAtR38xzbTcag%3D%3D&position=1&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Vitória de Santo Antão, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631588223?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=RD6AOp%2Fl64ZqN8mNo1W2jA%3D%3D&position=2&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633781187?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=S400XPrwjNSp%2BoMRugdxEA%3D%3D&position=3&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631589320?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=c1y3WkC4fL8r1JKbcCz2fw%3D%3D&position=4&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Joinville, SC",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779331?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=6iwWTWqWFn1Q0ADxo6FWKA%3D%3D&position=5&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Taguatinga, TO",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633781112?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=gSiXr8wjO3bWPecvVuH7ag%3D%3D&position=6&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779585?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=GzOILI3Jv72nHr%2F7n7BmbA%3D%3D&position=7&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "LURE CONSULTORIA",
+    "location": "Goiânia e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632136820?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=nfDjB%2Br7cH3c1KrJgHZ5Qg%3D%3D&position=8&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632133682?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=5DKs0KnFNYvKYTsvWb0ADw%3D%3D&position=9&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-pl-uberl%C3%A2ndia-mg-at-cargill-3636639671?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=WnyEvn6aZwojVsIjtRF8Fw%3D%3D&position=10&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631586387?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=TME8amRs98EkMd7m1FV%2Bhw%3D%3D&position=11&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Soma - Gestão Contábil Inteligente",
+    "location": "Goiânia e Região",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-caderno-nacional-3637548748?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=IoWIJ3nNMFEc1h8erXB1xg%3D%3D&position=12&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633774873?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=nTp6cmgfF6llZ2eqww79ug%3D%3D&position=13&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Recife, PE",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632139149?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=U1C85VbARrMWAA1UMvHs4w%3D%3D&position=15&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Águia Contabilidade",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3634313461?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=AYxl%2FXm0RuN9PldDuUdIqw%3D%3D&position=17&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633776906?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=FV1gyt%2FonnotOQc4vfF9Kg%3D%3D&position=19&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-talents-consultoria-rh-3636679175?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=6TF6nad20euz8IFzB5kxRg%3D%3D&position=21&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Gmf Contabilidade",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580103?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=QwEk6zYWafKoDmoOQvJcbQ%3D%3D&position=22&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Beeteller",
+    "location": "Campo Grande, MS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-gps-pessoas-3636677427?refId=3gLUdnBwK6T%2FdDgiwvuRmQ%3D%3D&trackingId=Q6pv1FMJGb%2FzOIQtbxK8UA%3D%3D&position=24&pageNum=18&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Premiere Empregos",
+    "location": "Brasil",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583210?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=Bw92Dzn7BzAtRFgFIOdL4g%3D%3D&position=2&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Feliz, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631592784?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=FWMke8MVIOyXgtLnXVUkgg%3D%3D&position=4&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583058?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=NMVH65hcDXfuD7K6SWPy5A%3D%3D&position=6&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Igarassu, PE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632152311?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=bhgDOTbe6UUiu8hqDYOH3A%3D%3D&position=7&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-griff-empregos-3636682027?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=orLUc5mwZwdBYJDfK0K7Jg%3D%3D&position=9&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Moderna Emprego",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783027?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=tkV07rGLLFyyfPIuy99lXQ%3D%3D&position=10&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Canoas, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582312?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=mWL4QtUGr06hEiTXZuG65A%3D%3D&position=12&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Pinheiros, ES",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/auxiliar-de-contabilidade-at-dexo-group-3638315239?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=t%2FqWPZsDgIPPrp6zaIe%2Bhg%3D%3D&position=13&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632154078?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=wYRjZjgb66BTONF%2FkGnR6g%3D%3D&position=14&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Igarassu, PE",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-funda%C3%A7%C3%A3o-de-apoio-a-pesquisa-e-ao-desenvolvimento-faped-3636296179?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=MZkcJgLWrrYBKO0s5Lw%2Blg%3D%3D&position=15&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Ball Horticultural do Brasil",
+    "location": "Holambra, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-antilhas-embalagens-flexiveis-3636810319?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=am7wfhjiVJKx8is1vjMVQw%3D%3D&position=16&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Caderno Nacional",
+    "location": "Joinville, SC",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779083?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=NVzoHV638J8nXZIm3TYYCQ%3D%3D&position=17&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633775622?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=3CAJPoLDfT4HeLyG1lM18g%3D%3D&position=19&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Boa Viagem, CE",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585094?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=L1D4bBSmN4GaLAGJLhdP2Q%3D%3D&position=20&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Salvador, BA",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633774924?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=q5dMqDTqYnZj5yG%2BhAEVXA%3D%3D&position=22&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-justo-assessoria-contabilidade-3633027396?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=jg%2BJb9Ubqp0f7VJ6Bnkssg%3D%3D&position=23&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Jaguaré, ES",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-fort-atacadista-3636810270?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=rWKWN0Bce0G4i5Bxx9j2bA%3D%3D&position=24&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Moderna Emprego",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-r-d-empregos-3638310860?refId=5APP4vCJJqHludgKFdfTTg%3D%3D&trackingId=71x0JchioZP9zqIpf2XBLw%3D%3D&position=25&pageNum=19&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582486?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=cjG7Nh9M4ltVd69kT7uIHg%3D%3D&position=1&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Aparecida de Goiânia, GO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632133695?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=IRVOobgkHFGfmYHU9kF4vA%3D%3D&position=2&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Krypton",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633776997?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=R3G923IM2Iqr1XtMpUnj7A%3D%3D&position=5&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631580812?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=PSwgQP63OeizAnoj64flMg%3D%3D&position=8&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Aracaju, SE",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632138148?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=POxIrZx8TFp6u%2B475eu4LA%3D%3D&position=9&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "TRIARH",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779355?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=QzT5KL3t%2BiVwJQZVCzD8PQ%3D%3D&position=11&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campo Grande, MS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631590040?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=fvnfa5pKmh%2FWpa2t8xp8Bw%3D%3D&position=12&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783048?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=AYlRHFFglbP0YdmqaCTSJw%3D%3D&position=15&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633778623?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=DGCSlaLWYn6wuFidaHYf7Q%3D%3D&position=16&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Consc",
+    "location": "Blumenau, SC",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632138327?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=hHnuNj8EaapcYPkRkFVO3A%3D%3D&position=17&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTÁBIL",
+    "company": "COACHR RECURSOS HUMANOS LTDA",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779312?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=D1RSD5aSM3n4DMP2sc3g4Q%3D%3D&position=19&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582270?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=5%2F7pKkvDcLG45xs39aHUIw%3D%3D&position=20&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631584197?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=%2Fs8ConSEtGgRcMVm8Mh4eQ%3D%3D&position=21&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São José, SC",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783081?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=ziEEafioVebwigzqYyz%2FRA%3D%3D&position=22&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador assistente",
+    "company": "Talentista",
+    "location": "Passo Fundo, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582343?refId=Fpl0Lcbg2Pt1B5P0037%2FHw%3D%3D&trackingId=kPoQVPuYGaEzPwgpaVHhgA%3D%3D&position=25&pageNum=20&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583224?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=jSGYRX656XeN8dkjqJEyDA%3D%3D&position=3&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633780377?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=1QKFT4goqGy0kzpGg2e1qg%3D%3D&position=4&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Futurha Assessoria em Gestão de Pessoas",
+    "location": "Bento Gonçalves, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-atitude-empregos-3636818006?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=O3PE4KSIxYT9rrFYoZS5dA%3D%3D&position=5&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "GR Ourho",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631587223?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=2eGg3z%2FA%2FViVV5ijpDG%2FLg%3D%3D&position=6&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Esteio, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583265?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=Lhnoutmh2J5Xivi3JhAZuw%3D%3D&position=8&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "People 55",
+    "location": "Tijucas, SC",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581061?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=RL1HItd3iLLdgKSWHuMhGg%3D%3D&position=9&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Contador - Superior - Secretaria de Estado da Administração de Sergipe - SEAD-SE",
+    "company": "Concursos Públicos: Carreira Administrativa",
+    "location": "Aracaju, SE",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-mm-consultoria-rh-3636805776?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=gxSJHqXflemWIUMLazPsDQ%3D%3D&position=10&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Americana, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631585003?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=OVoJPWbNzzwEPYyYDSH61A%3D%3D&position=11&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Alfa Assessoria Contabil",
+    "location": "Goiânia, GO",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633782130?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=x2o94EoRBEkRSfzZTOiJ%2FA%3D%3D&position=13&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061538?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=9bS0RuCcOj1lDACEqCXXWA%3D%3D&position=14&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-caderno-nacional-3635454920?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=uEM%2F%2BYovPs204rb771Km6g%3D%3D&position=15&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3636061697?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=aABzjM2ELUq0gm3o7VJ0Vw%3D%3D&position=17&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Alvorada, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633779314?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=RNTB2VCs%2FZKiOA1hFnkk3Q%3D%3D&position=18&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Suprema Construções e Projetos",
+    "location": "Aparecida de Goiânia, GO",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-sociis-rh-3636817000?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=FS4a%2B9M1D4BTmFPMDVeYHw%3D%3D&position=19&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de contabilidade",
+    "company": "R1 Construções",
+    "location": "Goiânia, GO",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633776840?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=2jPMiadlcgIkk8XtYiJCgw%3D%3D&position=20&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Araucária, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631578590?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=vwuT0gZr4PzYe0bE9a3Wew%3D%3D&position=22&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Apoiarh Consultoria em Gestão de Pessoas",
+    "location": "Goiânia e Região",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-caderno-nacional-3634294768?refId=HjyuWLVIiZdxRU6kMujcqw%3D%3D&trackingId=wYKeTY9HkgqtZrjbIMp8rw%3D%3D&position=23&pageNum=21&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632139168?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=rYHO5tsIyim6VM9HsRf3gQ%3D%3D&position=1&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633776825?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=Xl5kOtOYTzmUKfv%2BP2UKEg%3D%3D&position=2&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581442?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=2NnWGa1aEmtrhV3c7uZE9Q%3D%3D&position=3&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633783138?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=hiBPmN2kY1mTCEYcRhu0mQ%3D%3D&position=5&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Envel Contabilidade",
+    "location": "Caxias do Sul, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3633777632?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=udrwyCR4ZqZbnBfqaPXuOA%3D%3D&position=8&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Rheserva Consultoria",
+    "location": "Juiz de Fora, MG",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-instituto-nacional-de-desenv-social-e-humano-3636807061?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=Zpg%2BMUkFaK01P1sz7e5waQ%3D%3D&position=9&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-pl-%E2%80%93-uberl%C3%A2ndia-mg-at-cargill-3635028449?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=tw1id6iEJFGlUePLQXStqg%3D%3D&position=11&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-empreg-3636669731?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=GdUAIuaXME8PhUQ6d8wM8w%3D%3D&position=12&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-ceu-rh-3636678229?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=2HlDCr4jZ%2FR%2FHQ8fmZckdQ%3D%3D&position=14&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3632135529?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=QOYD%2F2UzWe7xW9Nm%2F2Rfww%3D%3D&position=15&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Elite",
+    "location": "Brasil",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-confian%C3%A7a-rh-3636676856?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=b6VabDBXldUPv5eezDnvHQ%3D%3D&position=16&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Sertãozinho, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/clt-assistente-cont%C3%A1bil-para-cachoeirinha-rs-at-work-est%C3%A1gios-3636810921?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=%2FxbgbAm%2FwGNIFmFQTEj9Ug%3D%3D&position=17&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Joinville, SC",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631583116?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=mJqbKi%2BcmTjLfvpDv8d1ZQ%3D%3D&position=18&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-conape-3636803798?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=21V3RSdcLl2TrRjzMSh5Ww%3D%3D&position=20&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contabil",
+    "company": "Avicena Soluções Humanas",
+    "location": "Curitiba, PR",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/clt-societ%C3%A1rio-e-atendimento-lajeado-at-work-est%C3%A1gios-3637588784?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=QjuwDpJdueqpQNC1f8mZqA%3D%3D&position=22&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631581574?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=ipBr0a%2BvhxLZQX6nstfKzA%3D%3D&position=24&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Gravataí, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631579607?refId=NPLWK3c3JgxwRUvKUJU9lg%3D%3D&trackingId=ctMVvllmSMGajclBeyIe4g%3D%3D&position=25&pageNum=22&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Viamão, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631584086?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=pXAO5OevaOGWRUsv1kaxpw%3D%3D&position=1&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-instituto-nacional-de-desenv-social-e-humano-3636802705?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=%2FX3izmbo4KEVJ7Krdpav4w%3D%3D&position=3&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Leopoldo, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-perfil-certo-3636691141?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=ufKT4a%2F5%2FKwmNcdVHmCOmA%3D%3D&position=5&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-seek-recursos-humanos-3636688848?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=BLRIZi2357je8ZM%2FS5v98w%3D%3D&position=6&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-apoio-empregos-3636809914?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=00YVYFzM1T6etI%2BS8%2FIgUw%3D%3D&position=8&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Osasco, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-tneuro-consultoria-de-rh-3635382048?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=Z2KrdPJFmGIiPhfjkBgrVg%3D%3D&position=9&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Cotia, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-contabil-at-pretorian-contabilidade-3636039450?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=mfq%2BJKg0j6D7GZ8dWBkeeQ%3D%3D&position=10&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rhi-gest%C3%A3o-de-pessoas-3636815988?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=B8f76C9tj2MHWoaXe5nZFw%3D%3D&position=17&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil PL - Uberlândia/MG",
+    "company": "Cargill",
+    "location": "Uberlândia, MG",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631584132?refId=vo%2Fc2GNVKwZAoU%2BBnA0EKQ%3D%3D&trackingId=vpC5yDZKZbb2ds8gPpZzlA%3D%3D&position=24&pageNum=23&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Uberlândia, MG",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-vip-desenvolvimento-humano-3637590355?refId=Ugboa5NIsRQDYpVI3WyQyA%3D%3D&trackingId=%2B1IYuTEAy0DHpbIqWmwvoQ%3D%3D&position=1&pageNum=24&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Caderno Nacional",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/coordenador-do-setor-de-contabilidade-at-nunes-contabilidade-3637533277?refId=Ugboa5NIsRQDYpVI3WyQyA%3D%3D&trackingId=a%2FgaYu3uCciq1G8FNeKkFw%3D%3D&position=5&pageNum=24&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Gravataí, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-bne-banco-nacional-de-empregos-3631582987?refId=Ugboa5NIsRQDYpVI3WyQyA%3D%3D&trackingId=DBAheRrOXmvigkt8WcFS6g%3D%3D&position=7&pageNum=24&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Lohr Sistemas",
+    "location": "Caxias do Sul, RS",
+    "date": "2023-06-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/clt-assistente-fiscal-lajeado-at-work-est%C3%A1gios-3637588774?refId=Ugboa5NIsRQDYpVI3WyQyA%3D%3D&trackingId=ZXxucUjrs8hacDIIimWd%2Fw%3D%3D&position=25&pageNum=24&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-cont%C3%A1bil-at-rdanillo-3635631999?refId=Bstf5otl%2BgrQMKApYqiYyg%3D%3D&trackingId=yB6ulbJnmlwk8heEYOX6Yw%3D%3D&position=19&pageNum=25&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Reilly Tattoo",
+    "location": "Santana, AP",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-fiscal-at-bne-banco-nacional-de-empregos-3631580891?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=zTndLZu5%2BYrgxOMxvROU1w%3D%3D&position=13&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-fiscal-at-audicon-contadores-3632537486?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=FueePC3OA2iq1nwyPOgrEA%3D%3D&position=14&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "RSM BRASIL BPO S/S",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/coordenador-fiscal-at-bne-banco-nacional-de-empregos-3631580210?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=JkFG0nuzDEbq%2BNHPnCPIBQ%3D%3D&position=16&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-fiscal-cuiab%C3%A1-mt-at-futurazy-3628342539?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=L5O7nuF9NkTeSng71UBlMg%3D%3D&position=17&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Fama",
+    "location": "São Paulo e Região",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-laborat%C3%B3rio-junior-at-purificadores-europa-3638198923?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=LxdMhRtLEdxeAtysMWOmuA%3D%3D&position=21&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTÁBIL",
+    "company": "TALENTS CONSULTORIA RH",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-financeiro-at-bne-banco-nacional-de-empregos-3633775703?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=vtC1smn2VmGUa8yiw6ELOw%3D%3D&position=22&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Gravataí, RS",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/rep%C3%B3rter-multim%C3%ADdia-ponta-grossa-pr-at-grpcom-grupo-paranaense-de-comunica%C3%A7%C3%A3o-3630678911?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=tGmUc3LgovULC%2FO5ANTNEA%3D%3D&position=24&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "CONTADOR INTERNO PARA EMPRESA",
+    "company": "Foco RH Soluções",
+    "location": "Ibirama, SC",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-attua-sele%C3%A7%C3%A3o-e-desenvolvimento-3635472153?refId=b%2BSvfI6uwcHH3aovcRnDpQ%3D%3D&trackingId=6JmB7BoUgJ5wTcICayXyWQ%3D%3D&position=25&pageNum=26&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "GPS Pessoas",
+    "location": "Maceió, AL",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/tech-lead-software-engineer-at-conta-azul-3632732091?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=8xl3vGQ7cd43LtepUiNi0g%3D%3D&position=4&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "MEGA CONTÁBIL",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-departamento-pessoal-at-bne-banco-nacional-de-empregos-3631586738?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=lny9bCOOzVgEi4ZmV29O9g%3D%3D&position=5&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTABIL",
+    "company": "Desafio RH",
+    "location": "Brasil",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-administrativa-comercial-at-workcell-3636810125?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=sFSuht%2BdTYWyFdyVzMbumQ%3D%3D&position=8&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-bne-banco-nacional-de-empregos-3631585777?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=%2F4ujgv31MefL6uZXDrp69Q%3D%3D&position=9&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Jobcenter",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628387658?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=zZQB5lHWP6%2BM5RlYIxYluA%3D%3D&position=10&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Santos, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628391309?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=cv1ZW%2Butg0mrbu1U5WN6xg%3D%3D&position=11&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista contábil",
+    "company": "Victon",
+    "location": "Blumenau, SC",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628387622?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=mPnHZ82Ojl8Rb0XBxKLVog%3D%3D&position=12&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628391303?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=Nr2X%2F7CQwL5SM3RARPj6ZA%3D%3D&position=13&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628388584?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=mSPEAv0FIrGFE3XrCZ%2FFWQ%3D%3D&position=14&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "GR Ourho",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628389561?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=BdoYaGndzMdPqqlA6ydJdg%3D%3D&position=15&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA CONTABIL",
+    "company": "Griff Empregos",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628390460?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=2A5vHq5eWFtw1GPgrs0Nxg%3D%3D&position=16&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Viamão, RS",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/certified-financial-expert-remote-at-appen-3628387660?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=hlQPCUGPQF0jHt6Bo%2FY6WA%3D%3D&position=17&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "Smartway Assessoria Contábil e Gestão Empresarial",
+    "location": "Brasil",
+    "date": "2023-06-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-contabilidade-at-san-tha-assessoria-3636813537?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=jKZv31gIpyu80UUBxGjVZg%3D%3D&position=20&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-cont%C3%A1beis-at-rhf-talentos-3635294670?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=yahjD6nze1Y9xihEBPdP6w%3D%3D&position=24&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Auxiliar de Contabilidade",
+    "company": "Dexo Group",
+    "location": "São Paulo e Região",
+    "date": "2023-06-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-at-bne-banco-nacional-de-empregos-3633781167?refId=6YFUuORxyExZDXrD4vi0og%3D%3D&trackingId=luIoOZDgCX35%2FmXGP0KC7g%3D%3D&position=25&pageNum=27&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Contábil",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Novo Hamburgo, RS",
+    "date": "2023-06-14"
+  }
+]

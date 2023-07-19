@@ -1,0 +1,2018 @@
+[
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-j%C3%BAnior-at-totvs-3656717180?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=p7AiRFNDxYcD1R8Fi9%2BTfQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Júnior",
+    "company": "TOTVS",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-cbi-data-analytics-s%C3%A3o-paulo-sp-at-kenvue-3662462470?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=CIqm1U0fLiVgtepMVUQ4PQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio em CBI Data & Analytics | São Paulo, SP",
+    "company": "Kenvue",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-j%C3%BAnior-at-vhl-sistemas-3648042037?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=5JbEXF1rSNb9V6qOIC9g6w%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados | Júnior",
+    "company": "VHL Sistemas",
+    "location": "Santa Catarina, Brasil",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-bancorbr%C3%A1s-3667868485?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=HouXLVA3cM4hz%2Bvf8ncdvw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Bancorbrás",
+    "location": "Brasília, DF",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-business-intelligence-at-blackbird-investimentos-3667898554?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=Cs8x6S174X9ARimOx%2BvByA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista - Business Intelligence",
+    "company": "Blackbird Investimentos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-comerciais-jr-at-instituto-de-gest%C3%A3o-e-tecnologia-da-informa%C3%A7%C3%A3o-3644260709?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=Ox%2FdsqfEae9kzUvic5GyCg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Comerciais Jr.",
+    "company": "Instituto de Gestão e Tecnologia da Informação",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-jr-presencial-em-fortaleza-at-tecla-t-3648560903?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=VpY67Ttad8OVgSotyWK00A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados Jr - Presencial em Fortaleza",
+    "company": "Tecla T",
+    "location": "Fortaleza, CE",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-manchester-investimentos-3659845653?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=FHvd8%2BuvhwIiBCYymtEJHA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Manchester Investimentos",
+    "location": "Joinville, SC",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-junior-bi-at-somos-todas-marias-3658348603?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=PkBEkh5wV6q7YcT6Skv0Vw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Junior BI",
+    "company": "Somos Todas Marias",
+    "location": "São Paulo e Região",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-bi-j%C3%BAnior-at-cyrela-3663507768?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=fx4PmhKg8hDtXjTQt2GpxQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de BI - Júnior",
+    "company": "Cyrela",
+    "location": "São Paulo, SP",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-privacidade-de-dados-jr-exclusiva-para-profissionais-com-defici%C3%AAncia-at-alelo-brasil-3657163342?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=SvcvnO5O9v8MY6z6fNovQQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Privacidade de Dados Jr- Exclusiva para Profissionais com deficiência",
+    "company": "Alelo Brasil",
+    "location": "Barueri, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-vencorr-3644759090?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=qIgNCbHq26uU1rAFhbxXeA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Vencorr",
+    "location": "São Paulo, SP",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-hotmart-3655904159?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=XSzNkSY6Oh%2FVTCu4HWdmzg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Hotmart",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-sanb-at-santander-brasil-3638563025?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=hbPMSDIJ4g94dyykaUfx8A%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Sanb",
+    "company": "Santander Brasil",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-fk-partners-3657080244?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=1s%2BsSlM3ySpJ5PGWcDoe5w%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "FK Partners",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-e-sistemas-no-code-home-office-at-synergia-consultoria-socioambiental-3659870724?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=gr0u6Fm7H0I6xNNOfGQJdQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados e Sistemas No-code - Home Office",
+    "company": "Synergia Consultoria Socioambiental",
+    "location": "São Paulo, SP",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-governan%C3%A7a-de-dados-jr-at-juntos-somos-mais-3665967489?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=H5ACwcjH%2FtOCBnE94zE9zA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Governança de Dados Jr",
+    "company": "Juntos Somos Mais",
+    "location": "São Paulo, Brasil",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-digi-3664373292?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=RTn3aosYyUZcXG7Fy136tA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Digi",
+    "location": "São Paulo e Região",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-dados-at-superautor-3656320176?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=YcvS8x%2FEwBAhQtJdIu6SDA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio - Dados",
+    "company": "SuperAutor",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/especialista-de-dados-business-analytics-at-bp-a-benefic%C3%AAncia-portuguesa-de-s%C3%A3o-paulo-3660444107?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=uVLn94wckNhWu9ARaNAswQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Especialista de Dados/Business Analytics",
+    "company": "BP - A Beneficência Portuguesa de São Paulo",
+    "location": "São Paulo, SP",
+    "date": "2023-06-18"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-virtus-recursos-humanos-3654675324?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=SOe1V0l8aObsS5vrj42qJw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Virtus Recursos Humanos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-jump-label-solutions-3663551627?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=3oKgWTLPVbOxWE4NGwzoaQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Jump Label Solutions",
+    "location": "Brasil",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-administrativo-%E2%80%93-auditoria-interna-at-dermage-3656716421?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=1xM0UVz%2B5ydD5qr2uKePyg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente Administrativo – Auditoria Interna",
+    "company": "Dermage",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-01"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-orizon-valoriza%C3%A7%C3%A3o-de-res%C3%ADduos-3657312556?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=ai8QLC%2FB1wY054RrXUB%2FuQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Orizon Valorização de Resíduos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-analista-de-dados-e-bi-pleno-at-way2-technology-3651987000?refId=ggKWZ3PgOoTiCJYn1eoNLw%3D%3D&trackingId=GHYTlFCVsLdIoQYq03HbPw%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Pessoa Analista de Dados e BI Pleno",
+    "company": "Way2 Technology",
+    "location": "Florianópolis, SC",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-grupo-rfk-3667882067?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=cSUHahK7ut69cRi5k0po1Q%3D%3D&position=1&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Grupo RFK",
+    "location": "Brasil",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-diadema-at-samek-consultoria-3663534306?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=%2FkBI8f93MDdFh0AFVbuXkQ%3D%3D&position=2&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados - Diadema",
+    "company": "Samek Consultoria",
+    "location": "Diadema, SP",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-pleno-at-nutrien-solu%C3%A7%C3%B5es-agr%C3%ADcolas-3519765375?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=ogAXydZA%2BVOkS5dV7CzzZA%3D%3D&position=3&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Pleno",
+    "company": "Nutrien Soluções Agrícolas",
+    "location": "São Paulo, SP",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-crm-j%C3%BAnior-foco-em-dados-at-grupo-recovery-3656713708?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=FPgfV94HySaf5SqXCfCBAA%3D%3D&position=4&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de CRM Júnior - Foco em Dados",
+    "company": "Grupo Recovery",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-people-analytics-at-accesstage-3644402719?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=rN9M1UBEVNnQThsI%2BOPfXA%3D%3D&position=5&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio em People Analytics",
+    "company": "Accesstage",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-em-suprimentos-at-hype-empreendimentos-3664717772?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=X%2FfGhanQYuu0rPxoqL%2FhFw%3D%3D&position=6&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados em Suprimentos",
+    "company": "Hype Empreendimentos",
+    "location": "Curitiba, PR",
+    "date": "2023-07-01"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-thermomatic-do-brasil-3635126752?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=uwKJZFUtzfx6apw6VDWGNQ%3D%3D&position=7&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Thermomatic do Brasil",
+    "location": "São Paulo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-compart-marketing-e-tecnologia-3667865672?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=Jr8JKIcfIP%2BMueMgnEa1BQ%3D%3D&position=8&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Compart Marketing e Tecnologia",
+    "location": "São Paulo e Região",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-expans%C3%A3o-at-farm%C3%A1cias-pague-menos-3663167187?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=7ROwkPNMlwAbjL1e%2FcdvdA%3D%3D&position=9&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS - EXPANSÃO",
+    "company": "Farmácias Pague Menos",
+    "location": "Fortaleza, CE",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-vagas-para-o-laborat%C3%B3rio-at-unimed-3657610869?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=04lt2smRYhXkioV313oesw%3D%3D&position=10&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Banco de Talentos - Vagas para o Laboratório",
+    "company": "Unimed",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-schneider-electric-3651971818?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=zBYCI5n9d%2BQ9MSot8uh0gQ%3D%3D&position=11&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Schneider Electric",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-magna-executive-search-3661906097?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=Nt5tZRs7iQ8Rq3X0ij3s0g%3D%3D&position=12&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "MAGNA Executive Search",
+    "location": "São Pedro do Ivaí, PR",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-pleno-marketing-at-o-novo-mercado-3659872456?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=wiGoci%2F7poHS57mO6QS4kg%3D%3D&position=13&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Pleno (Marketing)",
+    "company": "O Novo Mercado",
+    "location": "Santos, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-aurora-energy-research-3617685273?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=DOxjZrfe23q%2FKfa4KkRINw%3D%3D&position=14&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Aurora Energy Research",
+    "location": "São Paulo, Brasil",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-informa%C3%A7%C3%B5es-operacionais-at-brink-s-seguranca-e-transporte-de-valores-ltda-3664153360?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=PkuxO%2BcwJoP1PkKk4cbd7A%3D%3D&position=15&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Informações Operacionais",
+    "company": "Brink's Seguranca e Transporte de Valores Ltda.",
+    "location": "São Paulo e Região",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-de-garantia-at-tess-projetos-3657152905?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=XNFhww6gONVDw4MfwhBpPQ%3D%3D&position=16&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados de Garantia",
+    "company": "Tess Projetos",
+    "location": "Curitiba, PR",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-integration-consulting-3662291624?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=%2B1A1EDR12mok%2FrGW0f1Cxg%3D%3D&position=17&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Integration Consulting",
+    "location": "São Paulo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-personare-rh-3667857806?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=Bb5WspLA6cYNYdH3gY1EOQ%3D%3D&position=18&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE BANCO DE DADOS",
+    "company": "Personare RH",
+    "location": "Guarulhos, SP",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-rina-3657252068?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=knDYDBVwllplKIbNU9dgwg%3D%3D&position=19&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados",
+    "company": "RINA",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-vero-rh-3667849131?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=KMMHNI13zIO9z8i5ja76tA%3D%3D&position=20&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados",
+    "company": "VERO RH",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-programa%C3%A7%C3%A3o-at-alpina-3658345603?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=gst20rEMJbGo6LdEbWlywQ%3D%3D&position=21&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente de Programação",
+    "company": "Alpina",
+    "location": "São Paulo e Região",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-indicadores-at-advicehealth-3650901264?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=3Rxik5R404zAqvuj1AzqWg%3D%3D&position=22&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Indicadores",
+    "company": "AdviceHealth",
+    "location": "Florianópolis, SC",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-neg%C3%B3cios-pleno-at-code-group-3661352223?refId=HXMawhYBd5YSNS8khYGsJQ%3D%3D&trackingId=PvptKSYt91qUI5XB2phqaw%3D%3D&position=25&pageNum=1&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados",
+    "company": "Afamar Assessoria",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-governan%C3%A7a-de-dados-remoto-at-dataside-3645832996?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=NuTh9q0ISgX%2FLnaCJoQPzA%3D%3D&position=1&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Afamar Assessoria Em Recursos Humanos Ltda.",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-remunera%C3%A7%C3%A3o-j%C3%BAnior-foco-em-dados-h%C3%ADbrido-campinas-sp-at-agibank-3655393900?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=triSTllVtnO%2FLJAI7ps9cg%3D%3D&position=2&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados/Negócios Pleno",
+    "company": "Code Group",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-n%C3%ADvel-i-at-next-mobilidade-3656713810?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=61vbrtmAJJuvEb9Klt4Afg%3D%3D&position=3&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Governança de dados (Remoto)",
+    "company": "Dataside",
+    "location": "São José dos Campos, SP",
+    "date": "2023-06-24"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-combust%C3%ADveis-at-ra%C3%ADzen-3663537759?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=sUbsDy3L5JioqL5shD6rPA%3D%3D&position=4&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE REMUNERAÇÃO JÚNIOR - FOCO EM DADOS (HÍBRIDO CAMPINAS/SP)",
+    "company": "Agibank",
+    "location": "Campinas, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-texas-center-3664609064?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=z11McrfoOfwmw7ocXavH3Q%3D%3D&position=5&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte Nível I",
+    "company": "Next Mobilidade",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-cooperativa-agropecuaria-tradicao-3667867305?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=M19aIV1WbfvlppivTTeHhA%3D%3D&position=6&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Cientista de Dados- Combustíveis",
+    "company": "Raízen",
+    "location": "São Paulo, SP",
+    "date": "2023-07-08"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-banco-de-talentos-at-vmtecnologia-vmpay-3664605531?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=99mFccInvUFGMTBZO0vIhQ%3D%3D&position=7&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Texas Center",
+    "location": "Goiânia, GO",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-especialista-excel-at-ipanema-rolamentos-3664153664?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=imo2M8XgXXq2VeKHTdlwzA%3D%3D&position=8&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Cooperativa Agropecuaria Tradicao",
+    "location": "Pato Branco, PR",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-zona-sul-sp-at-aec-3668165215?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=XQ08we9r26LaH%2FriHhcP%2Fw%3D%3D&position=9&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados - Banco de Talentos",
+    "company": "VMtecnologia / VMpay",
+    "location": "Curitiba, PR",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-privacidade-de-dados-s%C3%AAnior-at-recargapay-3661315757?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=%2F87q6ighjG7RrOtMPgDG3A%3D%3D&position=11&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados (Especialista Excel)",
+    "company": "Ipanema Rolamentos",
+    "location": "São Paulo e Região",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-dba-at-tradestar-group-3664030442?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=Eo7OSmRUgfP1a%2Fl2Epv2SQ%3D%3D&position=12&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS - ZONA SUL SP",
+    "company": "AeC",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-cadastro-at-flora-agroneg%C3%B3cio-3668163528?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=xhHHsRztmGAXcZ48ZkDS4w%3D%3D&position=15&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio para Analista de Dados",
+    "company": "INSTITUTO DE PESQUISA ELDORADO",
+    "location": "Brasil",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3657583637?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=M2lDstv9lJkRPlRJlnQlDw%3D%3D&position=16&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Privacidade de Dados Sênior",
+    "company": "RecargaPay",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3656766198?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=gR6KQjO76Vl46SSdNOgfLg%3D%3D&position=17&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados (DBA)",
+    "company": "Tradestar Group",
+    "location": "Curitiba, PR",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-pleno-at-cadastra-3662432325?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=UVX74inepZK9%2B2%2FpibwMyQ%3D%3D&position=18&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "ATHENA HEALTHCARE",
+    "location": "São Paulo e Região",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-humano-i-people-analytics-at-pamcary-3656713704?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=v9UfjJRqJY1FHxTbGhHAtg%3D%3D&position=19&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados Junior - PRESENCIAL NO RJ",
+    "company": "Cercred - Central de Recuperação de Créditos Ltda",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estat%C3%ADstico-cientista-de-dados-at-dmss-software-3654942387?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=5BtFciPuShSGyUA1%2BrihgA%3D%3D&position=20&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Cadastro",
+    "company": "FLORA AGRONEGÓCIO",
+    "location": "Brasil",
+    "date": "2023-06-24"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analistas-de-dados-at-hrsoul-3664025975?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=A0hQotYIuud1d3k15R3wpw%3D%3D&position=21&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3656766139?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=Ll0tar64eVPjiyrE2cxwfw%3D%3D&position=22&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-data-scientist-at-seedts-3667857051?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=U6yzYiQE5vw55LvTq4yXCQ%3D%3D&position=23&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst Pleno",
+    "company": "Cadastra",
+    "location": "Porto Alegre e Região",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-trabalhabrasil-3666592118?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=JRgd%2FDwJte74b4BcKz9olQ%3D%3D&position=24&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Desenvolvimento Humano I (People Analytics)",
+    "company": "Pamcary",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analistas-de-dados-at-engenha-3664028786?refId=mg9X%2F3Ylny4S51%2F4tGjtLw%3D%3D&trackingId=leIASEbZnyEaT%2B7ipcwwfg%3D%3D&position=25&pageNum=2&trk=public_jobs_jserp-result_search-card",
+    "title": "Estatístico - Cientista De Dados",
+    "company": "DMSS Software",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-tableau-at-stepwise-3667738915?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=YRt93OTFjrjlsA1r3gmedw%3D%3D&position=1&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analistas de Dados",
+    "company": "Hrsoul",
+    "location": "São Paulo, SP",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/regional-analytics-analyst-at-chubb-3624946341?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=W0XOeboweOiZTeiSdWSxQQ%3D%3D&position=2&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-viz-analista-de-dados-pleno-at-web-estrat%C3%A9gica-3637015647?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=DZJHIjmgD6i1sPpVOCiPbg%3D%3D&position=3&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Data Scientist",
+    "company": "SeedTS",
+    "location": "São Paulo e Região",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/jr-data-analyst-at-schneider-electric-3660241292?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=bmKddNv4D%2Bp9QAL24xQ9MA%3D%3D&position=4&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "TrabalhaBrasil",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-ti-junior-bando-de-dados-at-engenha-3640365613?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=8Rdqpkvg74JQZ5aoV2LHtA%3D%3D&position=5&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analistas de Dados",
+    "company": "Engenha",
+    "location": "São Paulo, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3638897759?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=9Ohq0wRlY5TKzfyiq1aw5Q%3D%3D&position=6&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Tableau",
+    "company": "StepWise",
+    "location": "São Paulo e Região",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-link-capital-humano-3654973553?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=jLgxcde15E1Ui9TMqyQx1Q%3D%3D&position=7&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Regional Analytics Analyst",
+    "company": "Chubb",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-digital-dados-at-db-schenker-3664549668?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=Vk56%2B7TyJBBxp4NrLNhM9Q%3D%3D&position=8&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Viz - Analista de Dados Pleno",
+    "company": "Web Estratégica",
+    "location": "Campinas, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-gcp-at-innolevels-3667874180?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=0GdtSUK5ihIFjS49pG2uxQ%3D%3D&position=10&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "JR Data Analyst",
+    "company": "Schneider Electric",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3645443716?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=NToS6Ry%2BmfoZAvGq5VlI5g%3D%3D&position=14&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de TI Junior - Bando de Dados",
+    "company": "Engenha",
+    "location": "Brasília, DF",
+    "date": "2023-06-24"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/vaga-afirmativa-para-pessoas-negras-est%C3%A1gio-em-business-intelligence-i-at-cromai-3655673904?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=6IWJMPa5oUZ%2BAz3DkrfwHw%3D%3D&position=16&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-engenhariajob-3649604767?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=ioOat6IOjsV0caTMm4Q8%2Fw%3D%3D&position=17&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados",
+    "company": "Link Capital Humano",
+    "location": "Pato Branco, PR",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3664303511?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=5yu4SZ5NupxXjVUdhT2Q2Q%3D%3D&position=18&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Digital - Dados",
+    "company": "DB Schenker",
+    "location": "Jundiaí, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-suporte-ti-jr-at-ght-3667871265?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=Ck756bltXrSXya79ygFZAw%3D%3D&position=19&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Comercial",
+    "company": "Sociedade Sulina Divina Providência.",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3662075661?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=Mxjx04B8zZ2b%2FSSR4hHdLg%3D%3D&position=20&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados GCP",
+    "company": "innolevels",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-desenvolvimento-pbi-pbi-server-at-deloitte-3656134875?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=QiegZR%2F%2BWGJGCn6Mv2thpg%3D%3D&position=22&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Supermercado Superpão",
+    "location": "Brasil",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-governan%C3%A7a-de-dados-pleno-data-quality-at-banco-bv-3648846901?refId=4vUdylqQO0jPdTSADgWYkQ%3D%3D&trackingId=VNAnDG7drcx2dExMYDHXVw%3D%3D&position=24&pageNum=3&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "Agrofel Agro Com. Ltda.",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-manchester-investimentos-3659851118?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=0kmFKuR1MuJRnC2zFtceqg%3D%3D&position=1&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados",
+    "company": "Big RH",
+    "location": "São Paulo e Região",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-ti-junior-bando-de-dados-at-soma-desenvolvimento-humano-3640366405?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=gu5mKV%2FJAsEBVLwe5M0zcQ%3D%3D&position=2&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3640780774?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=YKKZR8XLf85OUP%2BSawNXfg%3D%3D&position=3&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de banco de dados",
+    "company": "Reaval",
+    "location": "São Paulo e Região",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-at-manpowergroup-3656716473?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=OMT36eexKOnsK3ii%2BbmEEg%3D%3D&position=4&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Vaga afirmativa para pessoas negras | Estágio em Business Intelligence I",
+    "company": "Cromai",
+    "location": "São Paulo, SP",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3638894989?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=kvP6eE9e3DG3vi%2Btjwv2Xw%3D%3D&position=5&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "EngenhariaJob",
+    "location": "Mariana, MG",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3647837650?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=cueQUqnTaWRAtUHcjA7vvQ%3D%3D&position=7&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3642894371?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=Y1fVE1HVsW%2FhYFCHh4lNFA%3D%3D&position=8&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Suporte TI Jr",
+    "company": "GHT",
+    "location": "São Paulo e Região",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3661885426?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=gbPSR1POSH3AvUTk5vQDzw%3D%3D&position=9&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Hortolândia, SP",
+    "date": "2023-06-28"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-alta-sa%C3%BAde-3648005326?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=ta7kUu3mLBP2%2BqQXLqWgxA%3D%3D&position=11&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "GRACE CONSULTING - TECNOLOGIA E PESSOAS LTDA",
+    "location": "São Paulo e Região",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3640787272?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=oNGc3PRgSRRapCIUAkVcVQ%3D%3D&position=12&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS | DESENVOLVIMENTO PBI & PBI SERVER",
+    "company": "Deloitte",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-engenharia-de-dados-at-lojas-renner-s-a-3661205035?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=scnjSEqCy4zwhveWqYIpgw%3D%3D&position=13&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Business Intelligence Hibrido",
+    "company": "IVO SERVICES",
+    "location": "Guarulhos, SP",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-intelig%C3%AAncia-de-neg%C3%B3cios-insights-n%C3%ADvel-pleno-divis%C3%A3o-de-farmac%C3%AAuticos-estabelecidos-epd-s%C3%A3o-paulo-sp-at-abbott-3666078324?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=XsxFswA0Ng0PKFGvQEamAA%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Governança de Dados Pleno | Data Quality",
+    "company": "banco BV",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-jr-zona-sul-sp-at-aec-3668164472?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=2hCS7CnRBNZYlpDrG17lcg%3D%3D&position=16&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados",
+    "company": "EXATA ADM",
+    "location": "Ipatinga, MG",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3656764505?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=ffsNVoesNq2dwTZ8A%2FoIUw%3D%3D&position=20&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados",
+    "company": "Manchester Investimentos",
+    "location": "Joinville, SC",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-home-office-at-inklua-3662483335?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=rvkIsGWRrDdZF0aNviJAjw%3D%3D&position=23&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de TI Junior - Bando de Dados",
+    "company": "SOMA Desenvolvimento Humano",
+    "location": "Brasília, DF",
+    "date": "2023-06-26"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-at-bne-banco-nacional-de-empregos-3656761682?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=H6M5IlPCQnQsuU%2BFRsV2og%3D%3D&position=24&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Barueri, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-rhf-talentos-3666630093?refId=CdTlSiCczoWMSoA7mjCPIw%3D%3D&trackingId=ZTkJUph71WcuwLOHBCh1YA%3D%3D&position=25&pageNum=4&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Administrativo",
+    "company": "ManpowerGroup",
+    "location": "Mauá, SP",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/profissional-analista-de-dados-industriais-pleno-ip21-at-radix-engenharia-e-software-3638251543?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=ZrertBo9YVPahmxRL6x6CQ%3D%3D&position=1&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Sumaré, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-j%C3%BAnior-back-end-j%C3%BAnior-at-programathor-3660232268?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=7574rPSPNkErh4ccqHUWTA%3D%3D&position=2&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Comercial",
+    "company": "PROTEC",
+    "location": "Cotia, SP",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-junior-at-concremat-engenharia-e-tecnologia-3666176628?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=sPvq583zFXCFhoVAkA3kbw%3D%3D&position=3&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3666158461?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=2Yb1jx9I8M2ScQJ0zS1ICA%3D%3D&position=4&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-machine-learning-h%C3%ADbrido-em-porto-alegre-rs-at-welkron-pensamento-3667878175?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=L2m3yfGJQFIe7jY8KtsfkQ%3D%3D&position=5&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Turing",
+    "location": "Brasil",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/%E2%80%A2%09desenvolvedor-jr-at-engemon-engenharia-constru%C3%A7%C3%A3o-3664151550?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=zCMypf%2BK1fht04WjIwEx3w%3D%3D&position=6&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados e Power BI",
+    "company": "ESVJ Engenharia",
+    "location": "Duque de Caxias, RJ",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-machine-learning-h%C3%ADbrido-at-welkron-pensamento-3667888887?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=n6Wv4Tuw9oX8IDsbNx3s%2Bw%3D%3D&position=7&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "Alta Saúde",
+    "location": "São José dos Campos, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-sql-pleno-at-unisys-3663905046?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=4gDrR%2BLzTL%2FSnhj35Z8t3w%3D%3D&position=9&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-desenvolvedor-web-react-at-jsl-s-a-3665682004?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=sNvdXNahMPRn16z7vyRxLQ%3D%3D&position=12&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio em Engenharia de Dados",
+    "company": "Lojas Renner S.A.",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-vaga-afirmativa-para-pessoas-negras-pretas-e-pardas-at-schneider-electric-3660553224?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=aBR2S0s9XT8q2CxhDBq3yQ%3D%3D&position=13&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Banco De Dados (MySQL) – Rio De Janeiro – RJ",
+    "company": "Divulga Vagas Consultoria BR",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-at-jump-label-solutions-3651841209?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=4W0%2BG95lllCS2OoQSkoOdw%3D%3D&position=14&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Inteligência de Negócios & Insights nível Pleno - Divisão de Farmacêuticos Estabelecidos (EPD) - São Paulo/SP",
+    "company": "Abbott",
+    "location": "São Paulo, SP",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-grow-group-3651031606?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=XsW5YvqIAZITF6Le4IvqGw%3D%3D&position=15&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "CIENTISTA DE DADOS JR - ZONA SUL SP",
+    "company": "AeC",
+    "location": "São Paulo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-analista-de-neg%C3%B3cios-business-analyst-at-diversifica-3656720258?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=QM6WTXO7ZnklAKm2Fcpl1g%3D%3D&position=16&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Estudos e Análises",
+    "company": "ALLIS LUANDRE",
+    "location": "São Paulo e Região",
+    "date": "2023-07-08"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-desenvolvedor-zoho-at-itgoal-especialistas-zoho-3656615056?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=lGJdyoJOM%2FH5xxxoG45h3w%3D%3D&position=17&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analytics",
+    "company": "GRACE CONSULTING - TECNOLOGIA E PESSOAS LTDA",
+    "location": "São Paulo e Região",
+    "date": "2023-06-24"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-sistemas-at-mina-consultoria-3667868864?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=LmLSlJ9%2BVvFPKSnS%2FU20bQ%3D%3D&position=18&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS",
+    "company": "GRUPO IBACEM",
+    "location": "Petrolina, PE",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-home-office-at-discover-3662463957?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=dfOccF8zZUYfFYMct9wE8Q%3D%3D&position=19&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Goiânia, GO",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineer-powercenter-at-keyrus-3647383870?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=LGisLi05eRha10keRfLuZg%3D%3D&position=20&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas e Dados",
+    "company": "YANGZI BRASIL CORPORATION S.A.",
+    "location": "Contagem, MG",
+    "date": "2023-07-17"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-sql-server-at-geekhunter-3668513439?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=rQ1EJNNrryyZQFFC4S550A%3D%3D&position=23&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS PL",
+    "company": "PMZ Distribuidora",
+    "location": "Brasil",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analytics-visualization-analyst-at-cargill-3641263551?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=gtHWT7ozDsku0PkpKLpZQw%3D%3D&position=24&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Administrativo - home office",
+    "company": "Inklua",
+    "location": "São Paulo, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/auxiliar-de-ti-at-ess-brasil-3655633762?refId=JJOgLimnsW2hwfoSGZqYEA%3D%3D&trackingId=o7qxJB8Ay87dc%2BFcu62PBw%3D%3D&position=25&pageNum=5&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Divinópolis, MG",
+    "date": "2023-07-08"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-e-aplica%C3%A7%C3%B5es-ti-at-hyva-3668078826?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=wkOACZf22tQtSxG7XnRYAA%3D%3D&position=1&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados",
+    "company": "RHF Talentos",
+    "location": "Lavras, MG",
+    "date": "2023-06-28"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-bi-time-ti-at-farm%C3%A1cias-s%C3%A3o-jo%C3%A3o-3645025043?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=AMN%2BLYkqBDok2%2Bc2rH4Bew%3D%3D&position=3&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Profissional Analista de Dados Industriais Pleno (IP21)",
+    "company": "Radix Engenharia e Software",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-07-17"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-at-berrytech-marketing-vendas-e-financeiro-3642971361?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=Cw6KfxKappJ8AWIRTPWPZw%3D%3D&position=4&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro(a) de Dados Júnior - Back-End | Júnior",
+    "company": "ProgramaThor",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-j%C3%BAnior-at-will-bank-3666196152?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=EC4tQ1C3QJXXT%2Fd%2BgahmKw%3D%3D&position=7&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Junior",
+    "company": "Concremat Engenharia e Tecnologia",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3663759972?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=UibOYN1nQ2OAGbO1UoLJmw%3D%3D&position=8&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Turing",
+    "location": "Brasil",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/vaga-desenvolvedor-pl-sql-at-bigdata-systems-3667860780?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=kn7LzPl9iZ9Ukf3KXpaPKg%3D%3D&position=9&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Machine Learning (Híbrido em Porto Alegre RS)",
+    "company": "Welkron Pensamento",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-vagas-para-o-laborat%C3%B3rio-at-unimed-porto-alegre-3655901621?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=sx8ON4PAzwGMMGl5284WfA%3D%3D&position=10&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "• Desenvolvedor Jr",
+    "company": "Engemon Engenharia & Construção",
+    "location": "São Paulo e Região",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-%235181-at-gr%C3%A3o-intelig%C3%AAncia-3653601763?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=Rs9Yye5CGtoMUM1RXvnBgQ%3D%3D&position=11&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Machine Learning (Híbrido",
+    "company": "Welkron Pensamento",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-informa%C3%A7%C3%B5es-estrat%C3%A9gicas-at-recruta-simples-vagas-3665324820?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=9OIZ0TeNbpKtUjm8lPzkkQ%3D%3D&position=13&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico Analista de Dados e Power BI",
+    "company": "ESVJ Engenharia",
+    "location": "Duque de Caxias, RJ",
+    "date": "2023-07-01"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-governan%C3%A7a-de-dados-open-metadata-at-ci-t-3666077429?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=g2d2V7PsPKFTV6pDRY9zmA%3D%3D&position=14&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de SQL - Pleno",
+    "company": "Unisys",
+    "location": "Brasil",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-tr%C3%A1fego-pago-at-pre%C3%A7olandia-comercial-ltda-3644401451?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=54vlQkzZjj9W%2BQ9GNra6vg%3D%3D&position=15&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados (NBS)",
+    "company": "Grupo Via",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-28"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-sae-at-bild-desenvolvimento-imobili%C3%A1rio-3661075767?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=8b41VaDZjCNkNAEEWzEeYg%3D%3D&position=16&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados/Contábil.",
+    "company": "CPCON",
+    "location": "São Paulo e Região",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/t%C3%A9cnico-de-suporte-jr-service-desk-at-algar-tech-3668060076?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=ay5VHp90oZaLEH9syhdI8A%3D%3D&position=17&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Desenvolvedor WEB React",
+    "company": "JSL S.A.",
+    "location": "Brasil",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analisa-financeiro-junior-at-bureau-veritas-group-3663443121?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=CqEYMDW3y33%2BT8pV5ukB%2BA%3D%3D&position=18&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst - Vaga Afirmativa para Pessoas Negras (Pretas e Pardas)",
+    "company": "Schneider Electric",
+    "location": "São Paulo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-de-vendas-iii-at-randstad-3643337499?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=PCNCjywz%2BAL5tFlI1Nc3Sg%3D%3D&position=19&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro(a) de Dados",
+    "company": "Jump Label Solutions",
+    "location": "Brasil",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-tecnologia-da-informacao-at-engenha-3646238830?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=DcpqwtafsjQZGodnKm3EBw%3D%3D&position=21&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "Grow Group",
+    "location": "Nova Andradina, MS",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/it-engineer-at-huawei-3644726783?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=1dszd1W4RBQFhZ30GGZ1Xw%3D%3D&position=22&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio: Analista de Negócios (Business Analyst)",
+    "company": "Diversifica",
+    "location": "São Paulo, SP",
+    "date": "2023-07-08"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-atendimento-at-culture-designer-3648996537?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=mvQAH6li%2FljZiQ2p%2FbORbg%3D%3D&position=23&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Estagiário Desenvolvedor Zoho",
+    "company": "ItGoal | Especialistas Zoho",
+    "location": "São Paulo, SP",
+    "date": "2023-07-17"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-home-office-at-decision-3666216947?refId=ggu82%2B6mHpUdm3ZGspQmgA%3D%3D&trackingId=58vn7lYQ0cnXHH8leXoKog%3D%3D&position=25&pageNum=6&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de Sistemas",
+    "company": "Mina Consultoria",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-ssbi-suporte-pbi-pbi-server-at-deloitte-3661902708?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=DVf4JlDJrsSsrmSNTXi63w%3D%3D&position=1&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor - home office",
+    "company": "Discover",
+    "location": "São Paulo, SP",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-automa%C3%A7%C3%B5es-inteligentes-at-deloitte-3661334870?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=i%2ByD27RdXOyO6B4vWl9erg%3D%3D&position=2&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Engineer (PowerCenter)",
+    "company": "Keyrus",
+    "location": "São Paulo, SP",
+    "date": "2023-07-01"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/solutis-school-2023-at-solutis-tecnologias-3650050715?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=BflB85UEhbbWJ6Y%2FkGsaSQ%3D%3D&position=3&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Estudos E Análises",
+    "company": "LUANDRE SERVICOS TEMPORARIOS. (C-II)",
+    "location": "São Paulo, SP",
+    "date": "2023-07-16"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-decision-3667884393?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=3XCh4Xf%2FE%2BpKHcgjEntgnA%3D%3D&position=4&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados",
+    "company": "Divulga Vagas Consultoria BR",
+    "location": "Igrejinha, RS",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/fiabilit%C3%A9-analista-de-sistemas-at-base-3649605197?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=yIErvlHdOLN5G39diKjoNw%3D%3D&position=5&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados SQL Server",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pleno-data-governance-analyst-at-keyrus-3653270727?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=2FMw3VTyHeDzwmUm24w2ZQ%3D%3D&position=6&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analytics Visualization Analyst",
+    "company": "Cargill",
+    "location": "São Paulo, SP",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-pl-sql-pl-remoto-at-capgemini-3664062107?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=ij%2FEXXEADp5%2B205VCYK76A%3D%3D&position=7&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "AUXILIAR DE TI",
+    "company": "ESS Brasil",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-sistemas-at-tecnocomp-tecnologia-e-servi%C3%A7os-3657000850?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=riVp05SXugOPLie6tHy69Q%3D%3D&position=8&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte e Aplicações (TI)",
+    "company": "Hyva",
+    "location": "Caxias do Sul, RS",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-ambiental-pleno-s%C3%A3o-paulo-at-wsp-3665154378?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=RXJL4mmgSPuGOxymJgI%2Bow%3D%3D&position=9&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS",
+    "company": "A Opus Solutio em parceria com empresa confidencial localizada na Zona Sul de São Paulo",
+    "location": "São Paulo e Região",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-em-ti-rio-negro-pr-at-ctc-3665669300?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=ryyIBOWVI1DYXr5tYq7ucA%3D%3D&position=10&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de BI ( Time TI)",
+    "company": "Farmácias São João",
+    "location": "Passo Fundo, RS",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-neg%C3%B3cios-jr-protheus-at-moot-consulting-3661891935?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=Ksb3GTIVTgyYpBv1%2FToYJw%3D%3D&position=12&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Administrativo",
+    "company": "Berrytech - Marketing, Vendas e Financeiro",
+    "location": "Curitiba, PR",
+    "date": "2023-07-01"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-valorh-consultoria-e-treinamento-3667880676?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=eBXFzXTHQLuQc0qm4ifg3w%3D%3D&position=14&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Dados",
+    "company": "LINK CAPITAL HUMANO CONSULTORIA E TREINAMENTO LTDA",
+    "location": "Pato Branco, PR",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-back-office-at-spar-brasil-3660456061?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=QSd5tSnvlQUpH1%2FbFlHmsA%3D%3D&position=15&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte Júnior",
+    "company": "COLSAN",
+    "location": "São Paulo e Região",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-tableau-at-geekhunter-3668513410?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=8R%2BwQFD3qqvAW1nwhV4YWw%3D%3D&position=17&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Cientista de Dados Júnior",
+    "company": "will bank",
+    "location": "São Paulo, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-at-rekruta-ja-3667888167?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=yvewGJDWPNlOlmBGzazAMg%3D%3D&position=18&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Turing",
+    "location": "Brasil",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-jr-at-grupo-lins-ferr%C3%A3o-3668056588?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=k9kR7b2nzxtOuME6IzxOPg%3D%3D&position=19&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Vaga Desenvolvedor PL/SQL",
+    "company": "BigData Systems",
+    "location": "São Paulo e Região",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-vis%C3%A3o-computacional-at-pix-force-3657232458?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=SGYVOkJwnzU4HGJQKV9WeQ%3D%3D&position=20&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Banco de Talentos - Vagas para o Laboratório",
+    "company": "Unimed Porto Alegre",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/auxiliar-de-deposito-at-grupo-passalacqua-3664155209?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=dzVq36kWXGdwfOlT9bfRsw%3D%3D&position=21&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados #5181",
+    "company": "Grão Inteligência",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/threat-intelligence-analyst-at-control-risks-3661082725?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=UnAAyBH4EnKySjJtL5P1CA%3D%3D&position=22&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro(a) Analista de Dados e Power BI",
+    "company": "ESVJ Engenharia",
+    "location": "Duque de Caxias, RJ",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/t%C3%A9cnico-de-automa%C3%A7%C3%A3o-banco-de-talentos-at-perbras-3649827408?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=D2eTcQS9p91zbSiVdwT%2FBw%3D%3D&position=23&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Informações Estratégicas",
+    "company": "Recruta Simples Vagas",
+    "location": "Vitória, ES",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-ti-pleno-at-funcorsan-3654941453?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=ChmFFJcdJZ42GLP2veAAoQ%3D%3D&position=24&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Governança de Dados - Open Metadata",
+    "company": "CI&T",
+    "location": "Brasil",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-vert-integradora-de-ti-3661550694?refId=DjAbaA9ybmNAAOhoVL7zvw%3D%3D&trackingId=YJHh%2FuJrr51xK2bV1kVbFQ%3D%3D&position=25&pageNum=7&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente de Tráfego Pago",
+    "company": "Preçolandia Comercial Ltda",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-engenharia-de-dados-dados-jr-pcd-at-gruposc-distribuidora-de-medicamentos-3656686161?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=yE55eUaq1%2Bl9S7TVWOb%2BgQ%3D%3D&position=1&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Administrativo SAE",
+    "company": "Bild Desenvolvimento Imobiliário",
+    "location": "Ribeirão Preto, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/auxiliar-de-ti-at-engenha-3655632923?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=aOJqlrwveK2ws4iRn9mSYA%3D%3D&position=2&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Técnico de Suporte JR (Service Desk)",
+    "company": "Algar Tech",
+    "location": "São Paulo, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-analise-de-dados-at-engenhariajob-3650917963?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=g7ugY8sesdeDQ01m3MXG5A%3D%3D&position=4&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analisa Financeiro Junior",
+    "company": "Bureau Veritas Group",
+    "location": "São Paulo, SP",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-%E2%80%93-inclus%C3%A3o-da-comunidade-preta-at-certsys-3663280134?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=fB8i797LK472nA36nNyCpw%3D%3D&position=5&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA ADMINISTRATIVO DE VENDAS III",
+    "company": "Randstad",
+    "location": "Fortaleza, CE",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-trabalhabrasil-3663342316?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=YjiLh6OzZrFYUfXAvhqYfw%3D%3D&position=6&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados Pleno",
+    "company": "Sumicity Networks",
+    "location": "São Paulo e Região",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-home-office-at-grupo-taking-3662465977?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=8EQqqIa0vLXcx4LASIftzw%3D%3D&position=7&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Tecnologia da Informacao",
+    "company": "Engenha",
+    "location": "Ponta Grossa, PR",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-pl-sql-pleno-a-s%C3%AAnior-remoto-at-geekhunter-3668517194?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=FXucYB%2Fv6a2rOG1OIkqMoQ%3D%3D&position=8&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "IT Engineer",
+    "company": "Huawei",
+    "location": "São Paulo, Brasil",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-cr%C3%A9dito-at-seteloc-3663667399?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=DQ1M4tnI0mDx7DGGb5jDyg%3D%3D&position=9&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Atendimento",
+    "company": "Culture Designer",
+    "location": "Santo André, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/finance-ops-bi-at-tractian-3644105594?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=eJmI9N8lOFnrMTg4B%2FQA7g%3D%3D&position=10&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Data Stage",
+    "company": "GRACE CONSULTING - TECNOLOGIA E PESSOAS LTDA",
+    "location": "São Paulo e Região",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-desenvolvimento-web-full-stack-at-pix-force-3666055018?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=c7iuGuSCrzgNZDQPtsMC2A%3D%3D&position=11&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor - home office",
+    "company": "Decision",
+    "location": "São Paulo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-t%C3%A9cnico-e-suporte-at-high-link-security-systems-and-monitoring-3663541058?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=lDWE%2BMPnrlV1D18Vm2kjMw%3D%3D&position=12&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados | SSBI | Suporte PBI & PBI Server",
+    "company": "Deloitte",
+    "location": "São Paulo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-topmed-sa%C3%BAde-digital-3660231497?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=V1Rmsns9H21Cba%2Bm7063rw%3D%3D&position=13&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) Automações Inteligentes",
+    "company": "Deloitte",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/football-statistician-at-genius-sports-3659218428?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=6q8vAE4%2FujNij5%2BBoyrbAw%3D%3D&position=14&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Solutis School 2023",
+    "company": "Solutis Tecnologias",
+    "location": "Brasil",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-cloud-at-engenha-3647378222?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=QR5kWi%2FOfe3apMwKbAMBvQ%3D%3D&position=15&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados",
+    "company": "Decision",
+    "location": "São Paulo e Região",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-remoto-at-geekhunter-3668517175?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=3%2BoKuRER3LR6xm5HoeKi0A%3D%3D&position=16&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "[FIABILITÉ] Analista de Sistemas",
+    "company": "Base",
+    "location": "João Pessoa, PB",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-inform%C3%A1tica-at-bne-banco-nacional-de-empregos-3655504000?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=Lbe0v8u7fazxiXsH7QimzA%3D%3D&position=18&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Pleno Data Governance Analyst",
+    "company": "Keyrus",
+    "location": "São Paulo, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-bne-banco-nacional-de-empregos-3642801094?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=vvWa4VjDfpIb%2BeeHvqYhPg%3D%3D&position=19&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor PL/SQL Pl | Remoto",
+    "company": "Capgemini",
+    "location": "São Paulo, SP",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-inclus%C3%A3o-da-comunidade-lgbtqiapn%2B-at-certsys-3663276885?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=5pjumYKHMljrgf5aY5XOjQ%3D%3D&position=23&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de Sistemas",
+    "company": "Tecnocomp Tecnologia e Serviços",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-tecnologia-e-inova%C3%A7%C3%A3o-at-grupo-muffato-3665384945?refId=sJwDnCkRVtsmUadg8qvM4A%3D%3D&trackingId=7nIsb4eDoAwRsrQwt7%2BJ%2FA%3D%3D&position=24&pageNum=8&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Ambiental Pleno (São Paulo)",
+    "company": "WSP",
+    "location": "São Paulo, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/animale-assistente-de-planejamento-de-produto-at-animale-3662278096?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=U5owj53OZx%2Fj4vidfj99Ng%3D%3D&position=2&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte em TI - (Rio Negro/PR)",
+    "company": "CTC",
+    "location": "Rio Negro, PR",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658248190?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=H6rJKJM1%2BWyu1hHbE%2F1koA%3D%3D&position=3&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Rede E Comunicação De Dados – Porto Alegre – RS",
+    "company": "Divulga Vagas Consultoria BR",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-desenvolvimento-software-at-empresa-1-3659245149?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=IbGDW2PaJEwrJcZFqwy7%2BQ%3D%3D&position=4&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Negócios Jr (PROTHEUS)",
+    "company": "Moot Consulting",
+    "location": "Salvador, BA",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-em-ti-s%C3%A3o-leopoldo-rs-at-ctc-3662380027?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=neOTasFeJUr2e%2BguV%2BU%2Fqg%3D%3D&position=5&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados (DBA)",
+    "company": "TRADESTAR IMPORTACAO E EXPORTACAO LTDA",
+    "location": "Curitiba, PR",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-ti-at-bne-banco-nacional-de-empregos-3640786033?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=Jhic8JnTDRpL92c1ilsLew%3D%3D&position=6&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "ValorH Consultoria e Treinamento",
+    "location": "Salvador, BA",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-j%C3%BAnior-at-caderno-nacional-3656180802?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=laKg8Zxy4F6Hv4NiM4l8pg%3D%3D&position=7&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA - BACK OFFICE",
+    "company": "SPAR Brasil",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-privacidade-de-dados-pleno-data-analytics-exclusivo-para-pessoas-com-defici%C3%AAncia-at-dexco-3643851061?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=mjjn5mK5aUW3MQANqATZbw%3D%3D&position=8&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Programador SQL",
+    "company": "Santin Equipamentos e Transportes",
+    "location": "Brasil",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-at-rekruta-j%C3%A1-sele%C3%A7%C3%A3o-e-treinamento-3656165297?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=x319Lfk9IBmpB9XNzOEmnA%3D%3D&position=9&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Tableau",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-unimed-limited-3667872562?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=iQWpgaWmam5%2B59nQK6UnKA%3D%3D&position=10&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista administrativo",
+    "company": "REKRUTA JA",
+    "location": "São Paulo e Região",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-engenha-3651729816?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=y021fSAOLqn8bMqfDXgZrg%3D%3D&position=11&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor JR",
+    "company": "Grupo Lins Ferrão",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-sistemas-at-futurha-assessoria-em-gest%C3%A3o-de-pessoas-3667877031?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=irpmlKX0lyPE7gfKLQqVeQ%3D%3D&position=12&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Visão Computacional",
+    "company": "Pix Force",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-17"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/coordenador-a-business-insights-e-dados-at-talenses-3654328001?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=ld96V7yIqUUNvI0quX%2Fsng%3D%3D&position=16&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Auxiliar de Deposito",
+    "company": "Grupo Passalacqua",
+    "location": "Aparecida de Goiânia, GO",
+    "date": "2023-06-26"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-modeler-specialist-at-recargapay-3658545389?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=vgCAXYiRYudDhTSkoVa66A%3D%3D&position=17&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Threat Intelligence Analyst",
+    "company": "Control Risks",
+    "location": "São Paulo, SP",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-tecnologia-da-informa%C3%A7%C3%A3o-at-caderno-nacional-3644212670?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=iffazUcSbT0eZoWhZEWetg%3D%3D&position=18&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "TÉCNICO DE AUTOMAÇÃO [BANCO DE TALENTOS]",
+    "company": "Perbras",
+    "location": "Catu, BA",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658232114?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=9UDoSC2FFwj4dzBYC6hxOQ%3D%3D&position=20&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De TI Pleno",
+    "company": "Funcorsan",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658215330?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=EaBiMgzXZWgMIoG2iBTTXw%3D%3D&position=22&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados",
+    "company": "Vert Integradora de TI",
+    "location": "Brasília, DF",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-vert-integradora-de-ti-3664063376?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=dZsPibVJizhC%2B805EqRWpQ%3D%3D&position=24&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Engenharia de Dados Dados Jr. (PCD)",
+    "company": "GrupoSC Distribuidora de Medicamentos",
+    "location": "São Paulo, SP",
+    "date": "2023-06-24"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658249483?refId=EJpq%2FQ5ezk9wnP%2F2BAfzWQ%3D%3D&trackingId=e3bzRS6AXWK%2B%2F5U7iRkQXQ%3D%3D&position=25&pageNum=9&trk=public_jobs_jserp-result_search-card",
+    "title": "AUXILIAR DE TI",
+    "company": "Engenha",
+    "location": "São Paulo, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-pleno-at-est%C3%A1gios-cin-3667870808?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=bawVRpTLXNv3fouzZvc9Sg%3D%3D&position=1&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista sistemas",
+    "company": "RH Brasil - Campinas",
+    "location": "Brasil",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-pleno-hc-ti-capex-hospital-alian%C3%A7a%0A-%0A-1-vaga-at-rede-d-or-s%C3%A3o-luiz-3664619529?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=4vKS5gamOxipZpF0gTIUDw%3D%3D&position=2&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Analise de Dados",
+    "company": "EngenhariaJob",
+    "location": "São Paulo e Região",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-madame-rh-solu%C3%A7%C3%B5es-em-recursos-humanos-3651818787?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=Z6MD8jflFXV%2Bx2gZSYjMlg%3D%3D&position=4&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Banco de Talentos – Inclusão da Comunidade Preta",
+    "company": "Certsys",
+    "location": "São Paulo, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658227483?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=MXS7U0MN49BTSgmUeRf9eg%3D%3D&position=5&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "TrabalhaBrasil",
+    "location": "Belém, AL",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-frota-pleno-at-general-mills-3668055838?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=sPoAAQ%2BepUelLeTTqkXTmg%3D%3D&position=6&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor - home office",
+    "company": "Grupo Taking",
+    "location": "Campinas, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-especialista-at-will-bank-3666192656?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=bb5OeHeaAtok5xjlRJAmhg%3D%3D&position=7&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados PL/SQL Pleno a Sênior (Remoto)",
+    "company": "GeekHunter",
+    "location": "Brasil",
+    "date": "2023-07-15"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cx-analyst-at-tabas-3647134969?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=vndzRFXBfJ7kuFrm0poetA%3D%3D&position=8&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE CRÉDITO",
+    "company": "SETELOC",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-innolevels-3667851183?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=a1N2lK%2FdVBbVYoJXY4Zatg%3D%3D&position=9&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Finance Ops BI",
+    "company": "TRACTIAN",
+    "location": "Brasil",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-suporte-redes-pl-at-vivo-vita-3660312535?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=O8uLOQbTSI%2FS3RVq8Ggq%2BA%3D%3D&position=10&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Desenvolvimento Web Full Stack",
+    "company": "Pix Force",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658228129?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=XTmIoZfynaB8zgwNj4y2jQ%3D%3D&position=11&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Técnico E Suporte",
+    "company": "High Link - Security Systems and Monitoring",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-administra%C3%A7%C3%A3o-at-rede-cidad%C3%A3-3656717390?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=gwaUc%2B5GzW%2FhOKgNOR%2BRbw%3D%3D&position=12&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor",
+    "company": "TopMed Saúde Digital",
+    "location": "São José, SC",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-cr%C3%A9dito-pleno-at-tambasa-financeira-3658966265?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=1nP6crcUqiY5Bb1Haavqrg%3D%3D&position=13&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Football Statistician",
+    "company": "Genius Sports",
+    "location": "Belém, PA",
+    "date": "2023-06-25"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-we-hunt-3640362964?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=1F%2BBXd1bTM2UeYyoPekebg%3D%3D&position=14&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Cloud",
+    "company": "Engenha",
+    "location": "São Paulo, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-sql-server-pleno-at-confitec-3650042443?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=7mRCutqsHyqV2TgbO%2BdDkg%3D%3D&position=15&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados (Remoto)",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-financeiro-at-engenhariajob-3655005215?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=2mvajSR8rJpIH2hw1zQJpg%3D%3D&position=17&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Engenharia de Dados Dados Jr. (PCD)",
+    "company": "SANTA CRUZ",
+    "location": "São Paulo e Região",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineer-at-wiley-3667785615?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=hoft5NyKbdIXPnwn74d%2F8w%3D%3D&position=18&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Informática",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-microsoft-powerapps-at-wansoft-brazil-3650056418?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=arWCa1jkeQXWQlUQ8veZMw%3D%3D&position=20&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658243444?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=1iwZppStMIYOqoEtYrw%2Ffw%3D%3D&position=21&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Banco de Dados",
+    "company": "Sellan Consultoria e Trabalho Temporário Ltda",
+    "location": "São Paulo e Região",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sales-strategy-analyst-data-intelligence-at-vtex-3575102112?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=iNtqygjcHt3au04ehSxqHw%3D%3D&position=22&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Engineer (PowerCenter)",
+    "company": "Keyrus Brasil",
+    "location": "São Paulo e Região",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-valorh-consultoria-e-treinamento-3667867827?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=9MmItghLivy6PGt83Y3Kdw%3D%3D&position=23&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados",
+    "company": "Forte Norte Assessoria e Consultoria",
+    "location": "São Paulo e Região",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658240111?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=Ad44RzZ4e0q86uUnKNr2ZA%3D%3D&position=24&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Banco de Talentos - Inclusão da Comunidade LGBTQIAPN+",
+    "company": "Certsys",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-ti-at-bne-banco-nacional-de-empregos-3654443666?refId=7YbDxb5BlfzT5%2BaEaulylQ%3D%3D&trackingId=n5lPVjmg9fTVbETwI8EL5w%3D%3D&position=25&pageNum=10&trk=public_jobs_jserp-result_search-card",
+    "title": "Banco de Talentos - TECNOLOGIA E INOVAÇÃO",
+    "company": "Grupo Muffato",
+    "location": "Cambé, PR",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658241207?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=JV5E0Yr0gCSJtr8pw2t32A%3D%3D&position=1&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Redes e Comunicação de Dados Pleno",
+    "company": "Connectcom Teleinformática",
+    "location": "São Paulo e Região",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-s%C3%B3lides-tecnologia-3664608214?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=d1OIVnLlbzLKqqEVXncYfQ%3D%3D&position=2&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte de Sistema",
+    "company": "LT COMERCIAL LTDA",
+    "location": "Taboão da Serra, SP",
+    "date": "2023-07-12"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sas-programmer-i-at-psi-cro-ag-3635389897?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=MxCW7FBSzSZlCu5JoIXpiw%3D%3D&position=3&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "ANIMALE | Assistente de Planejamento de Produto",
+    "company": "ANIMALE",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/cloudera-data-engineer-banco-de-cvs-at-keyrus-3646834932?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=0qV6Ku%2BmYYOBApVLkbishQ%3D%3D&position=4&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "João Pessoa, PB",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3644358200?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=VL2WBIFMWSF57wphh2as%2Fw%3D%3D&position=5&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Estagiário Desenvolvimento Software",
+    "company": "Empresa 1",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineering-specialist-at-samsung-brasil-3661408707?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=E%2F%2BJtJ3Qs4k475%2BvMrZG2A%3D%3D&position=6&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte em TI - (São Leopoldo/RS)",
+    "company": "CTC",
+    "location": "São Leopoldo, RS",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-bne-banco-nacional-de-empregos-3665686356?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=P6jUvgrcZVxvkZL8RWjIOw%3D%3D&position=7&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Assistente de Ti",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Pato Branco, PR",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658233462?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=v%2B9OQrQmU0d9ahS2ycl8TA%3D%3D&position=9&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Suporte Júnior",
+    "company": "Caderno Nacional",
+    "location": "Campinas, SP",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-trabalhabrasil-3666590308?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=IF263Lu92wmdTCe%2FGQhemg%3D%3D&position=10&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Privacidade de Dados Pleno - Data&Analytics(Exclusivo para Pessoas com Deficiência)",
+    "company": "Dexco",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-especialista-at-mutant-3645176858?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=1h%2F39J0OfZa9yTXPKp57jQ%3D%3D&position=11&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista administrativo",
+    "company": "REKRUTA JÁ SELEÇÃO E TREINAMENTO",
+    "location": "São Paulo, SP",
+    "date": "2023-07-08"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658234637?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=OyYtiTdCO7AU1%2FnYw5wRDQ%3D%3D&position=12&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Cientista de Dados",
+    "company": "UniMed Limited",
+    "location": "Lajeado, RS",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-java-%E2%80%93-junior-at-innolevels-3667849477?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=F%2F830NcYku6MVVT6QLGb%2Fg%3D%3D&position=13&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados",
+    "company": "Engenha",
+    "location": "São Paulo, SP",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658239651?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=SQ69KqfGd%2BIk0TmWPLVsJw%3D%3D&position=14&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de sistemas",
+    "company": "Futurha Assessoria em Gestão de Pessoas",
+    "location": "Bento Gonçalves, RS",
+    "date": "2023-06-25"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-simoni-nogueira-headhunter-3661389277?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=o5JpeWR8txkHOfXy%2F%2B%2Bjhg%3D%3D&position=15&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista TI – Porto Alegre – RS",
+    "company": "Divulga Vagas Consultoria BR",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-bne-banco-nacional-de-empregos-3642891766?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=QIlAw4xKl8E03zAIpIqW7Q%3D%3D&position=16&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas",
+    "company": "Competenza RH",
+    "location": "Itajai, RR",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-telecomunicacoes-at-engenha-3661074920?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=ID18SKRq4stGDMXwARN0FA%3D%3D&position=19&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Governança de Dados",
+    "company": "Hiring Consultoria e Gestao de Pessoas",
+    "location": "São Paulo e Região",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/online-data-analyst-at-telus-international-3658224319?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=8hjG1pj8b4Ea%2FKafZBdqZA%3D%3D&position=20&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Coordenador(a) Business Insights e Dados",
+    "company": "Talenses",
+    "location": "São Paulo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-de-vendas-at-randstad-3640400435?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=c7Xr0hmOA1NU6iKSsc1bWw%3D%3D&position=21&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Modeler Specialist",
+    "company": "RecargaPay",
+    "location": "São Paulo, SP",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-log%C3%ADstica-jr-sapezal-mt-at-cargill-3661966515?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=o%2FcNUFPJk4QZkOyPIzBQ8w%3D%3D&position=22&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Tecnologia da Informação",
+    "company": "Caderno Nacional",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sql-developer-at-turing-3659290316?refId=HjxZWdBH8CVzeXO%2FQKGWGw%3D%3D&trackingId=7Zxg9Zhhm7hDZ%2Bll2S4Lug%3D%3D&position=23&pageNum=11&trk=public_jobs_jserp-result_search-card",
+    "title": "Pleno Data Governance Analyst",
+    "company": "Keyrus Brasil",
+    "location": "São Paulo e Região",
+    "date": "2023-07-10"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/vaga-de-analista-financeiro-at-trivos-consultoria-3644759104?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=tIO%2FFEITYyRolguWJQ2CEQ%3D%3D&position=1&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Curitiba, PR",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sports-statistician-at-genius-sports-3642836478?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=Aanl36ZHIb5IgGO1ySv2Vw%3D%3D&position=2&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio em Ciências da computação",
+    "company": "Abre São Luis",
+    "location": "São Paulo e Região",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-sistemas-senior-corretora-parceira-vital-latina-at-sinaf-seguros-3641973838?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=PSbcfa8pck9yl%2F1VAu0JDg%3D%3D&position=3&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Rio de Janeiro, Brasil",
+    "date": "2023-06-25"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-financeiro-j%C3%BAnior-at-pineapples-3666524465?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=l91slIb%2BNF3%2Fa%2BDDYVTarw%3D%3D&position=4&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Negócios Jr (PROTHEUS)",
+    "company": "MOOT IT",
+    "location": "Salvador, BA",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/dev-web-jr-remote-work-at-novare-rh-%F0%9F%92%99%E2%9D%A4%EF%B8%8F-3667853677?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=QHd6B%2FOXS%2BYJ7%2BiT4FdQlQ%3D%3D&position=5&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Python",
+    "company": "Vert Integradora de TI",
+    "location": "Brasília, DF",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-laborat%C3%B3rio-hospital-laborat%C3%B3rio-hospital-itaim-at-rede-d-or-s%C3%A3o-luiz-3660547995?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=AZJZaP1x4ERltY0iqYfu0w%3D%3D&position=6&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Guarulhos, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-caderno-nacional-3648818851?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=vzgHrQrSz3uLULKUdnnbkg%3D%3D&position=7&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados pleno",
+    "company": "Estágios Cin",
+    "location": "São Paulo e Região",
+    "date": "2023-07-09"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-programa%C3%A7%C3%A3o-limeira-sp-1-vaga-s-2762349-at-%C3%ADntegra-desenvolvimento-humano-e-empresarial-3659469383?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=mQAyLsVmD53ZP8Fnb8Vn%2Fw%3D%3D&position=8&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Pleno - Hc TI Capex - Hospital Aliança (1 vaga)",
+    "company": "Rede D'Or São Luiz",
+    "location": "Salvador, BA",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administra%C3%A7%C3%A3o-comercial-at-ipanema-queijos-3656718394?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=zfhXFPG3vmdOhfWBUBAkHQ%3D%3D&position=11&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor PLSQL Power BI",
+    "company": "GRACE CONSULTING - TECNOLOGIA E PESSOAS LTDA",
+    "location": "São Paulo e Região",
+    "date": "2023-06-21"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3644997337?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=VNbtJDkQEhr5XfoJ2yjx5w%3D%3D&position=12&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista De Sistemas",
+    "company": "Madame RH - Soluções em Recursos Humanos",
+    "location": "Porto Alegre, RS",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineer-remoto-at-geekhunter-3668517200?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=TIB5k7T9MwyXIAhSYvYI%2Fw%3D%3D&position=13&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-administrativo-at-rhf-talentos-3666630094?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=yDBsvhVxU1Jy%2FgRkoYGf9Q%3D%3D&position=14&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE FROTA PLENO",
+    "company": "General Mills",
+    "location": "São Bernardo do Campo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sports-statistician-at-genius-sports-3634371293?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=x%2B39kMgGzQmqPAnTXFminA%3D%3D&position=15&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro(a) de Dados Especialista",
+    "company": "will bank",
+    "location": "São Paulo, SP",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/python-developer-100%25-remote-usd-payment-english-speaking-client-at-crew-digital-talent-3664557906?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=KXqJ5dwsXDzx5uMbwtRigw%3D%3D&position=16&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "CX Analyst",
+    "company": "Tabas",
+    "location": "São Paulo, SP",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/junior-data-scientist-dubai-uae-at-cobblestone-energy-3665304087?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=EZzMBs8th3cBEcYx%2BtKOFQ%3D%3D&position=17&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Python",
+    "company": "innolevels",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-pcm-at-confidencial-3662187191?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=WDuQFiBcOd4ggYtNGTxnhw%3D%3D&position=18&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Suporte Redes PL",
+    "company": "Vivo Vita",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/programador-at-grupo-seres-3660550594?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=iDdwXzjJAUNMS8JVA%2B79bQ%3D%3D&position=19&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Recife, PE",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-front-end-at-grupo-euro17-3668056608?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=JHCBKG4%2Beyj9Y8XcVCrVHw%3D%3D&position=21&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Administração",
+    "company": "Rede Cidadã",
+    "location": "São Paulo, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-engenheira-de-dados-r-e-aws-at-feel-tech-rh-3660478186?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=%2FI4X21V0aFxNyDSWXQF9jg%3D%3D&position=22&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Crédito Pleno",
+    "company": "TAMBASA Financeira",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-07-03"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-bne-banco-nacional-de-empregos-3662077835?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=Bu9ZPTMI6j8NhjPm5z03RQ%3D%3D&position=23&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de dados",
+    "company": "We Hunt",
+    "location": "São Paulo, SP",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/football-statistician-at-genius-sports-3638441639?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=9Dp1WBO3SkmsuC3DbABdLw%3D%3D&position=24&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) SQL Server Pleno",
+    "company": "Confitec",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-14"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-analyst-at-turing-3645100043?refId=LVi1OiOEVJV446Se0C8FbQ%3D%3D&trackingId=%2Bik1rmkIy7sw%2BfW%2F8Jj%2FPA%3D%3D&position=25&pageNum=12&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio Cientista de Dados Estatística",
+    "company": "Fundação Ulbra- Fulbra Estágios",
+    "location": "Canoas, RS",
+    "date": "2023-06-19"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-bne-banco-nacional-de-empregos-3655397908?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=oPyZQEP4E4od9kueOtiHvQ%3D%3D&position=1&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Financeiro",
+    "company": "EngenhariaJob",
+    "location": "São Paulo, SP",
+    "date": "2023-07-16"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-para-administra%C3%A7%C3%A3o-at-iel-par%C3%A1-3640073121?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=CVnFQWKjuSLedL5I4T0tnQ%3D%3D&position=2&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Engineer",
+    "company": "Wiley",
+    "location": "Curitiba e Região",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-duo-group-3649602820?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=v1DKSkGo0oxoTOVu1ZWccw%3D%3D&position=3&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE MELHORIAS",
+    "company": "HUNTERDEGRANDI",
+    "location": "Barueri, SP",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sql-developer-at-turing-3659269997?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=6qc2pByFKRQ1lS9LCtmCVA%3D%3D&position=4&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Microsoft PowerApps",
+    "company": "WanSoft Brazil",
+    "location": "Porto Alegre, RS",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-bne-banco-nacional-de-empregos-3648260000?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=WwIDLqxmJ7v6792pOBmRsw%3D%3D&position=5&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Campinas, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineer-remoto-at-geekhunter-3668518192?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=qAaWA0LvDKHGlW0wR2oYzQ%3D%3D&position=6&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Sales Strategy Analyst - Data Intelligence",
+    "company": "VTEX",
+    "location": "Rio de Janeiro, RJ",
+    "date": "2023-07-11"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/salesforce-developer-at-fusionspan-3635899381?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=z5A%2FEApXz7iz1H6hedPAmg%3D%3D&position=8&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor",
+    "company": "ValorH Consultoria e Treinamento",
+    "location": "Salvador, BA",
+    "date": "2023-06-30"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-tecnologia-da-informa%C3%A7%C3%A3o-at-caderno-nacional-3643016204?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=BpV7W%2FEC2az4kVX5%2FZfJZw%3D%3D&position=9&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Florianópolis, SC",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-engineer-remoto-at-geekhunter-3668513428?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=JzwpI%2BlTF0T1RnjUEzZwCg%3D%3D&position=10&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de TI",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Campinas, SP",
+    "date": "2023-06-23"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/football-statistician-at-genius-sports-3580156456?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=KO9Izrz5h8C3d1Zphzhudg%3D%3D&position=11&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "São Luís, MA",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-log%C3%ADstica-at-southrock-3666055309?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=tzy2eNSk4ZCbIXwoxfJccQ%3D%3D&position=12&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Cientista de Dados",
+    "company": "Sólides Tecnologia",
+    "location": "Belo Horizonte, MG",
+    "date": "2023-06-26"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/programador-de-sistemas-de-informacao-jr-i-at-rede-farm%C3%A1cias-associadas-3660908016?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=SWrAW9VHJ3Xm6J5Z543AgQ%3D%3D&position=13&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "SAS Programmer I",
+    "company": "PSI CRO AG",
+    "location": "São Paulo, SP",
+    "date": "2023-06-29"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/football-statistician-at-genius-sports-3652263787?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=x%2FU8MH9lNe6gFilj7Lu9dg%3D%3D&position=14&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Cloudera Data Engineer (Banco de CVs)",
+    "company": "Keyrus",
+    "location": "Brasil",
+    "date": "2023-07-13"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-robert-half-3648752924?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=mOa43MJCnBnURbe1lgrUcw%3D%3D&position=15&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Analyst",
+    "company": "Turing",
+    "location": "Brasil",
+    "date": "2023-07-04"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-soio-3654447017?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=Bk3dLXVPHSQ0Be3061YmIQ%3D%3D&position=16&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Engineering Specialist",
+    "company": "Samsung Brasil",
+    "location": "Campinas, SP",
+    "date": "2023-07-06"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/junior-developer-dubai-uae-at-cobblestone-energy-3642307071?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=2FuVaBfRDm8RvNLCg8XZEA%3D%3D&position=17&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor",
+    "company": "BNE - Banco Nacional de Empregos",
+    "location": "Curitiba, PR",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/salesforce-engineer-at-avenue-code-3654655868?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=iGtyFMj%2F99Tp%2Fx2p671eUQ%3D%3D&position=18&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de CRO Remoto",
+    "company": "Avanti E-commerce",
+    "location": "Florianópolis e Região",
+    "date": "2023-06-22"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/especialista-em-desenvolvimento-at-camerge-3666152290?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=38QFpFAmXz2riQ5x7yTSiA%3D%3D&position=19&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Belém, PA",
+    "date": "2023-06-20"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-trabalhabrasil-3663998492?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=H0U%2FEea%2FQL%2FjGVmFwCBOVw%3D%3D&position=20&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor",
+    "company": "TrabalhaBrasil",
+    "location": "Indaiatuba, SP",
+    "date": "2023-07-05"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-sistemas-at-positiva-rh-3661072857?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=cd203H2umv%2BK9%2BUmAk2y0g%3D%3D&position=22&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados Especialista",
+    "company": "Mutant",
+    "location": "São Paulo, SP",
+    "date": "2023-06-27"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/sports-statistician-at-genius-sports-3638444287?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=wtc4mYwH0eCu%2BybuH7BC%2BQ%3D%3D&position=23&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Online Data Analyst",
+    "company": "TELUS International",
+    "location": "Goiânia, GO",
+    "date": "2023-07-07"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-at-novare-rh-%F0%9F%92%99%E2%9D%A4%EF%B8%8F-3667844666?refId=RiytgKo8NoEuzERCocKIJA%3D%3D&trackingId=DVZ3uoR0ruHBOildEH5YGg%3D%3D&position=25&pageNum=13&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Sistemas Java – Junior",
+    "company": "innolevels",
+    "location": "Curitiba, PR",
+    "date": "2023-07-14"
+  }
+]
