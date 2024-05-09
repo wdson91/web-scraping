@@ -1,0 +1,350 @@
+[
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-backoffice-do-parceiro-j%C3%BAnior-at-ifood-3921461093?position=1&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=NpXSTw5gBNd7l%2FKv25xb7A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista Backoffice do Parceiro Júnior",
+    "company": "iFood",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/jr-data-developer-brasil-at-ci-t-3921746254?position=2&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=IeiXKh6K8dB6iMuqtCmXPw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Jr Data Developer - Brasil",
+    "company": "CI&T",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-movida-aluguel-de-carros-3921740293?position=3&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=t7qGcVf2UYqQZUYfFhjFjg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE DADOS",
+    "company": "Movida Aluguel de Carros",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-python-pleno-remoto-27658-7138458-at-atl%C3%A2ntico-3921738183?position=4&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=aJIS6NrUxBbnLIAfxj8%2Bkw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Pessoa Desenvolvedora Python - Pleno (Remoto) - 27658-7138458",
+    "company": "Atlântico",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-banco-de-dados-jr-at-afinz-3921742140?position=5&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=CcH2FAH%2BPoh6O6TW3xeZZA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE BANCO DE DADOS JR",
+    "company": "Afinz",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analytics-engineer-jr-at-conta-azul-3921478363?position=6&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=UYw5QcY7frmlXReSB5tpnw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analytics Engineer Jr",
+    "company": "Conta Azul",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/trainee-em-engenharia-de-solu%C3%A7%C3%B5es-remoto-at-dadosfera-3921230769?position=7&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=dt6KRN%2B7eXivBiJGAQ2thQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Trainee em Engenharia de Soluções (Remoto)",
+    "company": "Dadosfera",
+    "location": "Belo Horizonte e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-analista-de-dados-pleno-at-zappts-3921740372?position=8&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=u4fMUTHk6VljXGkEBIUvvw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Pessoa Analista de Dados Pleno",
+    "company": "Zappts",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-unibiotrop-at-biotrop-solu%C3%A7%C3%B5es-biol%C3%B3gicas-3921484102?position=9&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=RGz8crS5UE7MlDyVeH20NQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "PROGRAMA DE ESTÁGIO - UNIBIOTROP",
+    "company": "Biotrop Soluções Biológicas",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-python-remoto-at-geekhunter-3921439357?position=10&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=eOdpYjpyFfJElLsRnQ9LCw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) Python (Remoto)",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-dasheep-intelig%C3%AAncia-3920341952?position=11&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=l2rndMOeRDEF6HHVzcGGDQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados",
+    "company": "Dasheep Inteligência",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-karhub-3919678913?position=12&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=FcNLNwkNVs6FKVmPwti5NQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Python",
+    "company": "KarHub",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-pleno-senior-at-softtek-3920345878?position=13&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=UfhOeEmO1FFDN8n%2F%2Bm7IDw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Python - Pleno/Senior",
+    "company": "Softtek",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-python-at-innolevels-3921417394?position=14&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=jcrk8aS4WiygYL3TU6NiXQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Python",
+    "company": "innolevels",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-command-center-jr-at-afinz-3921480458?position=15&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=8YIcX%2BU6iWFYdGUAOQvbZA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "ANALISTA DE COMMAND CENTER JR",
+    "company": "Afinz",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-python-at-innolevels-3921409953?position=16&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=h7774ZK2If7NAInynQViQA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Python",
+    "company": "innolevels",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-at-rilix-ltda-3920019770?position=17&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=79YLHP7EQ6BlpkhLAfwHUg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados",
+    "company": "Rilix Ltda",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-python-at-innolevels-3921408660?position=18&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=7stOpTPL6eP6id2i9udFZQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Python",
+    "company": "innolevels",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-python-developer-at-workling-3918519293?position=19&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=AY14xQthIYoF4m19txbZzQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Python Developer",
+    "company": "Workling",
+    "location": "Florianópolis, SC"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-python-developer-at-l-a-head-hunter-3921868093?position=20&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=dFNjMGU3XRwYNOYSzig%2FMQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work from Home Junior Python Developer",
+    "company": "L.A. Head Hunter",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-groovetech-3920348996?position=21&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=NdaY5m4K1Wjzyp%2BB%2F0W4cQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor python",
+    "company": "GrooveTech",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-cient%C3%ADfico-at-esss-3917567535?position=22&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=bT6RYiWRXPoI5TDlA4KkXQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Científico",
+    "company": "ESSS",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-alterix-tax-at-kpmg-brazil-3921735608?position=23&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=k5RXkkqAEMIpL2op8KqD5Q%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de dados - Alterix (Tax)",
+    "company": "KPMG Brasil",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-python-developer-at-l-a-head-hunter-3921863789?position=24&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=%2FN6rP71ozY42yfJT4SaIgA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work from Home Junior Python Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/machine-learning-engineer-at-roit-3920330876?position=25&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=c2cIKpCTc1Zgpt%2Fv62ifYw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Machine Learning Engineer",
+    "company": "ROIT",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-python-developer-at-workling-3918517355?position=26&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=a5u0QOd1g2z1y3nvxcGcSw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Python Developer",
+    "company": "Workling",
+    "location": "Natal, RN"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-python-sr-at-datum-3918514133?position=27&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=H0Jz4Z4xOBcG%2F8uUyVpBPg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Pessoa Desenvolvedora Python Sr",
+    "company": "Datum",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-python-developer-at-workling-3918521294?position=28&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=8FOMDtgNQi40J74jjzI%2FlA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Python Developer",
+    "company": "Workling",
+    "location": "Salvador, BA"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-python%C2%A0-%C2%A0react-ia-at-mutant-3921483133?position=29&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=wrfMDeiK3nFaeyK8KsFA4g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Fullstack - Python & React (IA)",
+    "company": "Mutant",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/business-growth-specialist-at-neon-3921852194?position=30&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=MMQaZLb0fphDi42nbR%2Ft7w%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Business/Growth Specialist",
+    "company": "Neon",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-at-pricefy-by-selbetti-3921775077?position=31&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=Vpj6h6IkjJgyt3vfpf1p2w%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Full Stack",
+    "company": "Pricefy by Selbetti",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenharia-cientista-de-dados-pleno-at-gupy-3921737306?position=32&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=8gs9eTQvFlm0xua2tba8vA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenharia | Cientista de Dados Pleno",
+    "company": "Gupy",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-software-full-stack-at-esss-3917572169?position=33&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=JapljmjE2mtN2cLHNUD62A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de Software (Full Stack)",
+    "company": "ESSS",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/front-end-developer-at-the-brooklyn-brothers-3918230664?position=34&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=Rg%2F7z1DuiFSPh92HOqI%2FCw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Front-End Developer",
+    "company": "The Brooklyn Brothers",
+    "location": "Florianópolis, SC"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-pleno-at-ge21-geotecnologias-3918244463?position=35&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=77Q3XGfYBSH6jLLju7MZJw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Pleno",
+    "company": "GE21 Geotecnologias",
+    "location": "Belo Horizonte, MG"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-em-pr%C3%A9-vendas-home-office-at-ikmob-marketing-digital-3921485621?position=36&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=GzV%2FQCjlh5FAx3ET69K3fg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Estagiário em Pré-Vendas | Home Office",
+    "company": "IkMob - Marketing Digital",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-da-benef%C3%ADcios-jr-at-vialaser-depila%C3%A7%C3%A3o-3921483199?position=37&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=1HOYvXZKFVoFJ%2FDyKItr%2FQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista da benefícios Jr",
+    "company": "Vialaser Depilação",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pleno-at-cadastra-3921740188?position=38&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=bhZ3Y2TJPqfAwbsGx06I%2FA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de Dados - Pleno",
+    "company": "Cadastra",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-software-python-remoto-at-intera-talent-hacking-3921886245?position=39&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=M5Fp4gMMhG4%2FW4xM3R5aMA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de Software (Python) - Remoto",
+    "company": "INTERA | Soluções de Recrutamento",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-python-developer-at-l-a-head-hunter-3921865732?position=40&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=J1aoL7C1X3rb7YUn%2B7ybHQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Python Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-grandes-opera%C3%A7%C3%B5es-at-seazone-3921738242?position=41&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=YDMfI5hPvGPuicKeufKIiw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Estagiário de Grandes Operações",
+    "company": "Seazone",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-python-developer-at-workling-3918517516?position=42&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=0eiRFXZxzoIkCodS%2Fc5r6A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Python Developer",
+    "company": "Workling",
+    "location": "Campinas, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-dados-pleno-at-trinks-com-3919751842?position=43&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=n54kp65kX5Xh5Nrdc1SCzw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Dados Pleno",
+    "company": "Trinks",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-python-rockstar-at-l-a-head-hunter-3921867755?position=44&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=FnocAa6%2FEtzkBzkYVbh22w%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Python Rockstar",
+    "company": "L.A. Head Hunter",
+    "location": "Florianópolis, SC"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/python-developer-scrapy-at-applaudo-3921463709?position=45&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=K8vIhYIfETkrAJwLo00XSA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer (Scrapy)",
+    "company": "Applaudo",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/python-developer-scrapy-at-applaudo-3921465543?position=46&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=k30XPVGP02xkceOJvGLZFg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer (Scrapy)",
+    "company": "Applaudo",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-at-cast-group-3919694080?position=47&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=StcKvOuKcFG8IO8dtG%2FTPA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor full stack",
+    "company": "Cast group",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/data-insights-visualization-pracitioner-analista-pleno-at-hays-3921452094?position=48&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=cP94uHkGMmXlnV%2Ff8QcczQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Data Insights & Visualization Pracitioner / Analista Pleno",
+    "company": "Hays",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/estat%C3%ADstico-s%C3%AAnior-at-funda%C3%A7%C3%A3o-bradesco-3921784520?position=49&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=sG%2BDV9MEgpcwGhoRBv2DKw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Estatístico Sênior",
+    "company": "Fundação Bradesco",
+    "location": "Osasco, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-social-media-at-plataforma-a%2Bd-arquitetura-e-decora%C3%A7%C3%A3o-3919733397?position=50&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=FSZsan3hvf%2Bo7YEiepPPVg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Estágio (Social Media)",
+    "company": "Plataforma A+D - Arquitetura e Decoração",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-pleno-fintools-at-oliveira-trust-3921483168?position=51&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=sAJQiw6nScR2blH0ltKEHQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) BackEnd Pleno (Fintools)",
+    "company": "Oliveira Trust",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-business-analyst-at-l-a-head-hunter-3921886352?position=52&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=vtTyBC9onoOYaXxOMHFgcg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Business Analyst",
+    "company": "L.A. Head Hunter",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-business-insights-at-skeps-3918276922?position=53&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=W5OBZnAAdOYGEfr41aMERw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Business Insights",
+    "company": "Skeps",
+    "location": "São Paulo e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/solutions-engineer-at-optibus-3920328972?position=55&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=lnOhiFZjNV2mYsveJCFSow%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Estagiário",
+    "company": "PriscilaFais Consultoria em Recursos Humanos",
+    "location": "Agudos, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-at-innolevels-3921425153?position=56&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=mwkcAxaGrFRIlnbTRQ5Qag%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Solutions Engineer",
+    "company": "Optibus",
+    "location": "São Paulo e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-front-end-vanilla-at-reclame-aqui-3921742061?position=57&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=5eY8KBRP9mArFkZmXjv%2FpA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Fullstack",
+    "company": "innolevels",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-workling-3918515877?position=58&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=ahXF%2Fp%2B%2Bw5lBa%2FOxg0uQ7w%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Front-end (Vanilla)",
+    "company": "Reclame AQUI",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-innolevels-3921418489?position=59&pageNum=0&refId=bNl9eymxg9BRvDzE%2BzqL6g%3D%3D&trackingId=8NgAcHhoEyV%2FqF1xXAzgOg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "Workling",
+    "location": "Campinas, SP"
+  }
+]

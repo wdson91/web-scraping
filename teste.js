@@ -1,9 +1,10 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
-const url =
-  "https://www.linkedin.com/jobs/search/?keywords=Desenvolvedor%20Junior%20Javascript&location=Brasil&locationId=&geoId=106057199&f_TPR=r604800&f_WT=2%2C1%2C3&position=1&pageNum=0";
-const url2 =
-  "https://www.linkedin.com/jobs/search?keywords=Industria&location=Portugal&locationId=&geoId=100364837&f_TPR=r604800&position=1&pageNum=0";
+
+const urls = ["https://www.linkedin.com/jobs/search?keywords=Python&location=Brasil&geoId=106057199&f_TPR=r86400&f_WT=2&position=1&pageNum=0",
+  "https://www.linkedin.com/jobs/search/?currentJobId=3921483168&f_AL=true&f_TPR=r86400&f_WT=2&geoId=106057199&keywords=Node&location=Brasil&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&position=1&pageNum=0"
+  
+];
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -11,25 +12,35 @@ const url2 =
     defaultViewport: null,
     args: ["--window-size=1200,800"],
   });
-  const page = await browser.newPage();
-  await page.goto(url2);
 
-  setTimeout(async () => {
-    const data = await scrapeData(page);
+  try {
+    for (let i = 0; i < urls.length; i++) {
+      const page = await browser.newPage();
+      await page.goto(urls[i]);
 
-    fs.writeFile("dados.txt", JSON.stringify(data, null, 2), (err) => {
-      if (err) throw new Error("Something went wrong");
-      console.log("Data saved to dados.txt");
-    });
-    page.close();
-  }, 5000);
+      const data = await scrapeData(page);
+
+      fs.writeFile(`dados${i}.txt`, JSON.stringify(data, null, 2), (err) => {
+        if (err) throw new Error("Something went wrong");
+        console.log(`Data saved to dados${i}.txt`);
+      });
+
+      await page.close();
+    }
+  } catch (error) {
+    console.error("An error occurred:", error);
+  } finally {
+    await browser.close();
+  }
 })();
 
 async function scrapeData(page) {
   let scrollPosition = 0;
-  let documentHeight = await page.evaluate(
-    () => document.body.scrollHeight - 500
-  );
+  
+  await new Promise(resolve => setTimeout(resolve, 3000)); // Sleep por 3 segundos (3000 milissegundos)
+  let documentHeight = await page.evaluate(() => {
+      return document.body.scrollHeight - 500;
+  });
 
   while (documentHeight > scrollPosition) {
     const button = await page.$(
