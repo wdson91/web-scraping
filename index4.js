@@ -10,11 +10,6 @@ const fs = require("fs");
   const page = await browser.newPage();
   await page.goto("https://www.linkedin.com/login/pt");
 
-  await page.waitForSelector("#username");
-  await page.type("#username", "wdson.dev@gmail.com");
-
-  await page.waitForSelector("#password");
-  await page.type("#password", "iphone8@P");
 
   setTimeout(async () => {
     await Promise.all([
