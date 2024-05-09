@@ -92,3 +92,4 @@ async function scrapeData(page) {
 
   return data;
 }
+

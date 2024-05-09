@@ -6,6 +6,7 @@ const urls = ["https://www.linkedin.com/jobs/search?keywords=Python&location=Bra
   
 ];
 
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: false,
@@ -20,7 +21,11 @@ const urls = ["https://www.linkedin.com/jobs/search?keywords=Python&location=Bra
 
       const data = await scrapeData(page);
 
-      fs.writeFile(`dados${i}.txt`, JSON.stringify(data, null, 2), (err) => {
+      
+      const urlParams = new URL(urls[i]);
+      const keywords = urlParams.searchParams.get('keywords');
+
+      fs.writeFile(`vagas_${keywords}_ultimas_24Horas.txt`, JSON.stringify(data, null, 2), (err) => {
         if (err) throw new Error("Something went wrong");
         console.log(`Data saved to dados${i}.txt`);
       });

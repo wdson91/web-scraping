@@ -1,0 +1,356 @@
+[
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-node-js-at-fuston-services-3921053903?position=1&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=6OBCrsZkTzEDjrzid2cGQw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Node.JS",
+    "company": "Fuston Services",
+    "location": "Agudos, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-pleno-fintools-at-oliveira-trust-3921483168?position=2&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=OqHO%2BV%2BXCSpsc9O9plgtmA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) BackEnd Pleno (Fintools)",
+    "company": "Oliveira Trust",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-pleno-at-ge21-geotecnologias-3918244463?position=3&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=Dwk6rVo4tUTbHKn4VS%2F3ag%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Pleno",
+    "company": "GE21 Geotecnologias",
+    "location": "Belo Horizonte, MG"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-node-js-pleno-at-funcional-health-tech-3921479324?position=4&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=QKVlYpuwzxcOfvbby1eMyw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "PESSOA DESENVOLVEDORA NODE.JS - PLENO",
+    "company": "Funcional Health Tech",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-node-s%C3%AAnior-at-clearsale-3921738290?position=5&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=5uswX7Uz2Naan5dhwukhZQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "PESSOA DESENVOLVEDORA NODE SÊNIOR",
+    "company": "ClearSale",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-backend-nodejs-s%C3%AAnior-at-meta-3918244847?position=6&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=8GyBwuQYVPjYi2wi%2FpJIEQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor BackEnd (NodeJs) Sênior",
+    "company": "Meta",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/front-end-developer-at-the-brooklyn-brothers-3918230664?position=7&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=5Pl6MlzBzHgcr8WC27QHZg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Front-End Developer",
+    "company": "The Brooklyn Brothers",
+    "location": "Florianópolis, SC"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-front-end-vanilla-at-reclame-aqui-3921742061?position=8&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=AzMjQZ5PIg1LbrBw2LKOfw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Front-end (Vanilla)",
+    "company": "Reclame AQUI",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/suporte-t%C3%A9cnico-j%C3%BAnior-at-nemu-3920340746?position=9&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=yKYrvCb56w8OQjnLN%2BbzRw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Suporte Técnico Júnior",
+    "company": "Nemu",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-ti-at-toli-distribuidora-3918529037?position=10&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=dZlgtY7ZLoDlIeBr5tnA1g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor de ti",
+    "company": "Toli Distribuidora",
+    "location": "Serafina Corrêa, RS"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-node-developer-at-workling-3918518250?position=11&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=wXhwJfSSrbVMXl3OPD3xog%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Node Developer",
+    "company": "Workling",
+    "location": "Brasília, DF"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/full-stack-node-engineer-work-from-home-at-nearsure-3920044950?position=12&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=4wbRWLfHiSGSYPJBaSXhuQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Full Stack Node Engineer - Work from home",
+    "company": "Nearsure",
+    "location": "São Paulo e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-at-cast-group-3919694080?position=13&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=G5ykbey%2BrUi6D%2FsUazdXIA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor full stack",
+    "company": "Cast group",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-node-developer-at-workling-3918517306?position=14&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=9Wjnh8rpNUp0KESMnzGZmg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Node Developer",
+    "company": "Workling",
+    "location": "Goiana, PE"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/mid-level-fullstack-node-react-developer-brasil-at-ci-t-3921749143?position=15&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=%2BiSMbBoPpAJfQiiiYrZcrA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Mid-Level FullStack (Node/React) Developer - Brasil",
+    "company": "CI&T",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-node-developer-at-workling-3918520214?position=16&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=d81DHVndJGOExRv3YxeIig%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Node Developer",
+    "company": "Workling",
+    "location": "Campo Grande, MS"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-pleno-at-rhtalentos-tec-3920338973?position=17&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=I6GivyO%2BrSZT2b9ajiD4kA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end Pleno",
+    "company": "RHTalentos.tec",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-node-developer-at-workling-3918519264?position=18&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=HuEKZcbMx7UPn7saMWrYhQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior Node Developer",
+    "company": "Workling",
+    "location": "Manaus, AM"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-at-coodesh-3921871898?position=19&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=ZuUs4Cn67u4TZYN2isvubg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor full stack",
+    "company": "Coodesh",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-workling-3918515877?position=20&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=jkXRkpsJQ2Sk044G8G93QQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "Workling",
+    "location": "Campinas, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-backend-node-js-java-especialista-iii-lojas-e-franquias-at-grupo-botic%C3%A1rio-3917561488?position=21&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=rz%2BzvCsX0jXmYn7eBTbHiw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Pessoa Desenvolvedora Backend Node.js/Java Especialista III (Lojas e Franquias)",
+    "company": "Grupo Boticário",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/dev-fullstack-sr-100%25-remoto-at-runtalent-3921233805?position=22&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=KRtTsw71oVjHmtLbW6SI0Q%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Dev Fullstack Sr - 100% Remoto",
+    "company": "Runtalent",
+    "location": "Distrito Federal, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-workling-3918517047?position=23&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=CXbym1F0AHO%2BZpBO%2Bu35yQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "Workling",
+    "location": "Goiana, PE"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/full-stack-node-engineer-work-from-home-at-nearsure-3920045824?position=24&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=xYD3tbiFFin5mT0uUxkeqg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Full Stack Node Engineer - Work from home",
+    "company": "Nearsure",
+    "location": "Belo Horizonte e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-golang-at-reclame-aqui-3921735533?position=25&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=4ehxee9em8xYoLLYEH5PFA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Back-end (Golang)",
+    "company": "Reclame AQUI",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-workling-3918516803?position=26&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=ivgFDx9o6k3AzWxgc8JZ4A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "Workling",
+    "location": "Porto Alegre, RS"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-full-stack-node-js-at-geekhunter-3921443219?position=27&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=ciD1ID2Jq8gG9wL0LYZASQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) Full-stack Node.js",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-s%C3%AAnior-at-ctc-3921255506?position=28&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=%2F6HC22z08eZVVarhw9%2FYDA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Full Stack Sênior",
+    "company": "CTC",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-workling-3918513989?position=29&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=2QYSA9TVDMHWr6q7KIVmxA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "Workling",
+    "location": "Manaus, AM"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-front-end-angular-at-innolevels-3921413495?position=30&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=BCgiJilziejIvlfKFPQP8g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Front-end Angular",
+    "company": "innolevels",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-l-a-head-hunter-3921858602?position=31&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=z76t5doTsd69zIH133j%2Feg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "L.A. Head Hunter",
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/full-stack-typescript-engineer-work-from-home-at-nearsure-3920052175?position=32&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=gd5JMJeMbLKuHEuhkSFYeA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Full Stack TypeScript Engineer - Work from home",
+    "company": "Nearsure",
+    "location": "Brasília e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-l-a-head-hunter-3921862325?position=33&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=2FP5tj4UlIoTQ4KopxIIDw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-software-node-%2B-python-sr-at-nexmuv-tecnologia-3919740766?position=34&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=4NCedij0sugNHDoeVUh4Lg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenheiro de software ( node + python) SR",
+    "company": "Nexmuv Tecnologia",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-node-developer-at-l-a-head-hunter-3921860930?position=35&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=xntMGR%2B1%2BRkYafUKEzD%2B9A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Node Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Guarulhos, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/software-engineer-ii-frontend-at-isaac-3919711408?position=36&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=oCaXdy4QnrvovHH0mIdc0w%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Software Engineer II - Frontend",
+    "company": "isaac",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-node-developer-at-l-a-head-hunter-3921866118?position=37&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=hrZSkHK3QXQvtlCnQEkS4Q%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Node Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Campinas, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/analista-de-infraestrutura-devops-sr-at-mirante-tecnologia-3919728351?position=38&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=wAtt%2BMplFRuVMBmfYHMLxQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Analista de Infraestrutura/Devops Sr",
+    "company": "Mirante Tecnologia",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-junior-vaga-afirmativa-pcd-remoto-at-zenvia-3920359091?position=39&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=5z%2F3D3V4EB80EY%2FqkVnbMQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) Backend Junior | Vaga Afirmativa PcD (Remoto)",
+    "company": "ZENVIA",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenharia-full-stack-pleno-afirmativa-para-mulheres-e-pessoas-n%C3%A3o-bin%C3%A1rias-at-gupy-3921865447?position=40&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=srdnLtvJKUAr7dkYnelTrw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenharia | Full Stack Pleno | Afirmativa para mulheres e pessoas não binárias",
+    "company": "Gupy",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-node-developer-at-l-a-head-hunter-3921866172?position=41&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=MFCinRzI8AIHj8nnkEe9GA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Node Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Rio de Janeiro, RJ"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-junior-react-developer-at-l-a-head-hunter-3921861345?position=42&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=aj89iP5jOVsVGo7qsoVObg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Junior React Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Salvador, BA"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/full-stack-java-engineer-work-from-home-at-nearsure-3920044933?position=43&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=dUprs4WkHFWSVVbq0u6NIg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Full Stack Java Engineer - Work from home",
+    "company": "Nearsure",
+    "location": "São Paulo e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-frontend-react-s%C3%AAnior-at-deliver-it-servi%C3%A7os-de-tecnologia-3921480262?position=44&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=b%2F7FvDtvD15EKViHvcSyiA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor Frontend React Sênior",
+    "company": "Deliver IT Serviços de Tecnologia",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/php-back-end-developer-sr-belgrano-remoto-100-at-educacionit-3921239940?position=45&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=8WS4zMsbe5HU%2Blp96UW%2FDg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "PHP Back end developer SR Belgrano Remoto 100",
+    "company": "EducacionIT",
+    "location": "Retiro, BA"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-frontend-developer-at-l-a-head-hunter-3921894283?position=47&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=WgGfEWsjnWouZeVwnT0REA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "NodeJS, ReactJS Front End Developer (with some Python Back End experience)",
+    "company": "SkillHunter International",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/fullstack-developer-jr-net-c%23-374879-remote-at-trinks-com-3920030385?position=48&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=MeVbEvAEyc8imIGo30oyDQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home Frontend Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/back-end-software-engineer-at-questrade-financial-group-3920313016?position=49&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=xbHTHTDjqjjzR7roJ4ExcA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Fullstack Developer JR .Net C# (374879) - REMOTE",
+    "company": "Trinks",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-groovetech-3920348996?position=50&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=4jSMpX33hoc4cd3yjmE6xA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Back-End Software Engineer",
+    "company": "Questrade Financial Group",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/fullstack-sr-restapi-e-react-angular-vue-at-runtalent-3918226735?position=51&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=daMF8NZte4jqrvORk2gEcw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor python",
+    "company": "GrooveTech",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-back-end-pleno-a-s%C3%AAnior-node-js-remoto-at-geekhunter-3921438487?position=52&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=hd60V%2Bugo%2BzhHymWWl8bQA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Fullstack SR (RestApi e React / Angular / Vue)",
+    "company": "Runtalent",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/back-end-developer-pleno-a-s%C3%AAnior-node-js-remoto-at-geekhunter-3921444090?position=53&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=C0MRrE3HW56CsAmhgwisBA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Desenvolvedor(a) Back-end Pleno a Sênior Node.js (Remoto)",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/engenharia-full-stack-senior-afirmativa-para-mulheres-e-pessoas-n%C3%A3o-bin%C3%A1rias-at-gupy-3921866405?position=54&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=ah3xoriB5lj2%2B6Z1zzKcsA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Back-end Developer Pleno a Sênior Node.js (Remoto)",
+    "company": "GeekHunter",
+    "location": "Rio de Janeiro, RJ"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/rust-engineer-high-frequency-trading-hft-at-keyrock-3921801206?position=55&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=4Hg06cOH5BDntQkOJlRVPw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Engenharia | Full Stack Senior | Afirmativa para Mulheres e Pessoas Não-Binárias",
+    "company": "Gupy",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/rust-engineer-high-frequency-trading-hft-at-keyrock-3921801205?position=56&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=PL3daEWdaBTwpnTPygdzYw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Rust Engineer - High Frequency Trading (HFT)",
+    "company": "Keyrock",
+    "location": "São Paulo e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/work-from-home-react-developer-at-l-a-head-hunter-3921856998?position=57&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=PkIEVXe%2BuquZnaygCxInQQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Rust Engineer - High Frequency Trading (HFT)",
+    "company": "Keyrock",
+    "location": "Rio de Janeiro e Região"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/react-native-developer-at-avenue-code-3921458037?position=58&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=2rAInP75W7e3tY6LxYTHuA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Work From Home React Developer",
+    "company": "L.A. Head Hunter",
+    "location": "Campinas, SP"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/full-stack-developer-at-geekhunter-3921440336?position=59&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=xBtDc4DRFfVyDgKWHJLJaQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "React Native Developer",
+    "company": "Avenue Code",
+    "location": "Brasil"
+  },
+  {
+    "link": "https://br.linkedin.com/jobs/view/senior-software-engineer-at-publicsquare-3827948993?position=60&pageNum=0&refId=MgA%2BFurk8f773dLvu8g6Zw%3D%3D&trackingId=MXemkbqDZn6ApxqHic8V7A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "title": "Full-stack Developer",
+    "company": "GeekHunter",
+    "location": "São Paulo, SP"
+  }
+]
